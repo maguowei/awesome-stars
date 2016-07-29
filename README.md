@@ -11,6 +11,7 @@
     - [C++](#c++)
     - [CSS](#css)
     - [CoffeeScript](#coffeescript)
+    - [Erlang](#erlang)
     - [Go](#go)
     - [HTML](#html)
     - [Haskell](#haskell)
@@ -22,6 +23,7 @@
     - [Python](#python)
     - [Racket](#racket)
     - [Ruby](#ruby)
+    - [Scala](#scala)
     - [Shell](#shell)
     - [Swift](#swift)
     - [TypeScript](#typescript)
@@ -45,6 +47,8 @@
 
 ## C++
 
+* [mesos](https://github.com/apache/mesos) - Mirror of Apache Mesos
+* [scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 * [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform GUI management tool for Redis
 * [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
 * [rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
@@ -76,9 +80,16 @@
 * [atom](https://github.com/atom/atom) - The hackable text editor
 * [butterfly](https://github.com/paradoxxxzero/butterfly) - A web terminal based on websocket and tornado
 
+## Erlang
+
+* [rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source multi-protocol messaging broker
+
 ## Go
 
-* [orgalorg](https://github.com/reconquest/orgalorg) - Parallel SSH commands executioner and file synchronization tool
+* [flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service (PaaS)
+* [vitess](https://github.com/youtube/vitess) - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
+* [manul](https://github.com/kovetskiy/manul) - :smirk_cat: The madness vendoring utility for Golang programs
+* [minio](https://github.com/minio/minio) - Minio is an object storage server compatible with Amazon S3 and licensed under Apache 2.0 License
 * [tile38](https://github.com/tidwall/tile38) - Tile38 is a geolocation data store, spatial index, and realtime geofence. It supports a variety of object types including lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON.
 * [buntdb](https://github.com/tidwall/buntdb) - BuntDB is a fast, embeddable, in-memory key/value database for Go with geospatial support
 * [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -119,7 +130,6 @@
 
 ## HTML
 
-* [skill-map](https://github.com/TeamStuQ/skill-map) - StuQ 技能图谱
 * [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
 * [spectre](https://github.com/picturepan2/spectre) - Spectre.css - a lightweight, responsive and modern CSS framework.
 * [grd](https://github.com/1000ch/grd) - A CSS grid framework using Flexbox. Only 512 bytes (Gzipped).
@@ -133,11 +143,14 @@
 
 ## Java
 
+* [cassandra](https://github.com/apache/cassandra) - Mirror of Apache Cassandra
+* [zeppelin](https://github.com/apache/zeppelin) - Mirror of Apache Zeppelin
 * [heron](https://github.com/twitter/heron) - Heron is a realtime, distributed, fault-tolerant stream processing engine from Twitter
 * [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
 
 ## JavaScript
 
+* [docker-compose-ui](https://github.com/francescou/docker-compose-ui) - web interface for Docker Compose
 * [uppy](https://github.com/transloadit/uppy) - :dog: The next open source file uploader for web browsers — a work in progress
 * [laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 * [flatpickr](https://github.com/chmln/flatpickr) - lightweight, powerful datetimepicker. zero dependencies
@@ -184,10 +197,11 @@
 
 ## Others
 
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
 * [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 * [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 💨 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 * [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
@@ -201,6 +215,14 @@
 
 ## Python
 
+* [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+* [scipy-lecture-notes](https://github.com/scipy-lectures/scipy-lecture-notes) - Tutorial material on the scientific Python ecosystem
+* [spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
+* [deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules.
+* [appscale](https://github.com/AppScale/appscale) - The Open Source Implementation of Google App Engine -- Take your apps everywhere.
+* [spitfire](https://github.com/youtube/spitfire) - A high-performance Python template language
+* [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/
+* [sandman2](https://github.com/jeffknupp/sandman2) - sandman2
 * [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
 * [pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
 * [riko](https://github.com/nerevu/riko) - A python stream processing engine modeled after Yahoo! Pipes
@@ -291,7 +313,7 @@
 * [jinja](https://github.com/pallets/jinja) - The Jinja2 template engine
 * [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 * [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
-* [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
+* [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
 * [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 * [paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
 * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -325,8 +347,13 @@
 * [logstash](https://github.com/elastic/logstash) - logstash - transport and process your logs, events, or other data
 * [gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab is version control for your server | Please open issues in our issue tracker on GitLab.com
 
+## Scala
+
+* [spark](https://github.com/apache/spark) - Mirror of Apache Spark
+
 ## Shell
 
+* [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 * [official-images](https://github.com/docker-library/official-images) - Docker Official Images
 * [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -344,7 +371,7 @@
 * [vapor](https://github.com/qutheory/vapor) - A web framework and server for Swift that works on macOS and Ubuntu.
 * [iOS9-day-by-day](https://github.com/shinobicontrols/iOS9-day-by-day) - Selection of projects accompanying the iOS9 Day-by-Day blog series.
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
-* [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
+* [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [folding-cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material
 * [HackingWithSwift](https://github.com/twostraws/HackingWithSwift) - The project source code for hackingwithswift.com
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
