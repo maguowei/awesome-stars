@@ -17,6 +17,7 @@
     - [Haskell](#haskell)
     - [Java](#java)
     - [JavaScript](#javascript)
+    - [Jupyter Notebook](#jupyter notebook)
     - [Nginx](#nginx)
     - [Objective-C](#objective-c)
     - [Others](#others)
@@ -47,7 +48,6 @@
 
 ## C++
 
-* [mesos](https://github.com/apache/mesos) - Mirror of Apache Mesos
 * [scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 * [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform GUI management tool for Redis
 * [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
@@ -77,8 +77,8 @@
 
 ## CoffeeScript
 
-* [atom](https://github.com/atom/atom) - The hackable text editor
 * [butterfly](https://github.com/paradoxxxzero/butterfly) - A web terminal based on websocket and tornado
+* [atom](https://github.com/atom/atom) - The hackable text editor
 
 ## Erlang
 
@@ -86,6 +86,8 @@
 
 ## Go
 
+* [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
+* [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 * [flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service (PaaS)
 * [vitess](https://github.com/youtube/vitess) - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
 * [manul](https://github.com/kovetskiy/manul) - :smirk_cat: The madness vendoring utility for Golang programs
@@ -100,7 +102,7 @@
 * [govendor](https://github.com/kardianos/govendor) - Go vendor tool that works with the standard vendor file.
 * [qb](https://github.com/aacanakin/qb) - The database toolkit for go
 * [torus](https://github.com/coreos/torus) - Torus Distributed Storage
-* [hydra](https://github.com/ory-am/hydra) - Run your own cloud native low-latency high troughput OAuth2 and OpenID Connect provider. Written in Google Go.
+* [hydra](https://github.com/ory-am/hydra) - Run your very own api-only cloud native OAuth2 and OpenID Connect provider within minutes. Integrates with existing authentication mechanisms. Written in Google Go.
 * [traefik](https://github.com/containous/traefik) - Træfɪk, a modern reverse proxy
 * [gor](https://github.com/buger/gor) - Gor is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 * [kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -130,6 +132,7 @@
 
 ## HTML
 
+* [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 * [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
 * [spectre](https://github.com/picturepan2/spectre) - Spectre.css - a lightweight, responsive and modern CSS framework.
 * [grd](https://github.com/1000ch/grd) - A CSS grid framework using Flexbox. Only 512 bytes (Gzipped).
@@ -150,6 +153,7 @@
 
 ## JavaScript
 
+* [elasticsearch-head](https://github.com/mobz/elasticsearch-head) - A web front end for an elastic search cluster
 * [docker-compose-ui](https://github.com/francescou/docker-compose-ui) - web interface for Docker Compose
 * [uppy](https://github.com/transloadit/uppy) - :dog: The next open source file uploader for web browsers — a work in progress
 * [laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
@@ -187,6 +191,10 @@
 * [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 * [samples](https://github.com/webrtc/samples) - WebRTC demos and samples
 
+## Jupyter Notebook
+
+* [docker-stacks](https://github.com/jupyter/docker-stacks) - Opinionated stacks of ready-to-run Jupyter applications in Docker.
+
 ## Nginx
 
 * [nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate) - Awesome Nginx configuration template
@@ -197,7 +205,6 @@
 
 ## Others
 
-* [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
 * [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 * [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
@@ -215,6 +222,13 @@
 
 ## Python
 
+* [ptyprocess](https://github.com/pexpect/ptyprocess) - Run a subprocess in a pseudo terminal
+* [kombu](https://github.com/celery/kombu) - Messaging library for Python.
+* [jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
+* [Rev](https://github.com/jtauber/Rev) - an implementation of Git-like ideas in Python
+* [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase Automation Platform
+* [warehouse](https://github.com/pypa/warehouse) - Next Generation Python Package Repository
+* [terminado](https://github.com/takluyver/terminado) - Terminals served by tornado websockets
 * [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 * [scipy-lecture-notes](https://github.com/scipy-lectures/scipy-lecture-notes) - Tutorial material on the scientific Python ecosystem
 * [spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
@@ -353,6 +367,7 @@
 
 ## Shell
 
+* [docker-spark](https://github.com/mattf/docker-spark) - 
 * [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 * [official-images](https://github.com/docker-library/official-images) - Docker Official Images
 * [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
