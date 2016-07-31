@@ -77,7 +77,6 @@
 
 ## CoffeeScript
 
-* [butterfly](https://github.com/paradoxxxzero/butterfly) - A web terminal based on websocket and tornado
 * [atom](https://github.com/atom/atom) - The hackable text editor
 
 ## Erlang
@@ -222,14 +221,9 @@
 
 ## Python
 
-* [ptyprocess](https://github.com/pexpect/ptyprocess) - Run a subprocess in a pseudo terminal
-* [kombu](https://github.com/celery/kombu) - Messaging library for Python.
 * [jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
-* [Rev](https://github.com/jtauber/Rev) - an implementation of Git-like ideas in Python
 * [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase Automation Platform
 * [warehouse](https://github.com/pypa/warehouse) - Next Generation Python Package Repository
-* [terminado](https://github.com/takluyver/terminado) - Terminals served by tornado websockets
-* [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 * [scipy-lecture-notes](https://github.com/scipy-lectures/scipy-lecture-notes) - Tutorial material on the scientific Python ecosystem
 * [spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 * [deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules.
@@ -367,7 +361,6 @@
 
 ## Shell
 
-* [docker-spark](https://github.com/mattf/docker-spark) - 
 * [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 * [official-images](https://github.com/docker-library/official-images) - Docker Official Images
 * [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
