@@ -9,6 +9,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [Clojure](#clojure)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Go](#go)
@@ -89,6 +90,10 @@
 - [weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
+## Clojure 
+
+- [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+
 ## Dart 
 
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -105,6 +110,9 @@
 
 ## Go 
 
+- [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
+- [shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
+- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - high-performance, cost-effective and scalable time series database, long-term remote storage for Prometheus
 - [kudo](https://github.com/kudobuilder/kudo) - Kubernetes Universal Declarative Operator (KUDO)
@@ -170,7 +178,7 @@
 - [krew](https://github.com/kubernetes-sigs/krew) - 📦 Package manager for kubectl plugins
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [micro](https://github.com/micro/micro) - A runtime for micro services
+- [micro](https://github.com/micro/micro) - A microservice development runtime
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
@@ -347,6 +355,7 @@
 
 ## Java 
 
+- [nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 - [beam](https://github.com/apache/beam) - Apache Beam
 - [DoraemonKit](https://github.com/didi/DoraemonKit) - 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。
@@ -433,7 +442,6 @@
 - [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way  to validate data in Javascript.
 - [g2](https://github.com/antvis/g2) - The Grammar of Graphics in JavaScript
 - [workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
-- [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
@@ -498,6 +506,7 @@
 
 ## Kotlin 
 
+- [android-showcase](https://github.com/igorwojda/android-showcase) - 💎Android application following best practices:  Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
 
 ## Lua 
@@ -587,6 +596,10 @@
 
 ## Python 
 
+- [graphene-sqlalchemy](https://github.com/graphql-python/graphene-sqlalchemy) - Graphene SQLAlchemy integration
+- [pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+- [kopf](https://github.com/zalando-incubator/kopf) - A Python framework to write Kubernetes operators in just few lines of code.
+- [numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 - [AndroidNativeEmu](https://github.com/AeonLucid/AndroidNativeEmu) - Allows you to partly emulate an Android native library.
 - [mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
@@ -611,7 +624,7 @@
 - [xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
 - [nmt](https://github.com/tensorflow/nmt) - TensorFlow Neural Machine Translation Tutorial
 - [dlrm](https://github.com/facebookresearch/dlrm) - An implementation of a deep learning recommendation model (DLRM)
-- [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) - DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, DCGAN, and VAE models (TensorFlow2 implementation). DeepNude的算法以及通用图像生成的理论与实践研究。
+- [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) - DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, and VAE models (TensorFlow2 implementation). DeepNude的算法以及通用图像生成的理论与实践研究。
 - [open-deepnude](https://github.com/open-deepnude/open-deepnude) - Open source reverse-engineered clone of DeepNude
 - [deepnude_official](https://github.com/open-deepnude/deepnude_official) - 
 - [pylibra](https://github.com/bandprotocol/pylibra) - A Python client for Libra network
@@ -1001,6 +1014,7 @@
 
 ## TypeScript 
 
+- [toolkit](https://github.com/actions/toolkit) - A toolkit for developing GitHub Actions.
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Bring your own cloud or hardware.
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [ant-design-dark-theme](https://github.com/ant-design/ant-design-dark-theme) - 🌚 Dark theme variables of Ant Design
@@ -1018,6 +1032,7 @@
 - [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create placeholder loadings (like Facebook cards loading)
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
