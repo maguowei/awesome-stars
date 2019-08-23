@@ -60,6 +60,7 @@
 
 ## C++ 
 
+- [nebula](https://github.com/vesoft-inc/nebula) - A high performance distributed Graph Database
 - [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
 - [falco](https://github.com/falcosecurity/falco) - Falco: Container Native Runtime Security
@@ -96,6 +97,7 @@
 
 ## Dart 
 
+- [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Examples of using, and testbed for, the in-development Flutter for Desktop
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [V2LF](https://github.com/w4mxl/V2LF) - The v2ex client write in flutter.
 - [flutter_web](https://github.com/flutter/flutter_web) - Bring your Flutter code to web browsers
@@ -110,6 +112,7 @@
 
 ## Go 
 
+- [kf](https://github.com/google/kf) - Feels like Cloud Foundry. Runs on Kubernetes. Powered by Knative and Istio.
 - [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
 - [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
@@ -166,7 +169,6 @@
 - [crossplane](https://github.com/crossplaneio/crossplane) - An Open Source Multicloud Control Plane
 - [go-git](https://github.com/src-d/go-git) - A highly extensible Git implementation in pure Go.
 - [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
-- [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [contour](https://github.com/heptio/contour) - Contour is a Kubernetes ingress controller using Lyft's Envoy proxy.
 - [xuperunion](https://github.com/xuperchain/xuperunion) - A highly flexible blockchain architecture with great transaction performance.
 - [gortcd](https://github.com/gortc/gortcd) - Fast TURN and STUN server: cross-platform, hot reload, flexible config
@@ -198,7 +200,6 @@
 - [LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go) - :mortar_board: Go Solution for LeetCode algorithm problems, 100% coverage, continually updating.
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
-- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘客户端 - Go语言编写
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [k3os](https://github.com/rancher/k3os) - Purpose built OS for Kubernetes, fully managed by Kubernetes.
 - [go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
@@ -526,6 +527,7 @@
 
 ## Objective-C 
 
+- [idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
 - [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [realm-cocoa](https://github.com/realm/realm-cocoa) - Realm is a mobile database: a replacement for Core Data & SQLite
 
@@ -596,6 +598,7 @@
 
 ## Python 
 
+- [pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
 - [graphene-sqlalchemy](https://github.com/graphql-python/graphene-sqlalchemy) - Graphene SQLAlchemy integration
 - [pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [kopf](https://github.com/zalando-incubator/kopf) - A Python framework to write Kubernetes operators in just few lines of code.
