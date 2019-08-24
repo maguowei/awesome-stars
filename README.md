@@ -60,6 +60,7 @@
 
 ## C++ 
 
+- [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Examples of using, and testbed for, the in-development Flutter for Desktop
 - [nebula](https://github.com/vesoft-inc/nebula) - A high performance distributed Graph Database
 - [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
@@ -97,7 +98,6 @@
 
 ## Dart 
 
-- [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Examples of using, and testbed for, the in-development Flutter for Desktop
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [V2LF](https://github.com/w4mxl/V2LF) - The v2ex client write in flutter.
 - [flutter_web](https://github.com/flutter/flutter_web) - Bring your Flutter code to web browsers
@@ -379,6 +379,8 @@
 
 ## JavaScript 
 
+- [appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
+- [k8s-actions](https://github.com/Azure/k8s-actions) - Enable GitHub developers to deploy to Azure Kubernetes service using GitHub Actions
 - [release-drafter](https://github.com/toolmantim/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
@@ -434,7 +436,6 @@
 - [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - A Wysiwyg editor build on top of ReactJS and DraftJS. https://jpuri.github.io/react-draft-wysiwyg
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
-- [stf](https://github.com/openstf/stf) - Control and manage Android devices from your browser.
 - [swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
@@ -603,7 +604,6 @@
 - [pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [kopf](https://github.com/zalando-incubator/kopf) - A Python framework to write Kubernetes operators in just few lines of code.
 - [numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
-- [AndroidNativeEmu](https://github.com/AeonLucid/AndroidNativeEmu) - Allows you to partly emulate an Android native library.
 - [mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 - [opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
@@ -635,7 +635,7 @@
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
-- [byteps](https://github.com/bytedance/byteps) - A high performance and general PS framework for distributed training
+- [byteps](https://github.com/bytedance/byteps) - A high performance and general framework for distributed training
 - [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
 - [aswan](https://github.com/momosecurity/aswan) - 陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
 - [sanic](https://github.com/huge-success/sanic) - Async Python 3.6+ web server/framework | Build fast. Run fast.
@@ -1017,6 +1017,7 @@
 
 ## TypeScript 
 
+- [WebTemplateStudio](https://github.com/microsoft/WebTemplateStudio) - Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices
 - [toolkit](https://github.com/actions/toolkit) - A toolkit for developing GitHub Actions.
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Bring your own cloud or hardware.
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
