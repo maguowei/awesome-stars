@@ -471,7 +471,7 @@
 - [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
-- [slate](https://github.com/lord/slate) - Beautiful static documentation for your API
+- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
@@ -599,6 +599,7 @@
 
 ## Python 
 
+- [starthinker](https://github.com/google/starthinker) - Framework for building data workflows provided by Google.
 - [pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
 - [graphene-sqlalchemy](https://github.com/graphql-python/graphene-sqlalchemy) - Graphene SQLAlchemy integration
 - [pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
@@ -718,7 +719,7 @@
 - [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [python-parallel-programming-cookbook-cn](https://github.com/laixintao/python-parallel-programming-cookbook-cn) - 📖《Python Parallel Programming Cookbook》中文版
 - [wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
-- [proxy.py](https://github.com/abhinavsingh/proxy.py) - Lightweight HTTP, HTTPS, HTTP2, WebSockets Proxy Server in a single Python file
+- [proxy.py](https://github.com/abhinavsingh/proxy.py) - Lightweight Programmable HTTP, HTTPS, HTTP2, WebSockets Proxy Server in a single Python file
 - [responder](https://github.com/taoufik07/responder) - A familiar HTTP Service Framework for Python.
 - [python-nubia](https://github.com/facebookincubator/python-nubia) - A command-line and interactive shell framework.
 - [apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
@@ -893,6 +894,7 @@
 
 ## Shell 
 
+- [macOSntfs](https://github.com/Sihan001/macOSntfs) - bash script ntfs rw for macOS
 - [core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [container-service-for-azure-china](https://github.com/Azure/container-service-for-azure-china) - Container Service for Azure China
 - [nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
@@ -1017,8 +1019,9 @@
 
 ## TypeScript 
 
+- [stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
 - [WebTemplateStudio](https://github.com/microsoft/WebTemplateStudio) - Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices
-- [toolkit](https://github.com/actions/toolkit) - A toolkit for developing GitHub Actions.
+- [toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Bring your own cloud or hardware.
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [ant-design-dark-theme](https://github.com/ant-design/ant-design-dark-theme) - 🌚 Dark theme variables of Ant Design
@@ -1050,7 +1053,7 @@
 
 ## Vue 
 
-- [crawlab](https://github.com/tikazyq/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 - [lyanna](https://github.com/dongweiming/lyanna) - My Blog Using Sanic
 
 
