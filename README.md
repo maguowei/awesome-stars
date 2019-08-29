@@ -10,6 +10,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
+  - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Go](#go)
@@ -96,6 +97,10 @@
 
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 
+## CoffeeScript 
+
+- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+
 ## Dart 
 
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -112,6 +117,12 @@
 
 ## Go 
 
+- [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+- [douyin](https://github.com/cnbattle/douyin) - 抖音推荐列表视频爬虫方案,基于app(虚拟机或真机) 相关技术 golang adb nodejs anyproxy
+- [lute](https://github.com/b3log/lute) - 🎼 一款结构化的 Markdown 引擎。
+- [sqltop](https://github.com/ngaut/sqltop) - A linux top like tool for database
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guides, with heavily documented code and programs analysis all in 1 place
+- [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
 - [cloud-run-button](https://github.com/GoogleCloudPlatform/cloud-run-button) - Let anyone deploy your GitHub repos to Google Cloud Run with a single click
 - [github-actions-badge](https://github.com/Atrox/github-actions-badge) - :shield: Shields.io Badge for your GitHub Actions
 - [kf](https://github.com/google/kf) - Feels like Cloud Foundry. Runs on Kubernetes. Powered by Knative and Istio.
@@ -341,6 +352,10 @@
 
 ## HTML 
 
+- [calc4b-zh](https://github.com/apachecn/calc4b-zh) - :book: [译] MIT 18.03 面向初学者的微积分
+- [uiuc-cs241-notes-zh](https://github.com/apachecn/uiuc-cs241-notes-zh) - 
+- [cython-doc-zh](https://github.com/apachecn/cython-doc-zh) - Cython 3.0 中文文档
+- [scrapy-doc-zh](https://github.com/apachecn/scrapy-doc-zh) - Scrapy 1.6 文档
 - [training-kit](https://github.com/github/training-kit) - Open source cheat sheets for Git and GitHub
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
 - [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
@@ -382,8 +397,12 @@
 
 ## JavaScript 
 
+- [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [appium-ios-simulator](https://github.com/appium/appium-ios-simulator) - Module for interacting with iOS simulators (mainly directory-specific manipulations)
+- [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [westore](https://github.com/Tencent/westore) - 微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发
 - [appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
-- [k8s-actions](https://github.com/Azure/k8s-actions) - Enable GitHub developers to deploy to Azure Kubernetes service using GitHub Actions
+- [k8s-actions](https://github.com/Azure/k8s-actions) - Enable GitHub developers to deploy to Kubernetes service using GitHub Actions
 - [release-drafter](https://github.com/toolmantim/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
@@ -532,11 +551,13 @@
 
 ## Objective-C 
 
+- [QMUI_iOS](https://github.com/Tencent/QMUI_iOS) - QMUI iOS——致力于提高项目 UI 开发效率的解决方案
 - [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [realm-cocoa](https://github.com/realm/realm-cocoa) - Realm is a mobile database: a replacement for Core Data & SQLite
 
 ## Others 
 
+- [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [clean-go-article](https://github.com/Pungyeon/clean-go-article) - A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.
 - [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers.
@@ -602,6 +623,9 @@
 
 ## Python 
 
+- [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
+- [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search and hyper-parameter tuning.
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
 - [starthinker](https://github.com/google/starthinker) - Framework for building data workflows provided by Google.
 - [pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
@@ -694,7 +718,7 @@
 - [jsonschema](https://github.com/Julian/jsonschema) - An(other) implementation of JSON Schema for Python
 - [microblog](https://github.com/miguelgrinberg/microblog) - A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
 - [pkuseg-python](https://github.com/lancopku/pkuseg-python) - pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
-- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
+- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python & R. No JavaScript Required.
 - [proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
 - [eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
