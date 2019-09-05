@@ -44,7 +44,7 @@
 ## C 
 
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [edgefs](https://github.com/Nexenta/edgefs) - EdgeFS, scale-out, multi-cloud scalable S3/NFS/iSCSI distributed storage system for Edge/IoT Computing
+- [edgefs](https://github.com/Nexenta/edgefs) - EdgeFS, decentralized, scalable S3/NFS/iSCSI distributed storage system for Edge/IoT Computing and Kubernetes
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [yugabyte-db](https://github.com/YugaByte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
@@ -53,7 +53,7 @@
 - [RediSearch](https://github.com/RediSearch/RediSearch) - Fulltext Search and Secondary Index module for Redis
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://my-netdata.io/
 - [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
-- [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+- [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 
 ## C# # 
 
@@ -68,7 +68,7 @@
 - [falco](https://github.com/falcosecurity/falco) - Falco: Container Native Runtime Security
 - [SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
 - [pyflame](https://github.com/uber/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python
-- [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python  with strong GPU acceleration
+- [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [pika](https://github.com/Qihoo360/pika) - Pika is a nosql compatible with redis, it is developed by Qihoo's DBA and infrastructure team
@@ -117,11 +117,16 @@
 
 ## Go 
 
+- [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
+- [maesh](https://github.com/containous/maesh) - Simpler Service Mesh
+- [kube-mutating-webhook-tutorial](https://github.com/morvencao/kube-mutating-webhook-tutorial) - A Kubernetes mutating webhook server that implements sidecar injection
+- [ginkgo](https://github.com/onsi/ginkgo) - BDD Testing Framework for Go
+- [torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent-client package and utilities
+- [kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
-- [douyin](https://github.com/cnbattle/douyin) - 抖音推荐列表视频爬虫方案,基于app(虚拟机或真机) 相关技术 golang adb nodejs anyproxy
-- [lute](https://github.com/b3log/lute) - 🎼 一款结构化的 Markdown 引擎。
-- [sqltop](https://github.com/ngaut/sqltop) - A linux top like tool for database
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guides, with heavily documented code and programs analysis all in 1 place
+- [lute](https://github.com/b3log/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。
+- [sqltop](https://github.com/ngaut/sqltop) - A linux top like tool for TiDB
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place
 - [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
 - [cloud-run-button](https://github.com/GoogleCloudPlatform/cloud-run-button) - Let anyone deploy your GitHub repos to Google Cloud Run with a single click
 - [github-actions-badge](https://github.com/Atrox/github-actions-badge) - :shield: Shields.io Badge for your GitHub Actions
@@ -143,10 +148,11 @@
 - [elvish](https://github.com/elves/elvish) - Friendly Interactive Shell and Expressive Programming Language
 - [bark-server](https://github.com/Finb/bark-server) - Backend of Bark
 - [pulumi](https://github.com/pulumi/pulumi) - Modern Infrastructure as Code - Create, deploy, and manage infrastructure on any cloud using your favorite language.
-- [okteto](https://github.com/okteto/okteto) - Rapidly iterate and test your applications by developing directly in your Kubernetes cluster
+- [okteto](https://github.com/okteto/okteto) - Build better applications by developing and testing your code directly in Kubernetes
+- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
-- [devspace](https://github.com/devspace-cloud/devspace) - 🧰 DevSpace - Cloud-Native Developer Tool for Kubernetes 💡 Automate your deployment workflow with DevSpace and build applications directly inside Kubernetes.
+- [devspace](https://github.com/devspace-cloud/devspace) - 🧰 DevSpace - The Fastest Kubernetes Development Workflow 💡 Automate your deployment workflow with DevSpace and build applications directly inside Kubernetes.
 - [ksync](https://github.com/vapor-ware/ksync) - Sync files between your local system and a kubernetes cluster.
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [chartmuseum](https://github.com/helm/chartmuseum) - Host your own Helm Chart Repository
@@ -294,7 +300,7 @@
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [minio](https://github.com/minio/minio) - MinIO is a high performance object storage server compatible with Amazon S3 APIs
 - [hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect & OAuth2 Server (OP, OpenID Provider) - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language.
-- [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly  - JSON Parser for Go
+- [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [buntdb](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
 - [fathom](https://github.com/usefathom/fathom) - Fathom. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
@@ -373,6 +379,7 @@
 
 ## Java 
 
+- [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes
 - [Quicksql](https://github.com/Qihoo360/Quicksql) - Simpler, Safer, Faster Unified SQL Analytics Engine for Multi-Datasources
 - [nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
@@ -623,6 +630,11 @@
 
 ## Python 
 
+- [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
+- [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) - Chinese version of GPT2 training code, using BERT or BPE tokenizer.
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+- [models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
+- [nlp](https://github.com/microsoft/nlp) - Natural Language Processing Best Practices & Examples
 - [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search and hyper-parameter tuning.
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
@@ -656,7 +668,7 @@
 - [xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
 - [nmt](https://github.com/tensorflow/nmt) - TensorFlow Neural Machine Translation Tutorial
 - [dlrm](https://github.com/facebookresearch/dlrm) - An implementation of a deep learning recommendation model (DLRM)
-- [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) - DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, and VAE models (TensorFlow2 implementation). DeepNude的算法以及通用图像生成的理论与实践研究。
+- [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) - DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, and VAE models (TensorFlow2 implementation). DeepNude的算法以及通用GAN图像生成的理论与实践研究。
 - [open-deepnude](https://github.com/open-deepnude/open-deepnude) - Open source reverse-engineered clone of DeepNude
 - [deepnude_official](https://github.com/open-deepnude/deepnude_official) - 
 - [pylibra](https://github.com/bandprotocol/pylibra) - A Python client for Libra network
@@ -879,7 +891,7 @@
 - [click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
 - [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
 - [requests](https://github.com/psf/requests) - Python HTTP Requests for Humans™ ✨🍰✨
@@ -901,6 +913,8 @@
 
 ## Rust 
 
+- [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
+- [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
 - [rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code!
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [mononoke](https://github.com/facebookexperimental/mononoke) - A Mercurial source control server, specifically designed to support large monorepos.
@@ -944,6 +958,7 @@
 
 ## Swift 
 
+- [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) - RSS reader for macOS.
 - [SwiftEngine](https://github.com/swiftengine/SwiftEngine) - Apple Swift based HTTP server.  The answer for a Swift based, turn key, crash resilient, high scale, and production grade web server.
 - [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI
 - [TypeYouCard](https://github.com/alexejn/TypeYouCard) - SwiftUI Paycard form
@@ -977,7 +992,7 @@
 - [token-core-ios](https://github.com/consenlabs/token-core-ios) - a blockchain private key management library on iOS
 - [DataSourceKit](https://github.com/ishkawa/DataSourceKit) - Declarative, testable data source of UICollectionView and UITableView.
 - [NSFWDetector](https://github.com/lovoo/NSFWDetector) - A NSFW (aka porn) detector with CoreML
-- [Schedule](https://github.com/luoxiu/Schedule) - ⏳ Schedule timing task in Swift using a fluent API. (A modern alternative to Timer)
+- [Schedule](https://github.com/luoxiu/Schedule) - Schedule timing task in Swift using a fluent API. (A modern alternative to Timer)
 - [YPImagePicker](https://github.com/Yummypets/YPImagePicker) - 📸 Instagram-like image picker & filters for iOS
 - [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
 - [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) - 🚀 iOS Debugging Tool
@@ -1047,6 +1062,7 @@
 
 ## TypeScript 
 
+- [graphql.js](https://github.com/octokit/graphql.js) - GitHub GraphQL API client for browsers and Node
 - [stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
 - [WebTemplateStudio](https://github.com/microsoft/WebTemplateStudio) - Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices
 - [toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
@@ -1081,7 +1097,6 @@
 
 ## Vue 
 
-- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 - [lyanna](https://github.com/dongweiming/lyanna) - My Blog Using Sanic
 
 
