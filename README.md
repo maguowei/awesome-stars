@@ -212,7 +212,7 @@
 - [stun](https://github.com/gortc/stun) - Fast RFC 5389 STUN implementation in go
 - [semver](https://github.com/blang/semver) - Semantic Versioning (semver) library written in golang
 - [keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-- [kubesphere](https://github.com/kubesphere/kubesphere) - Production Ready Container Management Platform
+- [kubesphere](https://github.com/kubesphere/kubesphere) - Easy-to-use Production Ready Container Management Platform
 - [sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 - [go-mysql](https://github.com/siddontang/go-mysql) - a powerful mysql toolset with Go
 - [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
@@ -257,7 +257,6 @@
 - [faker](https://github.com/bxcodec/faker) - Go (Golang)  Fake Data  Generator for Struct
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
 - [orchestrator](https://github.com/github/orchestrator) - MySQL replication topology management and HA
-- [sqler](https://github.com/alash3al/sqler) - write APIs using direct SQL queries with no hassle, let's rethink about SQL
 - [fabric](https://github.com/hyperledger/fabric) - Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -389,7 +388,6 @@
 - [flink](https://github.com/apache/flink) - Apache Flink
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
-- [flyway](https://github.com/flyway/flyway) - Flyway by Boxfuse • Database Migrations Made Easy.
 - [apollo](https://github.com/ctripcorp/apollo) - Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
 - [pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
 - [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
@@ -1062,6 +1060,7 @@
 
 ## TypeScript 
 
+- [photonjs](https://github.com/prisma/photonjs) - Type-safe database client for TypeScript & Node.js (ORM replacement)
 - [graphql.js](https://github.com/octokit/graphql.js) - GitHub GraphQL API client for browsers and Node
 - [stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
 - [WebTemplateStudio](https://github.com/microsoft/WebTemplateStudio) - Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices
