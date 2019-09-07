@@ -308,6 +308,7 @@
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+- [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
 - [sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management
 - [pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
 - [gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox
@@ -562,6 +563,7 @@
 
 ## Others 
 
+- [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [clean-go-article](https://github.com/Pungyeon/clean-go-article) - A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.
 - [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
@@ -952,7 +954,6 @@
 ## Smarty 
 
 - [charts](https://github.com/cloudnativeapp/charts) - Localized Helm charts from Helm Hub to China
-- [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
 
 ## Swift 
 
