@@ -319,7 +319,6 @@
 - [tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
-- [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [jsonapi](https://github.com/google/jsonapi) - jsonapi.org style payload serializer and deserializer
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
@@ -936,6 +935,7 @@
 
 ## Shell 
 
+- [opencv-python](https://github.com/skvark/opencv-python) - This repository generates precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
 - [macOSntfs](https://github.com/Sihan001/macOSntfs) - bash script ntfs rw for macOS
 - [core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [container-service-for-azure-china](https://github.com/Azure/container-service-for-azure-china) - Container Service for Azure China
@@ -1061,6 +1061,8 @@
 
 ## TypeScript 
 
+- [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
+- [stencil](https://github.com/ionic-team/stencil) - A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team
 - [photonjs](https://github.com/prisma/photonjs) - Type-safe database client for TypeScript & Node.js (ORM replacement)
 - [graphql.js](https://github.com/octokit/graphql.js) - GitHub GraphQL API client for browsers and Node
 - [stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
