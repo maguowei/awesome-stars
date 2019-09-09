@@ -43,6 +43,7 @@
 
 ## C 
 
+- [dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [edgefs](https://github.com/Nexenta/edgefs) - EdgeFS, decentralized, scalable S3/NFS/iSCSI distributed storage system for Edge/IoT Computing and Kubernetes
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
@@ -103,6 +104,7 @@
 
 ## Dart 
 
+- [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [V2LF](https://github.com/w4mxl/V2LF) - The v2ex client write in flutter.
 - [flutter_web](https://github.com/flutter/flutter_web) - Bring your Flutter code to web browsers
@@ -629,6 +631,7 @@
 
 ## Python 
 
+- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 - [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) - Chinese version of GPT2 training code, using BERT or BPE tokenizer.
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
@@ -785,7 +788,7 @@
 - [vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
-- [scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™
+- [scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™ (Maintainer needed)
 - [LeetCode](https://github.com/kamyu104/LeetCode) - :pencil: Python / C++ 11 Solutions of All LeetCode Questions
 - [telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [boto3](https://github.com/boto/boto3) - AWS SDK for Python
@@ -903,6 +906,7 @@
 
 ## Ruby 
 
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖The core logic behind Dependabot's update PR creation
 - [best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Core Infrastructure Initiative Best Practices Badge
@@ -1090,7 +1094,7 @@
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language
+- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 
 ## Vim script 
