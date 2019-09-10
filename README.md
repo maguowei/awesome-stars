@@ -218,7 +218,7 @@
 - [sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 - [go-mysql](https://github.com/siddontang/go-mysql) - a powerful mysql toolset with Go
 - [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
-- [LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go) - :mortar_board: Go Solution for LeetCode algorithm problems, 100% coverage, continually updating.
+- [LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go) - :mortar_board: Go Solution for LeetCode algorithms problems, 100% coverage, continually updating.
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
@@ -523,6 +523,7 @@
 
 ## Jupyter Notebook 
 
+- [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
 - [Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + LeetCode + Kaggle
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
