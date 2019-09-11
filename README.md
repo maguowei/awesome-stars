@@ -119,6 +119,8 @@
 
 ## Go 
 
+- [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
+- [code-review-bot](https://github.com/google/code-review-bot) - Code review bot and CLA verifier
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [maesh](https://github.com/containous/maesh) - Simpler Service Mesh
 - [kube-mutating-webhook-tutorial](https://github.com/morvencao/kube-mutating-webhook-tutorial) - A Kubernetes mutating webhook server that implements sidecar injection
@@ -679,7 +681,7 @@
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
-- [byteps](https://github.com/bytedance/byteps) - A high performance and general framework for distributed training
+- [byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
 - [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
 - [aswan](https://github.com/momosecurity/aswan) - 陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
 - [sanic](https://github.com/huge-success/sanic) - Async Python 3.6+ web server/framework | Build fast. Run fast.
