@@ -337,7 +337,6 @@
 - [pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
-- [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 - [gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 - [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
@@ -478,7 +477,7 @@
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
-- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
+- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
@@ -1086,7 +1085,7 @@
 - [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor for GraphQL. Draw GraphQL schemas using visual 🔷 nodes. Even 🐒 can do that!
 - [rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
-- [theia](https://github.com/theia-ide/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences.
 - [storybook](https://github.com/storybookjs/storybook) - UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 - [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
