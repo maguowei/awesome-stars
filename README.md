@@ -45,7 +45,7 @@
 
 - [dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [edgefs](https://github.com/Nexenta/edgefs) - EdgeFS, decentralized, scalable S3/NFS/iSCSI distributed storage system for Edge/IoT Computing and Kubernetes
+- [edgefs](https://github.com/Nexenta/edgefs) - EdgeFS - decentralized, scalable data platform for Edge/IoT Computing and Kubernetes apps
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [yugabyte-db](https://github.com/YugaByte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
@@ -413,6 +413,7 @@
 - [release-drafter](https://github.com/toolmantim/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
+- [elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
 - [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) - Puppeteer, Headless Chrome；爬取《es6标准入门》、自动推文到掘金、站点性能分析；高级爬虫、自动化UI测试、性能分析；
 - [gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based spreadsheet application with full integration of the Python programming language.
 - [style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art:
@@ -632,6 +633,7 @@
 
 ## Python 
 
+- [hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
 - [elasticdl](https://github.com/sql-machine-learning/elasticdl) - Kubernetes-native Deep Learning Framework
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
@@ -654,7 +656,6 @@
 - [opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [diy-async-web-framework](https://github.com/hzlmn/diy-async-web-framework) - :nerd_face: Learn how modern async web frameworks work, by writing simple clone from scratch
 - [InstaPy](https://github.com/timgrossmann/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
-- [elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
 - [pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures
@@ -997,7 +998,7 @@
 - [token-core-ios](https://github.com/consenlabs/token-core-ios) - a blockchain private key management library on iOS
 - [DataSourceKit](https://github.com/ishkawa/DataSourceKit) - Declarative, testable data source of UICollectionView and UITableView.
 - [NSFWDetector](https://github.com/lovoo/NSFWDetector) - A NSFW (aka porn) detector with CoreML
-- [Schedule](https://github.com/luoxiu/Schedule) - Schedule timing task in Swift using a fluent API. (A modern alternative to Timer)
+- [Schedule](https://github.com/luoxiu/Schedule) - Schedule timing task in Swift using a fluent API. (A friendly alternative to Timer)
 - [YPImagePicker](https://github.com/Yummypets/YPImagePicker) - 📸 Instagram-like image picker & filters for iOS
 - [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
 - [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) - 🚀 iOS Debugging Tool
