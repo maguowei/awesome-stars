@@ -47,7 +47,7 @@
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [edgefs](https://github.com/Nexenta/edgefs) - EdgeFS - decentralized, scalable data platform for Edge/IoT Computing and Kubernetes apps
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
-- [yugabyte-db](https://github.com/YugaByte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
+- [yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [ish](https://github.com/tbodt/ish) - Linux shell for iOS
 - [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
@@ -58,7 +58,7 @@
 
 ## C# # 
 
-- [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.
+- [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
 
 ## C++ 
 
@@ -117,6 +117,7 @@
 
 ## Go 
 
+- [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [kuma](https://github.com/Kong/kuma) - 🐻 The Universal Control Plane for Service Mesh
 - [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [code-review-bot](https://github.com/google/code-review-bot) - Code review bot and CLA verifier
@@ -528,6 +529,7 @@
 - [Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + LeetCode + Kaggle
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
+- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and BigDL on Apache Spark
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
@@ -633,6 +635,9 @@
 
 ## Python 
 
+- [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation.
+- [bake](https://github.com/kennethreitz/bake) - Bake — the strangely familiar task runner.
+- [Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
 - [hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
@@ -656,7 +661,7 @@
 - [mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 - [opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
-- [diy-async-web-framework](https://github.com/hzlmn/diy-async-web-framework) - :nerd_face: Learn how modern async web frameworks work, by writing simple clone from scratch
+- [diy-async-web-framework](https://github.com/hzlmn/diy-async-web-framework) - Learn how modern async web frameworks work, by writing simple clone from scratch
 - [InstaPy](https://github.com/timgrossmann/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
@@ -680,7 +685,6 @@
 - [deepnude_official](https://github.com/open-deepnude/deepnude_official) - 
 - [pylibra](https://github.com/bandprotocol/pylibra) - A Python client for Libra network
 - [masr](https://github.com/libai3/masr) - 中文语音识别，高识别率预训练模型，支持docker快速安装 Chinese Speech Recognition; Mandarin Automatic Speech Recognition;
-- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
 - [byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
@@ -733,7 +737,6 @@
 - [clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [records](https://github.com/kennethreitz/records) - SQL for Humans™
-- [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [jsonschema](https://github.com/Julian/jsonschema) - An(other) implementation of JSON Schema for Python
 - [microblog](https://github.com/miguelgrinberg/microblog) - A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
 - [pkuseg-python](https://github.com/lancopku/pkuseg-python) - pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
@@ -933,6 +936,7 @@
 - [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
 - [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+- [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 
@@ -1077,7 +1081,7 @@
 - [stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
 - [WebTemplateStudio](https://github.com/microsoft/WebTemplateStudio) - Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices
 - [toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
-- [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Bring your own cloud or hardware.
+- [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [ant-design-dark-theme](https://github.com/ant-design/ant-design-dark-theme) - 🌚 Dark theme variables of Ant Design
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
