@@ -118,7 +118,7 @@
 ## Go 
 
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
-- [kuma](https://github.com/Kong/kuma) - 🐻 The Universal Control Plane for Service Mesh
+- [kuma](https://github.com/Kong/kuma) - 🐻 The Universal Service Mesh
 - [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [code-review-bot](https://github.com/google/code-review-bot) - Code review bot and CLA verifier
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
@@ -568,6 +568,8 @@
 
 ## Others 
 
+- [sig-app-delivery](https://github.com/cncf/sig-app-delivery) - 📨🚚CNCF App Delivery SIG
+- [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [clean-go-article](https://github.com/Pungyeon/clean-go-article) - A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.
@@ -635,6 +637,8 @@
 
 ## Python 
 
+- [healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django
+- [graalpython](https://github.com/graalvm/graalpython) - A Python 3 implementation built on GraalVM
 - [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation.
 - [bake](https://github.com/kennethreitz/bake) - Bake — the strangely familiar task runner.
 - [Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
@@ -914,6 +918,7 @@
 
 ## Ruby 
 
+- [eng-practices](https://github.com/rootsongjc/eng-practices) - 谷歌工程实践文档 - https://jimmysong.io/eng-practices
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖The core logic behind Dependabot's update PR creation
