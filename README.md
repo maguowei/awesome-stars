@@ -133,7 +133,6 @@
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place
 - [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
 - [cloud-run-button](https://github.com/GoogleCloudPlatform/cloud-run-button) - Let anyone deploy your GitHub repos to Google Cloud Run with a single click
-- [github-actions-badge](https://github.com/Atrox/github-actions-badge) - :shield: Shields.io Badge for your GitHub Actions
 - [kf](https://github.com/google/kf) - Feels like Cloud Foundry. Runs on Kubernetes. Powered by Knative and Istio.
 - [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
@@ -189,7 +188,7 @@
 - [mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
-- [crossplane](https://github.com/crossplaneio/crossplane) - An Open Source Multicloud Control Plane
+- [crossplane](https://github.com/crossplaneio/crossplane) - The open source multicloud control plane.
 - [go-git](https://github.com/src-d/go-git) - A highly extensible Git implementation in pure Go.
 - [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Lyft's Envoy proxy.
@@ -310,7 +309,7 @@
 - [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
-- [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
+- [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
 - [sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management
@@ -529,7 +528,6 @@
 - [Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + LeetCode + Kaggle
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
-- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and BigDL on Apache Spark
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
@@ -637,10 +635,12 @@
 
 ## Python 
 
+- [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - A curated collection of useful Python snippets that you can understand in 30 seconds or less.
+- [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing
 - [healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django
 - [graalpython](https://github.com/graalvm/graalpython) - A Python 3 implementation built on GraalVM
 - [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation.
-- [bake](https://github.com/kennethreitz/bake) - Bake — the strangely familiar task runner.
+- [bake](https://github.com/kennethreitz/bake) - Bake — the strangely familiar workflow utility.
 - [Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
@@ -689,6 +689,7 @@
 - [deepnude_official](https://github.com/open-deepnude/deepnude_official) - 
 - [pylibra](https://github.com/bandprotocol/pylibra) - A Python client for Libra network
 - [masr](https://github.com/libai3/masr) - 中文语音识别，高识别率预训练模型，支持docker快速安装 Chinese Speech Recognition; Mandarin Automatic Speech Recognition;
+- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
 - [byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
@@ -908,7 +909,7 @@
 - [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
-- [requests](https://github.com/psf/requests) - Python HTTP Requests for Humans™ ✨🍰✨
+- [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.    Handcrafted, with ♥, for the Python community.
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 
