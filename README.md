@@ -117,6 +117,7 @@
 
 ## Go 
 
+- [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [kuma](https://github.com/Kong/kuma) - 🐻 The Universal Service Mesh
 - [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
@@ -202,7 +203,7 @@
 - [krew](https://github.com/kubernetes-sigs/krew) - 📦 Package manager for kubectl plugins
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [micro](https://github.com/micro/micro) - A full-stack microservice development runtime
+- [micro](https://github.com/micro/micro) - A microservice development runtime
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
@@ -252,7 +253,7 @@
 - [1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server) - benchmarks for implementation of servers which support 1 million connections
 - [container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
 - [blockchain_guide](https://github.com/yeasy/blockchain_guide) - Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
-- [chat](https://github.com/tinode/chat) - Instant messaging server; backend in Go; Android, web command line clients; chatbots
+- [chat](https://github.com/tinode/chat) - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
 - [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
@@ -380,6 +381,7 @@
 
 ## Java 
 
+- [JustTrustMe](https://github.com/Fuzion24/JustTrustMe) - An xposed module that disables SSL certificate checking for the purposes of auditing an app with cert pinning
 - [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes
 - [Quicksql](https://github.com/Qihoo360/Quicksql) - Simpler, Safer, Faster Unified SQL Analytics Engine for Multi-Datasources
 - [nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
@@ -635,6 +637,8 @@
 
 ## Python 
 
+- [android_auto_test](https://github.com/RunningIkkyu/android_auto_test) - 
+- [containerregistry](https://github.com/google/containerregistry) - A set of Python libraries and tools for interacting with a Docker Registry.
 - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - A curated collection of useful Python snippets that you can understand in 30 seconds or less.
 - [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing
 - [healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django
@@ -955,6 +959,7 @@
 
 ## Shell 
 
+- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [opencv-python](https://github.com/skvark/opencv-python) - This repository generates precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
 - [macOSntfs](https://github.com/Sihan001/macOSntfs) - bash script ntfs rw for macOS
 - [core](https://github.com/dotnet/core) - Home repository for .NET Core
