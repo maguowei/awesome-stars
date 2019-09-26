@@ -14,6 +14,7 @@
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Go](#go)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [Haskell](#haskell)
   - [Java](#java)
@@ -358,6 +359,10 @@
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [go](https://github.com/golang/go) - The Go programming language
 
+## HCL 
+
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
+
 ## HTML 
 
 - [ethereum-compass](https://github.com/laalaguer/ethereum-compass) - 《以太坊的指南针》 一本写给普通人看的以太坊区块链技术书。A Book of Ethereum in Chinese.
@@ -646,7 +651,7 @@
 - [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing
 - [healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django
 - [graalpython](https://github.com/graalvm/graalpython) - A Python 3 implementation built on GraalVM
-- [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation.
+- [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales Numpy, Pandas and Scikit-learn.
 - [bake](https://github.com/kennethreitz/bake) - Bake — the strangely familiar workflow utility.
 - [Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
@@ -974,7 +979,6 @@
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook
 - [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
-- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
