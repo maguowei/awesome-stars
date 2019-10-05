@@ -218,7 +218,7 @@
 - [stun](https://github.com/gortc/stun) - Fast RFC 5389 STUN implementation in go
 - [semver](https://github.com/blang/semver) - Semantic Versioning (semver) library written in golang
 - [keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-- [kubesphere](https://github.com/kubesphere/kubesphere) - Easy-to-use Production Ready Container Management Platform
+- [kubesphere](https://github.com/kubesphere/kubesphere) - Easy-to-use Production Ready Container Platform
 - [sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 - [go-mysql](https://github.com/siddontang/go-mysql) - a powerful mysql toolset with Go
 - [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
@@ -908,7 +908,7 @@
 - [watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [nltk](https://github.com/nltk/nltk) - NLTK Source
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
-- [jinja](https://github.com/pallets/jinja) - The Jinja template engine
+- [jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
