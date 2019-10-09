@@ -379,6 +379,7 @@
 - [flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》电子书
 - [nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》  Neural Network and Deep Learning
 - [beijing_house_knowledge](https://github.com/facert/beijing_house_knowledge) - 北京买房攻略
+- [AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 
 ## Haskell 
@@ -394,7 +395,7 @@
 - [nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 - [beam](https://github.com/apache/beam) - Apache Beam
-- [DoraemonKit](https://github.com/didi/DoraemonKit) - 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。
+- [DoraemonKit](https://github.com/didi/DoraemonKit) - 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。
 - [alluxio](https://github.com/Alluxio/alluxio) - Alluxio, data orchestration for analytics and machine learning in the cloud
 - [flink](https://github.com/apache/flink) - Apache Flink
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
@@ -445,7 +446,6 @@
 - [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序、快应用、H5、React Native 等的应用。  https://taro.jd.com/
 - [33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
-- [AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
 - [evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
@@ -480,7 +480,6 @@
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
-- [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way  to validate data in Javascript.
 - [g2](https://github.com/antvis/g2) - The Grammar of Graphics in JavaScript
 - [workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -717,7 +716,7 @@
 - [pythia](https://github.com/facebookresearch/pythia) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
 - [aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 - [timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
-- [django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, inspired by Rails callbacks.
+- [django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals.
 - [numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [graphics](https://github.com/tensorflow/graphics) - TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow
 - [delegator.py](https://github.com/amitt001/delegator.py) - Subprocesses for Humans 2.0.
@@ -787,7 +786,7 @@
 - [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [python-parallel-programming-cookbook-cn](https://github.com/laixintao/python-parallel-programming-cookbook-cn) - 📖《Python Parallel Programming Cookbook》中文版
 - [wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
-- [proxy.py](https://github.com/abhinavsingh/proxy.py) - Lightweight, Programmable, TLS interceptor Proxy for HTTP(S), HTTP2, WebSockets protocols in a single Python file
+- [proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡⚡⚡Fast, Lightweight, Programmable Proxy Server in a single Python file
 - [responder](https://github.com/taoufik07/responder) - A familiar HTTP Service Framework for Python.
 - [python-nubia](https://github.com/facebookincubator/python-nubia) - A command-line and interactive shell framework.
 - [apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
@@ -989,6 +988,7 @@
 
 ## Swift 
 
+- [APIKit](https://github.com/ishkawa/APIKit) - Type-safe networking abstraction layer that associates request type with response type.
 - [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) - RSS reader for macOS.
 - [SwiftEngine](https://github.com/swiftengine/SwiftEngine) - Apple Swift based HTTP server.  The answer for a Swift based, turn key, crash resilient, high scale, and production grade web server.
 - [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI
@@ -1117,6 +1117,7 @@
 - [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create placeholder loadings (like Facebook cards loading)
+- [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (or TypeScript).
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
