@@ -118,6 +118,8 @@
 
 ## Go 
 
+- [watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications easy way in Go.
+- [apiserver-builder-alpha](https://github.com/kubernetes-sigs/apiserver-builder-alpha) - apiserver-builder-alpha implements libraries and tools to quickly and easily build Kubernetes apiservers/controllers to support custom resource types based on APIServer Aggregation
 - [yaegi](https://github.com/containous/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
@@ -532,6 +534,7 @@
 
 ## Jupyter Notebook 
 
+- [jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
 - [Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + LeetCode + Kaggle
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
