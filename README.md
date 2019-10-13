@@ -63,6 +63,7 @@
 
 ## C++ 
 
+- [multipass](https://github.com/CanonicalLtd/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
 - [falco](https://github.com/falcosecurity/falco) - Falco: Container Native Runtime Security
@@ -118,6 +119,7 @@
 
 ## Go 
 
+- [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications easy way in Go.
 - [apiserver-builder-alpha](https://github.com/kubernetes-sigs/apiserver-builder-alpha) - apiserver-builder-alpha implements libraries and tools to quickly and easily build Kubernetes apiservers/controllers to support custom resource types based on APIServer Aggregation
 - [yaegi](https://github.com/containous/yaegi) - Yaegi is Another Elegant Go Interpreter
@@ -577,6 +579,7 @@
 
 ## Others 
 
+- [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [sig-app-delivery](https://github.com/cncf/sig-app-delivery) - 📨🚚CNCF App Delivery SIG
 - [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
