@@ -12,7 +12,6 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
-  - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HCL](#hcl)
   - [HTML](#html)
@@ -52,7 +51,7 @@
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [ish](https://github.com/tbodt/ish) - Linux shell for iOS
 - [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
-- [RediSearch](https://github.com/RediSearch/RediSearch) - Fulltext Search and Secondary Index module for Redis
+- [RediSearch](https://github.com/RediSearch/RediSearch) - WIP - Fulltext Search and Secondary Index module for Redis
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://my-netdata.io/
 - [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
 - [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
@@ -112,10 +111,6 @@
 - [fish-redux](https://github.com/alibaba/fish-redux) - An assembled flutter application framework.
 - [flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
-
-## Dockerfile 
-
-- [actions](https://github.com/maddox/actions) - A collection of useful GitHub Actions
 
 ## Go 
 
@@ -540,7 +535,7 @@
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-- [analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and BigDL on Apache Spark
+- [analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras, PyTorch and BigDL on Apache Spark
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
