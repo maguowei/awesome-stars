@@ -114,6 +114,7 @@
 
 ## Go 
 
+- [golangci-lint](https://github.com/golangci/golangci-lint) - Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
 - [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications easy way in Go.
 - [apiserver-builder-alpha](https://github.com/kubernetes-sigs/apiserver-builder-alpha) - apiserver-builder-alpha implements libraries and tools to quickly and easily build Kubernetes apiservers/controllers to support custom resource types based on APIServer Aggregation
@@ -158,7 +159,7 @@
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [devspace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Kubernetes Development Workflow ⚡ Automate your deployment workflow with DevSpace and build applications directly inside Kubernetes.
-- [ksync](https://github.com/vapor-ware/ksync) - Sync files between your local system and a kubernetes cluster.
+- [ksync](https://github.com/ksync/ksync) - Sync files between your local system and a kubernetes cluster.
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [chartmuseum](https://github.com/helm/chartmuseum) - Host your own Helm Chart Repository
 - [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
@@ -212,7 +213,7 @@
 - [trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
 - [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
-- [inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet
+- [inlets](https://github.com/inlets/inlets) - Expose your local endpoints to the Internet
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [stun](https://github.com/gortc/stun) - Fast RFC 5389 STUN implementation in go
 - [semver](https://github.com/blang/semver) - Semantic Versioning (semver) library written in golang
@@ -805,7 +806,7 @@
 - [faust](https://github.com/robinhood/faust) - Python Stream Processing
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting
-- [saleor](https://github.com/mirumee/saleor) - A modular, high performance e-commerce storefront built with Python, GraphQL, Django, and ReactJS.
+- [saleor](https://github.com/mirumee/saleor) - A modular, high performance headless e-commerce built with Python, GraphQL, Django, and ReactJS.
 - [AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
