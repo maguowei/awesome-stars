@@ -114,10 +114,11 @@
 
 ## Go 
 
+- [containers-from-scratch](https://github.com/lizrice/containers-from-scratch) - Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [golangci-lint](https://github.com/golangci/golangci-lint) - Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
 - [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
-- [watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications easy way in Go.
+- [watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [apiserver-builder-alpha](https://github.com/kubernetes-sigs/apiserver-builder-alpha) - apiserver-builder-alpha implements libraries and tools to quickly and easily build Kubernetes apiservers/controllers to support custom resource types based on APIServer Aggregation
 - [yaegi](https://github.com/containous/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
@@ -809,7 +810,7 @@
 - [faust](https://github.com/robinhood/faust) - Python Stream Processing
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting
-- [saleor](https://github.com/mirumee/saleor) - A modular, high performance headless e-commerce built with Python, GraphQL, Django, and ReactJS.
+- [saleor](https://github.com/mirumee/saleor) - A modular, high performance headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.
 - [AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
@@ -945,6 +946,7 @@
 
 ## Rust 
 
+- [rudr](https://github.com/oam-dev/rudr) - A Kubernetes implementation of the Open Application Model specification
 - [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts.
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
