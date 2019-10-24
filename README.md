@@ -13,6 +13,7 @@
   - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
   - [Go](#go)
+  - [Groovy](#groovy)
   - [HCL](#hcl)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -361,12 +362,17 @@
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [go](https://github.com/golang/go) - The Go programming language
 
+## Groovy 
+
+- [devops-interview-questions](https://github.com/bregman-arie/devops-interview-questions) - Linux, Jenkins, AWS, Network, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
+
 ## HCL 
 
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 
 ## HTML 
 
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ethereum-compass](https://github.com/laalaguer/ethereum-compass) - 《以太坊的指南针》 一本写给普通人看的以太坊区块链技术书。A Book of Ethereum in Chinese.
 - [eng-practices](https://github.com/rootsongjc/eng-practices) - 谷歌工程实践文档 - https://jimmysong.io/eng-practices
 - [calc4b-zh](https://github.com/apachecn/calc4b-zh) - :book: [译] MIT 18.03 面向初学者的微积分
@@ -576,6 +582,7 @@
 
 ## Others 
 
+- [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
 - [hire](https://github.com/sofish/hire) - 理论上是长期的，不定时更新
 - [uber-go-guide](https://github.com/Allenxuxu/uber-go-guide) - Uber Go 风格指南(译)
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
@@ -648,6 +655,7 @@
 
 ## Python 
 
+- [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 - [reloading](https://github.com/julvo/reloading) - Change Python code while it's running using a reloading loop
 - [KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
 - [llvmlite](https://github.com/numba/llvmlite) - A lightweight LLVM python binding for writing JIT compilers
@@ -977,6 +985,7 @@
 
 ## Shell 
 
+- [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [opencv-python](https://github.com/skvark/opencv-python) - This repository generates precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
 - [macOSntfs](https://github.com/Sihan001/macOSntfs) - bash script ntfs rw for macOS
