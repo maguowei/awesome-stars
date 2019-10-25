@@ -173,7 +173,7 @@
 - [sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) - Static provisioner of local volumes
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
 - [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
-- [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner.
+- [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
 - [envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
@@ -364,7 +364,7 @@
 
 ## Groovy 
 
-- [devops-interview-questions](https://github.com/bregman-arie/devops-interview-questions) - Linux, Jenkins, AWS, Network, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
+- [devops-interview-questions](https://github.com/bregman-arie/devops-interview-questions) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 
 ## HCL 
 
@@ -553,6 +553,7 @@
 - [kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
+- [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 
 ## Kotlin 
 
@@ -838,7 +839,7 @@
 - [Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization
 - [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [example-oauth2-server](https://github.com/authlib/example-oauth2-server) - Example for OAuth 2 Server for Authlib.
-- [loginpass](https://github.com/authlib/loginpass) - Social connections powered by Authlib.
+- [loginpass](https://github.com/authlib/loginpass) - Login with Google, GitHub, Twitter, Facebook and many other networks.
 - [django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 - [django-pipeline](https://github.com/jazzband/django-pipeline) - Pipeline is an asset packaging library for Django.
 - [black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -910,7 +911,6 @@
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 - [django-redis-sessions](https://github.com/martinrusev/django-redis-sessions) - Session backend for Django that stores sessions in a Redis database
-- [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
 - [django-filter](https://github.com/carltongibson/django-filter) - A generic system for filtering Django QuerySets based on user selections
