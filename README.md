@@ -242,7 +242,7 @@
 - [cost-model](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes
 - [origin](https://github.com/openshift/origin) - The self-managing, auto-upgrading, Kubernetes distribution for everyone
 - [space-cloud](https://github.com/spaceuptech/space-cloud) - Space Cloud is an open source, web server that provides instant Realtime APIs on any database of your choice. Build highly scalable apps with the agility of a prototype!
-- [helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaing what a helm upgrade would change
+- [helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -987,7 +987,7 @@
 
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [opencv-python](https://github.com/skvark/opencv-python) - This repository generates precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
+- [opencv-python](https://github.com/skvark/opencv-python) - Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
 - [macOSntfs](https://github.com/Sihan001/macOSntfs) - bash script ntfs rw for macOS
 - [core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [container-service-for-azure-china](https://github.com/Azure/container-service-for-azure-china) - Container Service for Azure China
