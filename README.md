@@ -421,7 +421,7 @@
 ## JavaScript 
 
 - [android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - 
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (September 2019)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (November 2019)
 - [appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [appium-ios-simulator](https://github.com/appium/appium-ios-simulator) - Module for interacting with iOS simulators (mainly directory-specific manipulations)
@@ -685,7 +685,7 @@
 - [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) - Chinese version of GPT2 training code, using BERT or BPE tokenizer.
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
-- [nlp](https://github.com/microsoft/nlp) - Natural Language Processing Best Practices & Examples
+- [nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
 - [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search and hyper-parameter tuning.
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
@@ -717,7 +717,7 @@
 - [xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
 - [nmt](https://github.com/tensorflow/nmt) - TensorFlow Neural Machine Translation Tutorial
 - [dlrm](https://github.com/facebookresearch/dlrm) - An implementation of a deep learning recommendation model (DLRM)
-- [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) - DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, and VAE models (TensorFlow2 implementation). DeepNude的算法以及通用GAN图像生成的理论与实践研究。
+- [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) - DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, SinGAN and VAE models (TensorFlow2 implementation). DeepNude的算法以及通用GAN图像生成的理论与实践研究。
 - [open-deepnude](https://github.com/open-deepnude/open-deepnude) - Open source reverse-engineered clone of DeepNude
 - [deepnude_official](https://github.com/open-deepnude/deepnude_official) - 
 - [pylibra](https://github.com/bandprotocol/pylibra) - A Python client for Libra network
@@ -807,7 +807,7 @@
 - [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [python-parallel-programming-cookbook-cn](https://github.com/laixintao/python-parallel-programming-cookbook-cn) - 📖《Python Parallel Programming Cookbook》中文版
 - [wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
-- [proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡⚡⚡Fast, Lightweight, Programmable, TLS interception capable proxy server for your Home and Application debugging, testing and development
+- [proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡⚡⚡Fast, Lightweight, Programmable, TLS interception capable proxy server for your Application debugging, testing and development
 - [responder](https://github.com/taoufik07/responder) - A familiar HTTP Service Framework for Python.
 - [python-nubia](https://github.com/facebookincubator/python-nubia) - A command-line and interactive shell framework.
 - [apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
