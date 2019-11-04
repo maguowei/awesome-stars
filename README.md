@@ -412,7 +412,7 @@
 - [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: Tech Interview Guide 技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [cassandra](https://github.com/apache/cassandra) - Mirror of Apache Cassandra
@@ -1040,7 +1040,7 @@
 - [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
 - [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [Pixel](https://github.com/muukii/Pixel) - 🎨🖼 An image editor and engine using CoreImage
-- [SPPermission](https://github.com/ivanvorobei/SPPermission) - A unified API to ask for permissions on iOS. Available dialog UI.
+- [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - API to ask for permissions on Swift. Available diffrents dialogs.
 - [SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
 - [AloeStackView](https://github.com/airbnb/AloeStackView) - A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout.
 - [token-core-ios](https://github.com/consenlabs/token-core-ios) - a blockchain private key management library on iOS
