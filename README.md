@@ -78,7 +78,7 @@
 - [foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
 - [AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse is a free analytic DBMS for big data
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse is a free analytics DBMS for big data
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
@@ -732,7 +732,7 @@
 - [sanic](https://github.com/huge-success/sanic) - Async Python 3.6+ web server/framework | Build fast. Run fast.
 - [hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
-- [cloud-init](https://github.com/cloud-init/cloud-init) - Official Mirror of Cloud-init: the defacto multi-distribution package that handles early initialization of a cloud instance
+- [cloud-init](https://github.com/canonical/cloud-init) - Official Mirror of Cloud-init: the defacto multi-distribution package that handles early initialization of a cloud instance
 - [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about containers.
 - [aiosmtpd](https://github.com/aio-libs/aiosmtpd) - A reimplementation of the Python stdlib smtpd.py based on asyncio.
 - [pythia](https://github.com/facebookresearch/pythia) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
@@ -980,6 +980,7 @@
 
 ## Scala 
 
+- [polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [BigDL](https://github.com/intel-analytics/BigDL) - BigDL: Distributed Deep Learning Library for Apache Spark
 - [delta](https://github.com/delta-io/delta) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
 - [prisma](https://github.com/prisma/prisma) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
