@@ -106,6 +106,7 @@
 
 ## Dart 
 
+- [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) - Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐
 - [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [V2LF](https://github.com/w4mxl/V2LF) - The v2ex client write in flutter.
@@ -116,6 +117,8 @@
 
 ## Go 
 
+- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
+- [go-admin](https://github.com/GoAdminGroup/go-admin) - A dataviz framework help gopher to build a admin panel in ten minutes
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [containers-from-scratch](https://github.com/lizrice/containers-from-scratch) - Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
@@ -399,6 +402,7 @@
 
 ## Java 
 
+- [BigData-Notes](https://github.com/heibaiying/BigData-Notes) - 大数据入门指南  :star:
 - [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes
 - [Quicksql](https://github.com/Qihoo360/Quicksql) - Simpler, Safer, Faster Unified SQL Analytics Engine for Multi-Datasources
 - [nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
@@ -422,6 +426,7 @@
 
 ## JavaScript 
 
+- [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
 - [android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - 
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (November 2019)
 - [appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
@@ -493,6 +498,7 @@
 - [workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
+- [awx](https://github.com/ansible/awx) - AWX Project
 - [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
@@ -541,6 +547,7 @@
 
 ## Jupyter Notebook 
 
+- [python-is-cool](https://github.com/chiphuyen/python-is-cool) - Cool Python features for machine learning that I used to be too afraid to use
 - [google-research](https://github.com/google-research/google-research) - Google AI Research
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
@@ -586,6 +593,7 @@
 
 ## Others 
 
+- [building-web-applications-in-go](https://github.com/unknwon/building-web-applications-in-go) - Go 语言 Web 应用开发系列教程，从新手到双手残废
 - [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
 - [hire](https://github.com/sofish/hire) - 理论上是长期的，不定时更新
 - [uber-go-guide](https://github.com/Allenxuxu/uber-go-guide) - Uber Go 风格指南(译)
@@ -733,7 +741,7 @@
 - [sanic](https://github.com/huge-success/sanic) - Async Python 3.6+ web server/framework | Build fast. Run fast.
 - [hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
-- [cloud-init](https://github.com/canonical/cloud-init) - Official Mirror of Cloud-init: the defacto multi-distribution package that handles early initialization of a cloud instance
+- [cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init project.
 - [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about containers.
 - [aiosmtpd](https://github.com/aio-libs/aiosmtpd) - A reimplementation of the Python stdlib smtpd.py based on asyncio.
 - [pythia](https://github.com/facebookresearch/pythia) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
@@ -864,7 +872,6 @@
 - [django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django
 - [home-assistant](https://github.com/home-assistant/home-assistant) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-- [awx](https://github.com/ansible/awx) - AWX Project
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
 - [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Python SDK https://slack.dev/python-slackclient/
 - [pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is a library to extract, transform, and visually explore big graphs
