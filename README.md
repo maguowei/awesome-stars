@@ -969,6 +969,7 @@
 
 ## Rust 
 
+- [native_spark](https://github.com/rajasekarv/native_spark) - A new arguably faster implementation of Apache Spark from scratch in Rust
 - [rudr](https://github.com/oam-dev/rudr) - A Kubernetes implementation of the Open Application Model specification
 - [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts.
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
