@@ -170,7 +170,7 @@
 - [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
-- [devspace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Kubernetes Development Workflow ⚡ Automate your deployment workflow with DevSpace and build applications directly inside Kubernetes.
+- [devspace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Kubernetes Development Workflow ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [ksync](https://github.com/ksync/ksync) - Sync files between your local system and a kubernetes cluster.
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [chartmuseum](https://github.com/helm/chartmuseum) - Host your own Helm Chart Repository
@@ -1054,7 +1054,7 @@
 - [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
 - [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [Pixel](https://github.com/muukii/Pixel) - 🎨🖼 An image editor and engine using CoreImage
-- [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - API to ask for permissions on Swift. Available diffrents dialogs.
+- [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - API to ask for permissions on Swift. Available table, dialog & native.
 - [SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
 - [AloeStackView](https://github.com/airbnb/AloeStackView) - A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout.
 - [token-core-ios](https://github.com/consenlabs/token-core-ios) - a blockchain private key management library on iOS
