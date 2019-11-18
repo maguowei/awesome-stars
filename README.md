@@ -117,6 +117,7 @@
 
 ## Go 
 
+- [kubectl-doctor](https://github.com/emirozer/kubectl-doctor) - kubectl cluster triage plugin for k8s - 🏥   (brew doctor equivalent)
 - [radvpn](https://github.com/mehrdadrad/radvpn) - Decentralized VPN
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [kubectl-debug](https://github.com/aylei/kubectl-debug) - Debug your pod by a new container with every troubleshooting tools pre-installed
@@ -238,7 +239,7 @@
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [k3os](https://github.com/rancher/k3os) - Purpose built OS for Kubernetes, fully managed by Kubernetes.
+- [k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
 - [go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
 - [pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [gore](https://github.com/motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
@@ -543,6 +544,7 @@
 
 ## Jsonnet 
 
+- [kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 
@@ -670,6 +672,7 @@
 
 ## Python 
 
+- [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [alembic](https://github.com/sqlalchemy/alembic) - a database migrations tool for SQLAlchemy.
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 - [reloading](https://github.com/julvo/reloading) - Change Python code while it's running using a reloading loop
@@ -1042,7 +1045,7 @@
 - [ui-fabric-ios](https://github.com/OfficeDev/ui-fabric-ios) - Office UI Fabric for iOS - The front-end framework for building experiences for Office and Office 365
 - [InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 - [Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework.
-- [SwiftLocation](https://github.com/malcommac/SwiftLocation) - Efficient and easy to use location tracking framework for iOS (CLLocationManager)
+- [SwiftLocation](https://github.com/malcommac/SwiftLocation) - Efficient and easy to use location tracking / geocoding / autocomplete / iBeacon framework for iOS (CLLocationManager)
 - [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift
 - [Pock](https://github.com/pigigaldi/Pock) - Display macOS Dock in Touch Bar
 - [Shout](https://github.com/jakeheis/Shout) - SSH made easy in Swift
@@ -1144,7 +1147,7 @@
 - [react-apollo](https://github.com/apollographql/react-apollo) - :recycle: React integration for Apollo Client
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor for GraphQL. Draw GraphQL schemas using visual 🔷 nodes. Even 🐒 can do that!
+- [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
 - [rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [bit](https://github.com/teambit/bit) - Easily share components across projects and applications as a team.
