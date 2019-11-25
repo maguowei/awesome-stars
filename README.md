@@ -670,6 +670,7 @@
 
 ## Python 
 
+- [heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.
 - [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [alembic](https://github.com/sqlalchemy/alembic) - a database migrations tool for SQLAlchemy.
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
