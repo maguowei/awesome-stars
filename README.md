@@ -671,6 +671,7 @@
 
 ## Python 
 
+- [python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.
 - [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [alembic](https://github.com/sqlalchemy/alembic) - a database migrations tool for SQLAlchemy.
