@@ -65,6 +65,7 @@
 
 - [cardboard](https://github.com/googlevr/cardboard) - Open source Cardboard SDK and samples
 - [multipass](https://github.com/CanonicalLtd/multipass) - Multipass orchestrates virtual Ubuntu instances
+- [blazingsql](https://github.com/BlazingDB/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine built on RAPIDS.
 - [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
 - [falco](https://github.com/falcosecurity/falco) - Falco: Container Native Runtime Security
@@ -442,7 +443,7 @@
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [westore](https://github.com/Tencent/westore) - 微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发
 - [k8s-actions](https://github.com/Azure/k8s-actions) - Enable GitHub developers to deploy to Kubernetes service using GitHub Actions
-- [release-drafter](https://github.com/toolmantim/release-drafter) - Drafts your next release notes as pull requests are merged into master.
+- [release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
 - [elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
@@ -462,7 +463,7 @@
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [chameleon](https://github.com/didi/chameleon) - 🦎 一套代码运行多端，一端所见即多端所见
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [g6](https://github.com/antvis/g6) - ♾ A Graph Visualization Framework in JavaScript
+- [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [next](https://github.com/alibaba-fusion/next) - 🦍 A configurable component library for web built on React.
 - [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。  https://taro.jd.com/
@@ -501,7 +502,7 @@
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
-- [g2](https://github.com/antvis/g2) - 📊 The Grammar of Graphics in JavaScript
+- [G2](https://github.com/antvis/G2) - 📊 The Grammar of Graphics in JavaScript
 - [workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
@@ -727,7 +728,6 @@
 - [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures
 - [UGATIT](https://github.com/taki0112/UGATIT) - Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation
-- [pyBlazing](https://github.com/BlazingDB/pyBlazing) - BlazingSQL is a lightweight, GPU accelerated, SQL engine built on RAPIDS.
 - [distributed](https://github.com/dask/distributed) - A distributed task scheduler for Dask
 - [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Find usernames across social networks
@@ -1032,6 +1032,7 @@
 
 ## Swift 
 
+- [V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 - [OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI) - WIP — OpenSwiftUI is an OpenSource implementation of Apple's SwiftUI DSL.
 - [SwiftUI-PullToRefresh](https://github.com/AppPear/SwiftUI-PullToRefresh) - Pull to refresh in SwiftUI for List, NavigationView
 - [APIKit](https://github.com/ishkawa/APIKit) - Type-safe networking abstraction layer that associates request type with response type.
