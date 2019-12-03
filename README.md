@@ -10,10 +10,8 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
-  - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
   - [Go](#go)
-  - [Groovy](#groovy)
   - [HCL](#hcl)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -101,10 +99,6 @@
 
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 
-## CoffeeScript 
-
-- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
-
 ## Dart 
 
 - [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) - Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐
@@ -140,7 +134,6 @@
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [kuma](https://github.com/Kong/kuma) - 🐻 The Universal Service Mesh
 - [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
-- [code-review-bot](https://github.com/google/code-review-bot) - Code review bot and CLA verifier
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [maesh](https://github.com/containous/maesh) - Simpler Service Mesh
 - [kube-mutating-webhook-tutorial](https://github.com/morvencao/kube-mutating-webhook-tutorial) - A Kubernetes mutating webhook server that implements sidecar injection
@@ -376,10 +369,6 @@
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [go](https://github.com/golang/go) - The Go programming language
 
-## Groovy 
-
-- [devops-interview-questions](https://github.com/bregman-arie/devops-interview-questions) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
-
 ## HCL 
 
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
@@ -411,6 +400,7 @@
 
 ## Java 
 
+- [api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
 - [BigData-Notes](https://github.com/heibaiying/BigData-Notes) - 大数据入门指南  :star:
 - [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes
 - [Quicksql](https://github.com/Qihoo360/Quicksql) - Simpler, Safer, Faster Unified SQL Analytics Engine for Multi-Datasources
@@ -435,11 +425,12 @@
 
 ## JavaScript 
 
+- [evil-huawei](https://github.com/evil-huawei/evil-huawei) - Evil Huawei - 华为作过的恶
 - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (November 2019)
 - [appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [appium-ios-simulator](https://github.com/appium/appium-ios-simulator) - Module for interacting with iOS simulators (mainly directory-specific manipulations)
+- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [westore](https://github.com/Tencent/westore) - 微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发
 - [k8s-actions](https://github.com/Azure/k8s-actions) - Enable GitHub developers to deploy to Kubernetes service using GitHub Actions
@@ -676,11 +667,14 @@
 
 ## Python 
 
+- [gpt2-ml](https://github.com/imcaspar/gpt2-ml) - GPT2 for Multiple Languages, including pretrained models. GPT2 多语言支持, 15亿参数中文预训练模型
+- [django-inline-actions](https://github.com/escaped/django-inline-actions) - django-inline-actions adds actions to each row of the ModelAdmin or InlineModelAdmin.
 - [python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.
 - [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [alembic](https://github.com/sqlalchemy/alembic) - a database migrations tool for SQLAlchemy.
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
+- [devops-interview-questions](https://github.com/bregman-arie/devops-interview-questions) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic
 - [reloading](https://github.com/julvo/reloading) - Change Python code while it's running using a reloading loop
 - [KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
 - [llvmlite](https://github.com/numba/llvmlite) - A lightweight LLVM python binding for writing JIT compilers
@@ -910,7 +904,7 @@
 - [django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
 - [pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans
-- [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is fast and extremely easy to use Python package, which helps generate big volumes of fake data for a variety of purposes in a variety of languages.
+- [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a package for Python, which helps generate big volumes of fake data for a variety of purposes in a variety of languages.
 - [dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [weixin-python](https://github.com/zwczou/weixin-python) - 微信SDK - 包括微信支付,微信公众号,微信登陆,微信消息处理等
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
@@ -982,7 +976,7 @@
 
 - [native_spark](https://github.com/rajasekarv/native_spark) - A new arguably faster implementation of Apache Spark from scratch in Rust
 - [rudr](https://github.com/oam-dev/rudr) - A Kubernetes implementation of the Open Application Model specification
-- [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts.
+- [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
 - [rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code!
@@ -1012,7 +1006,6 @@
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [opencv-python](https://github.com/skvark/opencv-python) - Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
 - [macOSntfs](https://github.com/Sihan001/macOSntfs) - bash script ntfs rw for macOS
-- [core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [container-service-for-azure-china](https://github.com/Azure/container-service-for-azure-china) - Container Service for Azure China
 - [nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
 - [spec](https://github.com/cloudevents/spec) - CloudEvents Specification
@@ -1037,7 +1030,6 @@
 - [SwiftUI-PullToRefresh](https://github.com/AppPear/SwiftUI-PullToRefresh) - Pull to refresh in SwiftUI for List, NavigationView
 - [APIKit](https://github.com/ishkawa/APIKit) - Type-safe networking abstraction layer that associates request type with response type.
 - [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) - RSS reader for macOS.
-- [SwiftEngine](https://github.com/swiftengine/SwiftEngine) - Apple Swift based HTTP server.  The answer for a Swift based, turn key, crash resilient, high scale, and production grade web server.
 - [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI
 - [TypeYouCard](https://github.com/alexejn/TypeYouCard) - SwiftUI Paycard form
 - [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web
