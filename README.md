@@ -68,7 +68,7 @@
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
 - [falco](https://github.com/falcosecurity/falco) - Falco: Container Native Runtime Security
 - [SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
-- [pyflame](https://github.com/uber/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python
+- [pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained.
 - [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
@@ -416,7 +416,7 @@
 - [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、Java、C++、Python、操作系统、网络、系统设计
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [cassandra](https://github.com/apache/cassandra) - Mirror of Apache Cassandra
@@ -747,7 +747,7 @@
 - [sanic](https://github.com/huge-success/sanic) - Async Python 3.6+ web server/framework | Build fast. Run fast.
 - [hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
-- [cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init project.
+- [cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init project
 - [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about containers.
 - [aiosmtpd](https://github.com/aio-libs/aiosmtpd) - A reimplementation of the Python stdlib smtpd.py based on asyncio.
 - [pythia](https://github.com/facebookresearch/pythia) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
@@ -974,6 +974,7 @@
 
 ## Rust 
 
+- [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [native_spark](https://github.com/rajasekarv/native_spark) - A new arguably faster implementation of Apache Spark from scratch in Rust
 - [rudr](https://github.com/oam-dev/rudr) - A Kubernetes implementation of the Open Application Model specification
 - [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts
@@ -1132,6 +1133,7 @@
 
 ## TypeScript 
 
+- [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [ionic](https://github.com/ionic-team/ionic) - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
 - [stencil](https://github.com/ionic-team/stencil) - A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team
 - [photonjs](https://github.com/prisma/photonjs) - Type-safe database client for TypeScript & Node.js (ORM replacement)
