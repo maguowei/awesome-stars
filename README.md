@@ -490,7 +490,7 @@
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
 - [G2](https://github.com/antvis/G2) - 📊 The Grammar of Graphics in JavaScript
@@ -686,7 +686,7 @@
 - [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
 - [uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
 - [containerregistry](https://github.com/google/containerregistry) - A set of Python libraries and tools for interacting with a Docker Registry.
-- [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - A curated collection of useful Python snippets that you can understand in 30 seconds or less.
+- [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing
 - [healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django
 - [graalpython](https://github.com/graalvm/graalpython) - A Python 3 implementation built on GraalVM
