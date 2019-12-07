@@ -425,6 +425,7 @@
 
 ## JavaScript 
 
+- [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [evil-huawei](https://github.com/evil-huawei/evil-huawei) - Evil Huawei - 华为作过的恶
 - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (November 2019)
@@ -667,6 +668,9 @@
 
 ## Python 
 
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
+- [serverless-application-model](https://github.com/awslabs/serverless-application-model) - AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications
+- [memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code
 - [gpt2-ml](https://github.com/imcaspar/gpt2-ml) - GPT2 for Multiple Languages, including pretrained models. GPT2 多语言支持, 15亿参数中文预训练模型
 - [django-inline-actions](https://github.com/escaped/django-inline-actions) - django-inline-actions adds actions to each row of the ModelAdmin or InlineModelAdmin.
 - [python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
@@ -747,7 +751,7 @@
 - [sanic](https://github.com/huge-success/sanic) - Async Python 3.6+ web server/framework | Build fast. Run fast.
 - [hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
-- [cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init project
+- [cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about containers.
 - [aiosmtpd](https://github.com/aio-libs/aiosmtpd) - A reimplementation of the Python stdlib smtpd.py based on asyncio.
 - [pythia](https://github.com/facebookresearch/pythia) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
@@ -1026,6 +1030,7 @@
 
 ## Swift 
 
+- [Plot](https://github.com/JohnSundell/Plot) - A DSL for writing type-safe HTML, XML and RSS in Swift.
 - [V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 - [OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI) - WIP — OpenSwiftUI is an OpenSource implementation of Apple's SwiftUI DSL.
 - [SwiftUI-PullToRefresh](https://github.com/AppPear/SwiftUI-PullToRefresh) - Pull to refresh in SwiftUI for List, NavigationView
@@ -1151,7 +1156,7 @@
 - [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
 - [rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
-- [bit](https://github.com/teambit/bit) - Easily share components across projects and applications as a team.
+- [bit](https://github.com/teambit/bit) - The shortest way to reuse atomic components between projects
 - [theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences.
 - [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
