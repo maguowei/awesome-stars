@@ -112,6 +112,7 @@
 
 ## Go 
 
+- [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
 - [ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
 - [spikeSystem](https://github.com/GuoZhaoran/spikeSystem) - 
 - [bfe](https://github.com/baidu/bfe) - Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd
@@ -1156,7 +1157,7 @@
 - [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
 - [rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
-- [bit](https://github.com/teambit/bit) - The shortest way to reuse atomic components between projects
+- [bit](https://github.com/teambit/bit) - The shortest way to reuse atomic UI components between projects.
 - [theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences.
 - [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
