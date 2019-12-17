@@ -432,7 +432,7 @@
 - [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [evil-huawei](https://github.com/evil-huawei/evil-huawei) - Evil Huawei - 华为作过的恶
 - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (November 2019)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (December 2019)
 - [appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -1160,7 +1160,7 @@
 - [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
 - [rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
-- [bit](https://github.com/teambit/bit) - Share components between projects as a team.
+- [bit](https://github.com/teambit/bit) - Easily share code between projects with your team.
 - [theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences.
 - [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
