@@ -492,7 +492,7 @@
 - [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架
 - [react-markdown](https://github.com/rexxars/react-markdown) - Render Markdown as React components
 - [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - A Wysiwyg editor build on top of ReactJS and DraftJS. https://jpuri.github.io/react-draft-wysiwyg
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -887,7 +887,7 @@
 - [home-assistant](https://github.com/home-assistant/home-assistant) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - Exploring Python through counter-intuitive snippets.
 - [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Python SDK https://slack.dev/python-slackclient/
 - [pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is a library to extract, transform, and visually explore big graphs
 - [budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
