@@ -113,6 +113,9 @@
 
 ## Go 
 
+- [ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
+- [imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go
+- [kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
 - [ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
@@ -594,6 +597,7 @@
 
 ## Others 
 
+- [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [python-data-structure-cn](https://github.com/facert/python-data-structure-cn) - problem-solving-with-algorithms-and-data-structure-using-python 中文版
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
@@ -1047,7 +1051,7 @@
 - [ui-fabric-ios](https://github.com/OfficeDev/ui-fabric-ios) - Office UI Fabric for iOS - The front-end framework for building experiences for Office and Office 365
 - [InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 - [Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework.
-- [SwiftLocation](https://github.com/malcommac/SwiftLocation) - Efficient and easy to use location tracking / geocoding / autocomplete / iBeacon framework for iOS (CLLocationManager)
+- [SwiftLocation](https://github.com/malcommac/SwiftLocation) - Efficient/Easy GPS tracking, reverse geocoding, region monitoring autocomplete, beacon for iOS
 - [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift
 - [Pock](https://github.com/pigigaldi/Pock) - Display macOS Dock in Touch Bar
 - [Shout](https://github.com/jakeheis/Shout) - SSH made easy in Swift
@@ -1135,6 +1139,7 @@
 
 ## TypeScript 
 
+- [namae](https://github.com/uetchy/namae) - ☕️ name your new project.
 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [ionic](https://github.com/ionic-team/ionic) - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
 - [stencil](https://github.com/ionic-team/stencil) - A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team
@@ -1153,7 +1158,7 @@
 - [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
 - [rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
-- [bit](https://github.com/teambit/bit) - Easily share code between projects with your team.
+- [bit](https://github.com/teambit/bit) - Easily share components between projects, with your team. Compose UI applications together.
 - [theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences.
 - [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
