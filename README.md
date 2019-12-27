@@ -113,6 +113,7 @@
 
 ## Go 
 
+- [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 - [ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
 - [imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go
 - [kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes
