@@ -325,7 +325,7 @@
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
-- [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple 🎂🎁
+- [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
 - [sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management
 - [pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
