@@ -91,7 +91,6 @@
 
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
-- [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
 - [weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
@@ -148,7 +147,7 @@
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [maesh](https://github.com/containous/maesh) - Simpler Service Mesh
 - [ginkgo](https://github.com/onsi/ginkgo) - BDD Testing Framework for Go
-- [torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent-client package and utilities
+- [torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 - [lute](https://github.com/b3log/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。
@@ -230,7 +229,7 @@
 - [trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
 - [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
-- [inlets](https://github.com/inlets/inlets) - Expose your local endpoints to the Internet
+- [inlets](https://github.com/inlets/inlets) - Reverse proxy and service tunnel written in Go
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [stun](https://github.com/gortc/stun) - Fast RFC 5389 STUN implementation in go
 - [semver](https://github.com/blang/semver) - Semantic Versioning (semver) library written in golang
@@ -395,7 +394,6 @@
 - [professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
 - [flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》电子书
 - [nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
-- [beijing_house_knowledge](https://github.com/facert/beijing_house_knowledge) - 北京买房攻略
 - [AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 
@@ -683,6 +681,7 @@
 
 ## Python 
 
+- [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [ALBERT](https://github.com/google-research/ALBERT) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
 - [modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
