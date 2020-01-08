@@ -112,6 +112,7 @@
 
 ## Go 
 
+- [k3sup](https://github.com/alexellis/k3sup) - k3sup: from Zero to KUBECONFIG in &lt; 1 min 🚀
 - [chaos-mesh](https://github.com/pingcap/chaos-mesh) - A Chaos Engineering Platform for Kubernetes
 - [kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)
 - [livego](https://github.com/gwuhaolin/livego) - 纯 Go 写的直播服务器
@@ -218,7 +219,7 @@
 - [opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
 - [ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
-- [krew](https://github.com/kubernetes-sigs/krew) - 📦 Package manager for kubectl plugins
+- [krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [micro](https://github.com/micro/micro) - A microservice runtime environment
