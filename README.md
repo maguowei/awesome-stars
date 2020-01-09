@@ -112,6 +112,7 @@
 
 ## Go 
 
+- [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [k3sup](https://github.com/alexellis/k3sup) - k3sup: from Zero to KUBECONFIG in &lt; 1 min 🚀
 - [chaos-mesh](https://github.com/pingcap/chaos-mesh) - A Chaos Engineering Platform for Kubernetes
 - [kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)
@@ -262,7 +263,7 @@
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
-- [nps](https://github.com/cnlh/nps) - 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
+- [nps](https://github.com/ehang-io/nps) - a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
@@ -745,7 +746,7 @@
 - [pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures
-- [UGATIT](https://github.com/taki0112/UGATIT) - Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation
+- [UGATIT](https://github.com/taki0112/UGATIT) - Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
 - [distributed](https://github.com/dask/distributed) - A distributed task scheduler for Dask
 - [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
