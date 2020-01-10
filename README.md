@@ -36,12 +36,14 @@
   - [Shell](#shell)
   - [Smarty](#smarty)
   - [Swift](#swift)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [Vue](#vue)
 
 ## C 
 
+- [acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [edgefs](https://github.com/Nexenta/edgefs) - EdgeFS - decentralized, scalable data platform for Edge/IoT Computing and Kubernetes apps
@@ -263,7 +265,7 @@
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
-- [nps](https://github.com/ehang-io/nps) - a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+- [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
@@ -483,7 +485,7 @@
 - [BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 - [F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive SVG Charts
-- [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
+- [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
@@ -683,6 +685,8 @@
 
 ## Python 
 
+- [CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation | CPython 源码阅读笔记, 多图展示底层实现细节
+- [SlowFast](https://github.com/facebookresearch/SlowFast) - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
 - [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [ALBERT](https://github.com/google-research/ALBERT) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
@@ -1048,6 +1052,7 @@
 
 ## Swift 
 
+- [Publish](https://github.com/JohnSundell/Publish) - A static site generator for Swift developers
 - [Plot](https://github.com/JohnSundell/Plot) - A DSL for writing type-safe HTML, XML and RSS in Swift.
 - [V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 - [OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI) - WIP — OpenSwiftUI is an OpenSource implementation of Apple's SwiftUI DSL.
@@ -1154,6 +1159,10 @@
 - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 - [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
 
+## TeX 
+
+- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) - Cheat Sheets
+
 ## TypeScript 
 
 - [namae](https://github.com/uetchy/namae) - ☕️ name your new project.
@@ -1175,7 +1184,7 @@
 - [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
 - [rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
-- [bit](https://github.com/teambit/bit) - Easily share components between projects, with your team. Compose UI applications together.
+- [bit](https://github.com/teambit/bit) - Build, version and distribute reusable components.
 - [theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences.
 - [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
