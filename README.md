@@ -40,7 +40,6 @@
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [Vue](#vue)
-  - [WebAssembly](#webassembly)
 
 ## C 
 
@@ -114,6 +113,7 @@
 
 ## Go 
 
+- [local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Use HostPath for persistent local storage with Kubernetes
 - [devspace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [k3sup](https://github.com/alexellis/k3sup) - k3sup: from Zero to KUBECONFIG in &lt; 1 min 🚀
@@ -214,6 +214,7 @@
 - [go-git](https://github.com/src-d/go-git) - A highly extensible Git implementation in pure Go.
 - [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Lyft's Envoy proxy.
+- [xuperchain](https://github.com/xuperchain/xuperchain) - A highly flexible blockchain architecture with great transaction performance.
 - [gortcd](https://github.com/gortc/gortcd) - Fast TURN and STUN server: cross-platform, hot reload, flexible config
 - [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
 - [kyma](https://github.com/kyma-project/kyma) - A flexible and easy way to connect and extend enterprise applications in a cloud-native world
@@ -413,7 +414,7 @@
 - [Quicksql](https://github.com/Qihoo360/Quicksql) - Simpler, Safer, Faster Unified SQL Analytics Engine for Multi-Datasources
 - [nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
-- [beam](https://github.com/apache/beam) - Apache Beam
+- [beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming
 - [DoraemonKit](https://github.com/didi/DoraemonKit) - 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。
 - [alluxio](https://github.com/Alluxio/alluxio) - Alluxio, data orchestration for analytics and machine learning in the cloud
 - [flink](https://github.com/apache/flink) - Apache Flink
@@ -857,7 +858,7 @@
 - [spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 - [websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python
 - [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
-- [autokeras](https://github.com/keras-team/autokeras) - Accessible AutoML for deep learning.
+- [autokeras](https://github.com/keras-team/autokeras) - An AutoML system based on Keras
 - [faust](https://github.com/robinhood/faust) - Python Stream Processing
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
@@ -1198,10 +1199,6 @@
 ## Vue 
 
 - [lyanna](https://github.com/dongweiming/lyanna) - My Blog Using Sanic
-
-## WebAssembly 
-
-- [xuperunion](https://github.com/xuperchain/xuperunion) - A highly flexible blockchain architecture with great transaction performance.
 
 
 ## License
