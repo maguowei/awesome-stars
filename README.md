@@ -38,6 +38,7 @@
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [V](#v)
   - [Vim script](#vim-script)
   - [Vue](#vue)
 
@@ -113,6 +114,8 @@
 
 ## Go 
 
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
+- [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models in production
 - [k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab's k3s in Docker
 - [local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Use HostPath for persistent local storage with Kubernetes
 - [devspace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
@@ -465,7 +468,6 @@
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [chameleon](https://github.com/didi/chameleon) - 🦎 一套代码运行多端，一端所见即多端所见
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [next](https://github.com/alibaba-fusion/next) - 🦍 A configurable component library for web built on React.
 - [taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。  https://taro.jd.com/
 - [33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
@@ -487,7 +489,6 @@
 - [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [mobx-react](https://github.com/mobxjs/mobx-react) - React bindings for MobX
 - [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
-- [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) - 2018 edition of our front-end development handbook
 - [react-spring](https://github.com/react-spring/react-spring) - ✌️ A spring physics based React animation library
 - [How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly) - [全文]如何正确的学习Node.js
@@ -1023,6 +1024,7 @@
 
 ## Shell 
 
+- [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [kuttle](https://github.com/kayrus/kuttle) - Kubernetes wrapper for sshuttle
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -1171,6 +1173,7 @@
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [ant-design-dark-theme](https://github.com/ant-design/ant-design-dark-theme) - 🌚 Dark theme variables of Ant Design
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [react-apollo](https://github.com/apollographql/react-apollo) - :recycle: React integration for Apollo Client
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -1184,6 +1187,7 @@
 - [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 - [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI
+- [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create placeholder loadings (like Facebook cards loading)
 - [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (or TypeScript).
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
@@ -1193,6 +1197,10 @@
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+
+## V 
+
+- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. Stable 0.2 release in January 2020. https://vlang.io
 
 ## Vim script 
 
