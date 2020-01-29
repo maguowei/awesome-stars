@@ -63,6 +63,7 @@
 
 ## C++ 
 
+- [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [cardboard](https://github.com/googlevr/cardboard) - Open source Cardboard SDK and samples
 - [multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [blazingsql](https://github.com/BlazingDB/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
@@ -114,6 +115,8 @@
 
 ## Go 
 
+- [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+- [blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [gim](https://github.com/alberliu/gim) - golang写的IM服务器，支持多业务接入
 - [aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
 - [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models in production
@@ -605,6 +608,7 @@
 
 ## Others 
 
+- [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱
 - [backendlore](https://github.com/fpereiro/backendlore) - How I write backends
 - [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus) - 公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。
@@ -684,6 +688,7 @@
 
 ## Python 
 
+- [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning
 - [injector](https://github.com/alecthomas/injector) - Python dependency injection framework, inspired by Guice
 - [12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.
@@ -1089,7 +1094,6 @@
 - [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
 - [SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
 - [AloeStackView](https://github.com/airbnb/AloeStackView) - A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout.
-- [token-core-ios](https://github.com/consenlabs/token-core-ios) - a blockchain private key management library on iOS
 - [DataSourceKit](https://github.com/ishkawa/DataSourceKit) - Declarative, testable data source of UICollectionView and UITableView.
 - [NSFWDetector](https://github.com/lovoo/NSFWDetector) - A NSFW (aka porn) detector with CoreML
 - [Schedule](https://github.com/luoxiu/Schedule) - Schedule timing task in Swift using a fluent API. (A friendly alternative to Timer)
