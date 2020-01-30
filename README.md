@@ -803,7 +803,7 @@
 - [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
 - [pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
-- [curio](https://github.com/dabeaz/curio) - Curio - Don't Use Curio if You're Allergic to Curio
+- [curio](https://github.com/dabeaz/curio) - Curio - There Are Many Async Libraries, But This One is Mine
 - [google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
 - [public-speaking-with-meaning](https://github.com/xiaolai/public-speaking-with-meaning) - 《我也有话要说》—— 普通人的当众讲话技能
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).
