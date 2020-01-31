@@ -115,6 +115,7 @@
 
 ## Go 
 
+- [git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [gim](https://github.com/alberliu/gim) - golang写的IM服务器，支持多业务接入
@@ -210,7 +211,7 @@
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
-- [go-micro](https://github.com/micro/go-micro) - A Go microservices development framework
+- [go-micro](https://github.com/micro/go-micro) - A Go microservices development framework https://go-micro.dev
 - [volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System
 - [sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8, and up.
 - [errors](https://github.com/pkg/errors) - Simple error handling primitives
@@ -433,7 +434,6 @@
 - [kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
-- [presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [zeppelin](https://github.com/apache/zeppelin) - Mirror of Apache Zeppelin
 - [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
 
@@ -458,7 +458,7 @@
 - [elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
 - [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) - Puppeteer, Headless Chrome；爬取《es6标准入门》、自动推文到掘金、站点性能分析；高级爬虫、自动化UI测试、性能分析；
 - [gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
-- [style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art:
+- [style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
@@ -806,7 +806,7 @@
 - [curio](https://github.com/dabeaz/curio) - Curio - There Are Many Async Libraries, But This One is Mine
 - [google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
 - [public-speaking-with-meaning](https://github.com/xiaolai/public-speaking-with-meaning) - 《我也有话要说》—— 普通人的当众讲话技能
-- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deep fakes.
 - [mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484)
 - [dpark](https://github.com/douban/dpark) - Python clone of Spark,  a MapReduce alike framework in Python
 - [cached-property](https://github.com/pydanny/cached-property) - A decorator for caching properties in classes.
@@ -1047,7 +1047,7 @@
 - [kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook
-- [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
