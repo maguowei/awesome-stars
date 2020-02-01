@@ -115,6 +115,7 @@
 
 ## Go 
 
+- [webkubectl](https://github.com/KubeOperator/webkubectl) - Run kubectl command in Web Browser.
 - [git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
@@ -688,6 +689,8 @@
 
 ## Python 
 
+- [KubeOperator](https://github.com/KubeOperator/KubeOperator) - KubeOperator 是一个开源项目，通过 Web UI 在 VMware、OpenStack 和物理机上规划、部署和运营生产级别的 Kubernetes 集群。支持内网离线环境、支持 GPU、内置应用商店，已通过 CNCF 的 Kubernetes 软件一致性认证。
+- [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning
 - [injector](https://github.com/alecthomas/injector) - Python dependency injection framework, inspired by Guice
 - [12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
@@ -1007,6 +1010,7 @@
 
 ## Rust 
 
+- [OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [native_spark](https://github.com/rajasekarv/native_spark) - A new arguably faster implementation of Apache Spark from scratch in Rust
 - [rudr](https://github.com/oam-dev/rudr) - A Kubernetes implementation of the Open Application Model specification
@@ -1170,6 +1174,7 @@
 
 ## TypeScript 
 
+- [kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [namae](https://github.com/uetchy/namae) - ☕️ name your new project.
 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [ionic](https://github.com/ionic-team/ionic) - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
