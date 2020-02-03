@@ -193,7 +193,7 @@
 - [autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
-- [night-reading-go](https://github.com/developer-learning/night-reading-go) - 【春节暂停更新】Night-Reading-Go《Go 夜读》 &gt; Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics.      每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
+- [night-reading-go](https://github.com/developer-learning/night-reading-go) - Night-Reading-Go《Go 夜读》 &gt; Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics.      每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
 - [sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) - Static provisioner of local volumes
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
 - [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
@@ -440,7 +440,6 @@
 
 ## JavaScript 
 
-- [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
 - [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
 - [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
@@ -691,7 +690,7 @@
 
 ## Python 
 
-- [KubeOperator](https://github.com/KubeOperator/KubeOperator) - KubeOperator 是一个开源项目，通过 Web UI 在 VMware、OpenStack 和物理机上规划、部署和运营生产级别的 Kubernetes 集群。支持内网离线环境、支持 GPU、内置应用商店，已通过 CNCF 的 Kubernetes 软件一致性认证。
+- [KubeOperator](https://github.com/KubeOperator/KubeOperator) - KubeOperator 是一个开源项目，通过 Web UI 在 VMware、OpenStack 和物理机上规划、部署和运营生产级别的 Kubernetes 集群。支持内网离线环境、支持 GPU、应用商店，已通过 CNCF 的 Kubernetes 软件一致性认证。
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning
 - [injector](https://github.com/alecthomas/injector) - Python dependency injection framework, inspired by Guice
@@ -1215,7 +1214,7 @@
 
 ## V 
 
-- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. Stable 0.2 release in January 2020. https://vlang.io
+- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. https://vlang.io
 
 ## Vim script 
 
