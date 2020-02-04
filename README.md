@@ -115,6 +115,7 @@
 
 ## Go 
 
+- [cli](https://github.com/cli/cli) - the GitHub CLI
 - [webkubectl](https://github.com/KubeOperator/webkubectl) - Run kubectl command in Web Browser.
 - [git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
@@ -184,6 +185,7 @@
 - [elvish](https://github.com/elves/elvish) - Friendly Interactive Shell and Expressive Programming Language
 - [bark-server](https://github.com/Finb/bark-server) - Backend of Bark
 - [pulumi](https://github.com/pulumi/pulumi) - Modern Infrastructure as Code - Create, deploy, and manage infrastructure on any cloud using your favorite language.
+- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [ksync](https://github.com/ksync/ksync) - Sync files between your local system and a kubernetes cluster.
@@ -609,7 +611,6 @@
 
 ## Others 
 
-- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱
 - [backendlore](https://github.com/fpereiro/backendlore) - How I write backends
@@ -1222,7 +1223,6 @@
 
 ## Vue 
 
-- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 - [lyanna](https://github.com/dongweiming/lyanna) - My Blog Using Sanic
 
 
