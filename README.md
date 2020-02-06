@@ -691,6 +691,7 @@
 
 ## Python 
 
+- [dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
 - [KubeOperator](https://github.com/KubeOperator/KubeOperator) - KubeOperator 是一个开源项目，通过 Web UI 在 VMware、OpenStack 和物理机上规划、部署和运营生产级别的 Kubernetes 集群。支持内网离线环境、支持 GPU、应用商店，已通过 CNCF 的 Kubernetes 软件一致性认证。
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning
