@@ -142,7 +142,6 @@
 - [ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
 - [spikeSystem](https://github.com/GuoZhaoran/spikeSystem) - 
 - [bfe](https://github.com/baidu/bfe) - Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd
-- [kubectl-doctor](https://github.com/emirozer/kubectl-doctor) - kubectl cluster triage plugin for k8s - 🏥   (brew doctor equivalent)
 - [radvpn](https://github.com/mehrdadrad/radvpn) - Decentralized VPN
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [kubectl-debug](https://github.com/aylei/kubectl-debug) - Debug your pod by a new container with every troubleshooting tools pre-installed
@@ -612,7 +611,7 @@
 ## Others 
 
 - [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱。Most of this not work outside China , so no English translate, sorry
 - [backendlore](https://github.com/fpereiro/backendlore) - How I write backends
 - [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus) - 公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。
 - [OnJava8](https://github.com/LingCoder/OnJava8) - 《On Java 8》中文版，又名《Java编程思想》 第5版
@@ -629,6 +628,7 @@
 - [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [mononoke](https://github.com/facebookexperimental/mononoke) - A Mercurial source control server, specifically designed to support large monorepos.
 - [clean-go-article](https://github.com/Pungyeon/clean-go-article) - A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.
 - [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers.
@@ -1022,7 +1022,6 @@
 - [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
 - [rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code!
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [mononoke](https://github.com/facebookexperimental/mononoke) - A Mercurial source control server, specifically designed to support large monorepos.
 - [quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
@@ -1041,6 +1040,7 @@
 
 ## Shell 
 
+- [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [kuttle](https://github.com/kayrus/kuttle) - Kubernetes wrapper for sshuttle
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
