@@ -38,7 +38,6 @@
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
-  - [V](#v)
   - [Vim script](#vim-script)
   - [Vue](#vue)
 
@@ -49,7 +48,6 @@
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [edgefs](https://github.com/Nexenta/edgefs) - EdgeFS - decentralized, scalable data platform for Edge/IoT Computing and Kubernetes apps
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
-- [yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [ish](https://github.com/tbodt/ish) - Linux shell for iOS
 - [RediSearch](https://github.com/RediSearch/RediSearch) - Fulltext Search and Secondary Index module for Redis
@@ -66,7 +64,6 @@
 - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [cardboard](https://github.com/googlevr/cardboard) - Open source Cardboard SDK and samples
 - [multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
-- [blazingsql](https://github.com/BlazingDB/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
 - [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
 - [falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
@@ -115,10 +112,10 @@
 
 ## Go 
 
-- [hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes
+- [titan](https://github.com/distributedio/titan) - A Distributed Redis Protocol Compatible NoSQL Database
+- [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8, and up.
-- [cli](https://github.com/cli/cli) - the GitHub CLI
-- [webkubectl](https://github.com/KubeOperator/webkubectl) - Run kubectl command in Web Browser.
+- [cli](https://github.com/cli/cli) - The GitHub CLI
 - [git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
@@ -127,14 +124,10 @@
 - [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models in production
 - [k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab's k3s in Docker
 - [local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Use HostPath for persistent local storage with Kubernetes
-- [devspace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [k3sup](https://github.com/alexellis/k3sup) - from Zero to KUBECONFIG in &lt; 1 min 🚀
 - [chaos-mesh](https://github.com/pingcap/chaos-mesh) - A Chaos Engineering Platform for Kubernetes
-- [kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)
 - [livego](https://github.com/gwuhaolin/livego) - 纯 Go 写的直播服务器
-- [submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
-- [ktunnel](https://github.com/omrikiei/ktunnel) - A cli that exposes your local resources to kubernetes
 - [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 - [ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
 - [imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go
@@ -142,7 +135,6 @@
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
 - [ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
-- [spikeSystem](https://github.com/GuoZhaoran/spikeSystem) - 一个秒杀系统的例子分析
 - [bfe](https://github.com/baidu/bfe) - Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd
 - [radvpn](https://github.com/mehrdadrad/radvpn) - Decentralized VPN
 - [kubectl-debug](https://github.com/aylei/kubectl-debug) - Debug your pod by a new container with every troubleshooting tools pre-installed
@@ -154,7 +146,6 @@
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [golangci-lint](https://github.com/golangci/golangci-lint) - Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
 - [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
-- [watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [yaegi](https://github.com/containous/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
@@ -166,16 +157,13 @@
 - [kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 - [lute](https://github.com/b3log/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。
-- [sqltop](https://github.com/ngaut/sqltop) - A linux top like tool for TiDB
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place
 - [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
 - [cloud-run-button](https://github.com/GoogleCloudPlatform/cloud-run-button) - Let anyone deploy your GitHub repos to Google Cloud Run with a single click
 - [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
-- [shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
 - [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database, long-term remote storage for Prometheus
-- [kudo](https://github.com/kudobuilder/kudo) - Kubernetes Universal Declarative Operator (KUDO)
 - [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [kube-batch](https://github.com/kubernetes-sigs/kube-batch) - A batch scheduler of kubernetes for high performance workload, e.g. AI/ML, BigData, HPC
 - [octant](https://github.com/vmware-tanzu/octant) - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
@@ -228,7 +216,6 @@
 - [kyma](https://github.com/kyma-project/kyma) - A flexible and easy way to connect and extend enterprise applications in a cloud-native world
 - [opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
-- [ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
 - [krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -238,7 +225,6 @@
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
 - [xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
-- [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [stun](https://github.com/gortc/stun) - Fast RFC 5389 STUN implementation in go
@@ -262,7 +248,6 @@
 - [kratos](https://github.com/bilibili/kratos) - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
 - [go-common](https://github.com/openbilibili/go-common) - 哔哩哔哩 bilibili 网站后台工程 源码
 - [cost-model](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes
-- [origin](https://github.com/openshift/origin) - The self-managing, auto-upgrading, Kubernetes distribution for everyone
 - [helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
@@ -412,14 +397,12 @@
 
 ## Java 
 
-- [presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
 - [api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
 - [BigData-Notes](https://github.com/heibaiying/BigData-Notes) - 大数据入门指南  :star:
-- [Quicksql](https://github.com/Qihoo360/Quicksql) - Simpler, Safer, Faster Unified SQL Analytics Engine for Multi-Datasources
 - [nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 - [beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming
@@ -439,7 +422,7 @@
 ## JavaScript 
 
 - [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
-- [amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
+- [amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework. Please give us your feedback on AMP @ https://go.amp.dev/devx-survey
 - [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
 - [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [evil-huawei](https://github.com/evil-huawei/evil-huawei) - Evil Huawei - 华为作过的恶
@@ -550,7 +533,6 @@
 
 ## Jsonnet 
 
-- [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 
 ## Julia 
@@ -562,7 +544,6 @@
 - [python-is-cool](https://github.com/chiphuyen/python-is-cool) - Cool Python features for machine learning that I used to be too afraid to use. Will be updated as I have more time / learn more.
 - [google-research](https://github.com/google-research/google-research) - Google AI Research
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-- [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
 - [Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + LeetCode + Kaggle
 - [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
@@ -570,7 +551,6 @@
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras, PyTorch and BigDL on Apache Spark
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
-- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 - [DensePose](https://github.com/facebookresearch/DensePose) - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 - [kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
@@ -626,7 +606,6 @@
 - [mononoke](https://github.com/facebookexperimental/mononoke) - A Mercurial source control server, specifically designed to support large monorepos.
 - [clean-go-article](https://github.com/Pungyeon/clean-go-article) - A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.
 - [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
-- [krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers.
 - [nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) - 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
 - [mlsys-ladder](https://github.com/caicloud/mlsys-ladder) - Learning Machine Learning, The Chinese Taoist Way
 - [kube-ladder](https://github.com/caicloud/kube-ladder) - Learning Kubernetes, The Chinese Taoist Way
@@ -691,7 +670,6 @@
 - [h5py](https://github.com/h5py/h5py) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
 - [peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
 - [dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
-- [KubeOperator](https://github.com/KubeOperator/KubeOperator) - KubeOperator 是一个开源项目，通过 Web UI 在 VMware、OpenStack 和物理机上规划、部署和运营生产级别的 Kubernetes 集群。支持内网离线环境、支持 GPU、应用商店，已通过 CNCF 的 Kubernetes 软件一致性认证。
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning
 - [injector](https://github.com/alecthomas/injector) - Python dependency injection framework, inspired by Guice
@@ -716,7 +694,6 @@
 - [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [alembic](https://github.com/sqlalchemy/alembic) - a database migrations tool for SQLAlchemy.
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
-- [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
 - [reloading](https://github.com/julvo/reloading) - Change Python code while it's running using a reloading loop
 - [KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
 - [llvmlite](https://github.com/numba/llvmlite) - A lightweight LLVM python binding for writing JIT compilers
@@ -739,7 +716,6 @@
 - [algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
 - [hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
 - [elasticdl](https://github.com/sql-machine-learning/elasticdl) - Kubernetes-native Deep Learning Framework
-- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 - [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) - Chinese version of GPT2 training code, using BERT tokenizer.
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
@@ -753,7 +729,6 @@
 - [pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
 - [graphene-sqlalchemy](https://github.com/graphql-python/graphene-sqlalchemy) - Graphene SQLAlchemy integration
 - [pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
-- [kopf](https://github.com/zalando-incubator/kopf) - A Python framework to write Kubernetes operators in just few lines of code.
 - [numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 - [mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
@@ -830,7 +805,6 @@
 - [vid2vid](https://github.com/NVIDIA/vid2vid) - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 - [clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
-- [records](https://github.com/kennethreitz/records) - SQL for Humans™
 - [jsonschema](https://github.com/Julian/jsonschema) - An(other) implementation of JSON Schema for Python
 - [microblog](https://github.com/miguelgrinberg/microblog) - A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
 - [pkuseg-python](https://github.com/lancopku/pkuseg-python) - pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
@@ -848,7 +822,6 @@
 - [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [django-simple-history](https://github.com/treyhunner/django-simple-history) - Store model history and view/revert changes from admin site.
 - [The-Big-Username-Blacklist](https://github.com/marteinn/The-Big-Username-Blacklist) - This is a opinionated blacklist of words that you might not like to see used as usernames in your service.
-- [q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
 - [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [pytrends](https://github.com/GeneralMills/pytrends) - Pseudo API for Google Trends
@@ -1033,7 +1006,6 @@
 
 ## Scala 
 
-- [polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [BigDL](https://github.com/intel-analytics/BigDL) - BigDL: Distributed Deep Learning Library for Apache Spark
 - [delta](https://github.com/delta-io/delta) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
 - [spark](https://github.com/apache/spark) - Apache Spark
@@ -1177,7 +1149,6 @@
 
 ## TypeScript 
 
-- [kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [namae](https://github.com/uetchy/namae) - ☕️ name your new project.
 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [ionic](https://github.com/ionic-team/ionic) - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
@@ -1214,10 +1185,6 @@
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-
-## V 
-
-- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. https://vlang.io
 
 ## Vim script 
 
