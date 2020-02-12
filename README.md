@@ -990,7 +990,7 @@
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [native_spark](https://github.com/rajasekarv/native_spark) - A new arguably faster implementation of Apache Spark from scratch in Rust
 - [rudr](https://github.com/oam-dev/rudr) - A Kubernetes implementation of the Open Application Model specification
-- [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts
+- [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell.
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
 - [rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code!
