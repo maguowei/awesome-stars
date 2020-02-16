@@ -56,6 +56,7 @@
 
 ## C++ 
 
+- [srs](https://github.com/ossrs/srs) - SRS is a live streaming cluster, high efficiency, stable and simple.
 - [vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
@@ -103,6 +104,8 @@
 
 ## Go 
 
+- [goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
+- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
 - [uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 - [ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
 - [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -184,7 +187,7 @@
 - [autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
-- [night-reading-go](https://github.com/developer-learning/night-reading-go) - Night-Reading-Go《Go 夜读》 &gt; Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics.      每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
+- [night-reading-go](https://github.com/developer-learning/night-reading-go) - Night-Reading-Go《Go 夜读》 &gt; Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics.      由 Go 夜读 SIG 成员维护，并通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
 - [sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) - Static provisioner of local volumes
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
 - [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
@@ -591,6 +594,8 @@
 
 ## Python 
 
+- [microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
+- [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
 - [aria2p](https://github.com/pawamoy/aria2p) - Command-line tool and library to interact with an aria2c daemon process with JSON-RPC.
 - [nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
 - [jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
@@ -932,6 +937,7 @@
 
 ## Swift 
 
+- [ControlRoom](https://github.com/twostraws/ControlRoom) - A macOS app to control the Xcode Simulator.
 - [Publish](https://github.com/JohnSundell/Publish) - A static site generator for Swift developers
 - [Plot](https://github.com/JohnSundell/Plot) - A DSL for writing type-safe HTML, XML and RSS in Swift.
 - [V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
