@@ -104,7 +104,6 @@
 
 ## Go 
 
-- [kube-query](https://github.com/aquasecurity/kube-query) - [EXPERIMENTAL] Extend osquery to report on Kubernetes
 - [goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
 - [uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
@@ -210,7 +209,7 @@
 - [mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
-- [crossplane](https://github.com/crossplaneio/crossplane) - The open source multicloud control plane.
+- [crossplane](https://github.com/crossplane/crossplane) - The open source multicloud control plane.
 - [go-git](https://github.com/src-d/go-git) - A highly extensible Git implementation in pure Go.
 - [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Lyft's Envoy proxy.
