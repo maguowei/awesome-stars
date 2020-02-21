@@ -104,6 +104,7 @@
 
 ## Go 
 
+- [super-graph](https://github.com/dosco/super-graph) - Super Graph - Build web products faster. Secure high performance GraphQL
 - [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
@@ -939,6 +940,7 @@
 
 ## Swift 
 
+- [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine) - Used: SwiftUI and Combine
 - [swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
 - [ControlRoom](https://github.com/twostraws/ControlRoom) - A macOS app to control the Xcode Simulator.
 - [Publish](https://github.com/JohnSundell/Publish) - A static site generator for Swift developers
