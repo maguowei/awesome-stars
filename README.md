@@ -104,6 +104,7 @@
 
 ## Go 
 
+- [apns2](https://github.com/sideshow/apns2) - ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
 - [super-graph](https://github.com/dosco/super-graph) - Super Graph - Build web products faster. Secure high performance GraphQL
 - [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
@@ -262,7 +263,6 @@
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
-- [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server) - benchmarks for implementation of servers which support 1 million connections
 - [container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
@@ -399,7 +399,7 @@
 - [graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
 - [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
-- [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
+- [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [zeppelin](https://github.com/apache/zeppelin) - Mirror of Apache Zeppelin
@@ -408,7 +408,7 @@
 ## JavaScript 
 
 - [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
-- [amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework. Please give us your feedback on AMP @ https://go.amp.dev/devx-survey
+- [amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
 - [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
 - [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
@@ -596,6 +596,7 @@
 
 ## Python 
 
+- [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
 - [aria2p](https://github.com/pawamoy/aria2p) - Command-line tool and library to interact with an aria2c daemon process with JSON-RPC.
@@ -608,7 +609,7 @@
 - [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning
 - [injector](https://github.com/alecthomas/injector) - Python dependency injection framework, inspired by Guice
 - [12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
-- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.
+- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [scalene](https://github.com/emeryberger/scalene) - a high-performance, high-precision CPU and memory profiler for Python
 - [CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation | CPython 源码阅读笔记, 多图展示底层实现细节
 - [SlowFast](https://github.com/facebookresearch/SlowFast) - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
@@ -700,7 +701,7 @@
 - [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
 - [pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
-- [curio](https://github.com/dabeaz/curio) - Curio - There Are Many Async Libraries, But This One is Mine
+- [curio](https://github.com/dabeaz/curio) - Curio - "It's the Sauce!"
 - [google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
 - [public-speaking-with-meaning](https://github.com/xiaolai/public-speaking-with-meaning) - 《我也有话要说》—— 普通人的当众讲话技能
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
@@ -797,7 +798,6 @@
 - [viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
 - [python-etcd3](https://github.com/kragniz/python-etcd3) - Python client for the etcd API v3
 - [ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
-- [django-push-notifications](https://github.com/jazzband/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
 - [httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
@@ -922,7 +922,6 @@
 
 - [db](https://github.com/infostreams/db) - Version control for databases: save, restore, and archive snapshots of your database from the command line
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
-- [kuttle](https://github.com/kayrus/kuttle) - Kubernetes wrapper for sshuttle
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [opencv-python](https://github.com/skvark/opencv-python) - Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
