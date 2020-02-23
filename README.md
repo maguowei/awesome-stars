@@ -104,6 +104,8 @@
 
 ## Go 
 
+- [tidis](https://github.com/yongman/tidis) - Distributed transactional NoSQL database, Redis protocol compatible using tikv as backend
+- [gospider](https://github.com/jaeles-project/gospider) - Gospider - Fast web spider written in Go
 - [apns2](https://github.com/sideshow/apns2) - ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
 - [super-graph](https://github.com/dosco/super-graph) - Super Graph - Build web products faster. Secure high performance GraphQL
 - [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
@@ -533,6 +535,7 @@
 
 ## Objective-C 
 
+- [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
 - [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [realm-cocoa](https://github.com/realm/realm-cocoa) - Realm is a mobile database: a replacement for Core Data & SQLite
 
@@ -596,6 +599,7 @@
 
 ## Python 
 
+- [django-cockroachdb](https://github.com/cockroachdb/django-cockroachdb) - CockroachDB Backend for Django
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
@@ -861,7 +865,7 @@
 - [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
-- [django-redis](https://github.com/niwinz/django-redis) - Full featured redis cache backend for Django.
+- [django-redis](https://github.com/jazzband/django-redis) - Full featured redis cache backend for Django.
 - [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [nltk](https://github.com/nltk/nltk) - NLTK Source
