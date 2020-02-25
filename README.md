@@ -12,7 +12,6 @@
   - [Clojure](#clojure)
   - [Dart](#dart)
   - [Go](#go)
-  - [HCL](#hcl)
   - [HTML](#html)
   - [Haskell](#haskell)
   - [Java](#java)
@@ -366,10 +365,6 @@
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [go](https://github.com/golang/go) - The Go programming language
-
-## HCL 
-
-- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 
 ## HTML 
 
@@ -937,12 +932,14 @@
 - [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook
 - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## Swift 
 
+- [swift-standard-library-preview](https://github.com/apple/swift-standard-library-preview) - 
 - [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine) - Used: SwiftUI and Combine
 - [swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
 - [ControlRoom](https://github.com/twostraws/ControlRoom) - A macOS app to control the Xcode Simulator.
@@ -1037,6 +1034,7 @@
 
 ## TypeScript 
 
+- [wechaty](https://github.com/wechaty/wechaty) - WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖
 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
