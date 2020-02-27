@@ -103,6 +103,7 @@
 
 ## Go 
 
+- [gout](https://github.com/guonaihong/gout) - gout to become the Swiss Army Knife of the http client @^^@---&gt;  gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
 - [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode) - :memo: LeetCode of algorithms with golang solution(updating).
 - [tidis](https://github.com/yongman/tidis) - Distributed transactional NoSQL database, Redis protocol compatible using tikv as backend
 - [gospider](https://github.com/jaeles-project/gospider) - Gospider - Fast web spider written in Go
@@ -410,7 +411,7 @@
 - [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
 - [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (January 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (February 2020)
 - [appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -595,6 +596,7 @@
 
 ## Python 
 
+- [pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper
 - [django-cockroachdb](https://github.com/cockroachdb/django-cockroachdb) - CockroachDB Backend for Django
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
@@ -630,7 +632,7 @@
 - [KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
 - [android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - 
 - [opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - The OpenTelemetry Python Client
-- [detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
+- [detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation platform for object detection and segmentation.
 - [jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
@@ -940,6 +942,7 @@
 
 ## Swift 
 
+- [swift-doc](https://github.com/SwiftDocOrg/swift-doc) - Generates documentation for Swift projects
 - [swift-standard-library-preview](https://github.com/apple/swift-standard-library-preview) - 
 - [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine) - Used: SwiftUI and Combine
 - [swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
