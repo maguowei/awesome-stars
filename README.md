@@ -178,13 +178,13 @@
 - [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database, long-term remote storage for Prometheus
-- [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
+- [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [kube-batch](https://github.com/kubernetes-sigs/kube-batch) - A batch scheduler of kubernetes for high performance workload, e.g. AI/ML, BigData, HPC
 - [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [elvish](https://github.com/elves/elvish) - Friendly Interactive Shell and Expressive Programming Language
-- [pulumi](https://github.com/pulumi/pulumi) - Give your team cloud superpowers 🚀: Modern Infrastructure Provisioning, Delivery, Architecture, Policy, and Testing as Code. Any cloud, any language.
+- [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language. Give your team cloud superpowers 🚀
 - [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
@@ -522,6 +522,7 @@
 
 ## Makefile 
 
+- [frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio Service Mesh Advanced Practical - Istio服务网格进阶实战 by ServiceMesher community https://www.servicemesher.com/istio-handbook/
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
@@ -539,6 +540,8 @@
 
 ## Others 
 
+- [awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
+- [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)
 - [reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱。Most of this not work outside China , so no English translate, sorry
@@ -1051,7 +1054,7 @@
 - [rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
-- [bit](https://github.com/teambit/bit) - Build, version and distribute reusable components.
+- [bit](https://github.com/teambit/bit) - Build, distribute and collaborate on reusable components.
 - [theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences.
 - [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
