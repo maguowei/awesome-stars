@@ -85,6 +85,7 @@
 
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
+- [weui-wxss](https://github.com/Tencent/weui-wxss) - A UI library by WeChat official design team, includes the most useful widgets/modules.
 - [weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
@@ -476,7 +477,6 @@
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-- [weui-wxss](https://github.com/Tencent/weui-wxss) - A UI library by WeChat official design team, includes the most useful widgets/modules.
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
@@ -603,6 +603,7 @@
 
 ## Python 
 
+- [trax](https://github.com/google/trax) - Trax — your path to advanced deep learning
 - [pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper
 - [django-cockroachdb](https://github.com/cockroachdb/django-cockroachdb) - CockroachDB Backend for Django
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
@@ -948,6 +949,7 @@
 
 ## Swift 
 
+- [SwURL](https://github.com/cmtrounce/SwURL) - async image loading in SwiftUI
 - [swift-doc](https://github.com/SwiftDocOrg/swift-doc) - Generates documentation for Swift projects
 - [swift-standard-library-preview](https://github.com/apple/swift-standard-library-preview) - 
 - [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine) - Used: SwiftUI and Combine
