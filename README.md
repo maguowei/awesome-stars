@@ -55,6 +55,7 @@
 
 ## C++ 
 
+- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
 - [srs](https://github.com/ossrs/srs) - SRS is a live streaming cluster, high efficiency, stable and simple.
 - [vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
@@ -104,6 +105,7 @@
 
 ## Go 
 
+- [minter-go-node](https://github.com/MinterTeam/minter-go-node) - 🚀 Official Minter Blockchain Implementation in Go
 - [testgrid](https://github.com/GoogleCloudPlatform/testgrid) - 
 - [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Terraform AWS provider
 - [mutagen](https://github.com/mutagen-io/mutagen) - Make remote development work with your local tools
@@ -207,7 +209,7 @@
 - [rke](https://github.com/rancher/rke) - Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
 - [netstack](https://github.com/google/netstack) - IPv4 and IPv6 userland network stack
 - [octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
-- [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) - 《Mastering GO》中文译本，暂时命名为《玩转 GO》。
+- [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) - 《Mastering GO》中文译本，《玩转 GO》。
 - [go-replayers](https://github.com/google/go-replayers) - 
 - [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -273,7 +275,6 @@
 - [1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server) - benchmarks for implementation of servers which support 1 million connections
 - [container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
 - [blockchain_guide](https://github.com/yeasy/blockchain_guide) - Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
-- [chat](https://github.com/tinode/chat) - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
 - [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
@@ -413,7 +414,6 @@
 
 - [noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
-- [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
 - [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
 - [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
@@ -544,8 +544,8 @@
 
 ## Others 
 
+- [awesome-reversing](https://github.com/tylerha97/awesome-reversing) - A curated list of awesome reversing resources
 - [tidb-in-action](https://github.com/pingcap-incubator/tidb-in-action) - TiDB In Action: based on 4.0
-- [awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
 - [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)
 - [reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.
@@ -605,6 +605,7 @@
 
 ## Python 
 
+- [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [cdk8s](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [senpai](https://github.com/facebookincubator/senpai) - Senpai is an automated memory sizing tool for container applications.
 - [objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
@@ -932,7 +933,6 @@
 
 ## Shell 
 
-- [android-avd](https://github.com/thedrhax-dockerfiles/android-avd) - Headless Android x86 emulator ready for automated instrumentation testing.
 - [db](https://github.com/infostreams/db) - Version control for databases: save, restore, and archive snapshots of your database from the command line
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
