@@ -137,7 +137,7 @@
 - [titan](https://github.com/distributedio/titan) - A Distributed Redis Protocol Compatible NoSQL Database
 - [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8, and up.
-- [cli](https://github.com/cli/cli) - The GitHub CLI
+- [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
@@ -506,7 +506,7 @@
 
 ## Jupyter Notebook 
 
-- [google-research](https://github.com/google-research/google-research) - Google AI Research
+- [google-research](https://github.com/google-research/google-research) - Google Research
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + LeetCode + Kaggle
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
