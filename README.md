@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel written in Go
 - [tiup](https://github.com/pingcap-incubator/tiup) - A component manager for TiDB
 - [minter-go-node](https://github.com/MinterTeam/minter-go-node) - 🚀 Official Minter Blockchain Implementation in Go
 - [testgrid](https://github.com/GoogleCloudPlatform/testgrid) - 
@@ -222,7 +223,7 @@
 - [mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
-- [crossplane](https://github.com/crossplane/crossplane) - The open source multicloud control plane.
+- [crossplane](https://github.com/crossplane/crossplane) - The open source control plane to manage your infrastructure and applications the Kubernetes way.
 - [go-git](https://github.com/src-d/go-git) - A highly extensible Git implementation in pure Go.
 - [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Lyft's Envoy proxy.
@@ -511,7 +512,7 @@
 - [Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + LeetCode + Kaggle
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-- [analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras, PyTorch and BigDL on Apache Spark
+- [analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras, PyTorch and Ray on Apache Spark
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [DensePose](https://github.com/facebookresearch/DensePose) - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 - [kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
@@ -606,6 +607,7 @@
 
 ## Python 
 
+- [android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - 
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [senpai](https://github.com/facebookincubator/senpai) - Senpai is an automated memory sizing tool for container applications.
 - [objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
@@ -909,6 +911,7 @@
 
 ## Rust 
 
+- [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
@@ -953,6 +956,8 @@
 
 ## Swift 
 
+- [mChat](https://github.com/realpaliy/mChat) - iOS - Real-time messenger with a friends map and custom chat color design. 🎨
+- [swift-argument-parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
 - [Tiercel](https://github.com/Danie1s/Tiercel) - 简单易用、功能丰富的纯 Swift 下载框架
 - [SwURL](https://github.com/cmtrounce/SwURL) - async image loading in SwiftUI
 - [swift-doc](https://github.com/SwiftDocOrg/swift-doc) - Generates documentation for Swift projects
