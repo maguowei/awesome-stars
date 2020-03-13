@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [go-tools](https://github.com/dominikh/go-tools) - Staticcheck – a collection of static analysis tools for working with Go code
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel written in Go
 - [tiup](https://github.com/pingcap-incubator/tiup) - A component manager for TiDB
 - [minter-go-node](https://github.com/MinterTeam/minter-go-node) - 🚀 Official Minter Blockchain Implementation in Go
@@ -218,7 +219,7 @@
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
-- [go-micro](https://github.com/micro/go-micro) - A Go microservices development framework
+- [go-micro](https://github.com/micro/go-micro) - A Go Micro services development framework
 - [errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -236,7 +237,7 @@
 - [krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [micro](https://github.com/micro/micro) - A microservice runtime environment
+- [micro](https://github.com/micro/micro) - A Micro services runtime environment for the Cloud
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
@@ -607,6 +608,7 @@
 
 ## Python 
 
+- [GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) - GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)
 - [android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - 
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [senpai](https://github.com/facebookincubator/senpai) - Senpai is an automated memory sizing tool for container applications.
@@ -956,6 +958,7 @@
 
 ## Swift 
 
+- [async-http-client](https://github.com/swift-server/async-http-client) - HTTP client library built on SwiftNIO
 - [mChat](https://github.com/realpaliy/mChat) - iOS - Real-time messenger with a friends map and custom chat color design. 🎨
 - [swift-argument-parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
 - [Tiercel](https://github.com/Danie1s/Tiercel) - 简单易用、功能丰富的纯 Swift 下载框架
