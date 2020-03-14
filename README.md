@@ -172,6 +172,7 @@
 - [yaegi](https://github.com/containous/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [kuma](https://github.com/Kong/kuma) - 🐻 The Control Plane for Modern Service Connectivity
+- [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [maesh](https://github.com/containous/maesh) - Simpler Service Mesh
 - [ginkgo](https://github.com/onsi/ginkgo) - BDD Testing Framework for Go
 - [torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
@@ -311,7 +312,7 @@
 - [m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
-- [teleport](https://github.com/gravitational/teleport) - Privileged access management for elastic infrastructure.
+- [teleport](https://github.com/gravitational/teleport) - Privileged access management that doesn’t get in the way.
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
@@ -382,7 +383,6 @@
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ethereum-compass](https://github.com/laalaguer/ethereum-compass) - 《以太坊的指南针》 一本写给普通人看的以太坊区块链技术书。A Book of Ethereum in Chinese.
 - [eng-practices](https://github.com/rootsongjc/eng-practices) - 谷歌工程实践文档 - https://jimmysong.io/eng-practices
-- [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》电子书
 - [nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
@@ -959,7 +959,7 @@
 ## Swift 
 
 - [async-http-client](https://github.com/swift-server/async-http-client) - HTTP client library built on SwiftNIO
-- [mChat](https://github.com/realpaliy/mChat) - iOS - Real-time messenger with a friends map and custom chat color design. 🎨
+- [mChat](https://github.com/realpaliy/mChat) - iOS - Real-time messaging app  🎨
 - [swift-argument-parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
 - [Tiercel](https://github.com/Danie1s/Tiercel) - 简单易用、功能丰富的纯 Swift 下载框架
 - [SwURL](https://github.com/cmtrounce/SwURL) - async image loading in SwiftUI
