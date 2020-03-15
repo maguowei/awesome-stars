@@ -56,7 +56,7 @@
 ## C++ 
 
 - [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
-- [srs](https://github.com/ossrs/srs) - SRS is a live streaming cluster, high efficiency, stable and simple.
+- [srs](https://github.com/ossrs/srs) - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
 - [vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [kube-scan](https://github.com/octarinesec/kube-scan) - kube-scan: Octarine k8s cluster risk assessment tool
 - [go-tools](https://github.com/dominikh/go-tools) - Staticcheck – a collection of static analysis tools for working with Go code
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel written in Go
 - [tiup](https://github.com/pingcap-incubator/tiup) - A component manager for TiDB
@@ -126,7 +127,7 @@
 - [ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
 - [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [keto](https://github.com/ory/keto) - A cloud native access control server providing best-practice patterns (RBAC, ABAC, ACL, AWS IAM Policies, Kubernetes Roles, ...) via REST APIs. Written in Go.
-- [kratos](https://github.com/ory/kratos) - Never build user login, user registration, 2fa, profile management ever again! Works on any cloud, with any programming language, user interface, and user exerpience! Written in Go.
+- [kratos](https://github.com/ory/kratos) - Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user exerpience! Written in Go.
 - [popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
 - [footloose](https://github.com/weaveworks/footloose) - Container Machines - Containers that look like Virtual Machines
 - [flagger](https://github.com/weaveworks/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
