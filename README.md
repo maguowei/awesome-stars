@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [kube-scan](https://github.com/octarinesec/kube-scan) - kube-scan: Octarine k8s cluster risk assessment tool
 - [go-tools](https://github.com/dominikh/go-tools) - Staticcheck – a collection of static analysis tools for working with Go code
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel written in Go
@@ -416,6 +417,7 @@
 
 ## JavaScript 
 
+- [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
