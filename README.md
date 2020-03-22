@@ -39,6 +39,7 @@
 
 ## C 
 
+- [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [edgefs](https://github.com/Nexenta/edgefs) - EdgeFS - decentralized, scalable data platform for Edge/IoT Computing and Kubernetes apps
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
@@ -922,6 +923,7 @@
 
 ## Rust 
 
+- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
