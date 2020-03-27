@@ -47,7 +47,7 @@
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [ish](https://github.com/tbodt/ish) - Linux shell for iOS
 - [RediSearch](https://github.com/RediSearch/RediSearch) - Fulltext Search and Secondary Index module for Redis
-- [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://my-netdata.io/
+- [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
 - [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 
@@ -113,6 +113,9 @@
 
 ## Go 
 
+- [kt-connect](https://github.com/alibaba/kt-connect) - Manage and Integration with your Kubernetes dev environment more efficient.
+- [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
+- [wagon](https://github.com/go-interpreter/wagon) - wagon, a WebAssembly-based Go interpreter, for Go.
 - [Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
 - [selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
 - [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
@@ -122,7 +125,6 @@
 - [minter-go-node](https://github.com/MinterTeam/minter-go-node) - 🚀 Official Minter Blockchain Implementation in Go
 - [testgrid](https://github.com/GoogleCloudPlatform/testgrid) - 
 - [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Terraform AWS provider
-- [mutagen](https://github.com/mutagen-io/mutagen) - Make remote development work with your local tools
 - [gout](https://github.com/guonaihong/gout) - gout to become the Swiss Army Knife of the http client @^^@---&gt;  gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
 - [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode) - :memo: LeetCode of algorithms with golang solution(updating).
 - [tidis](https://github.com/yongman/tidis) - Distributed transactional NoSQL database, Redis protocol compatible using tikv as backend
@@ -154,7 +156,7 @@
 - [blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [gim](https://github.com/alberliu/gim) - golang写的IM服务器，支持多业务接入
 - [aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
-- [cortex](https://github.com/cortexlabs/cortex) - Machine learning model serving infrastructure for AWS
+- [cortex](https://github.com/cortexlabs/cortex) - Machine learning model serving infrastructure
 - [k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab's k3s in Docker
 - [local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Use HostPath for persistent local storage with Kubernetes
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
@@ -212,7 +214,7 @@
 - [autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
-- [night-reading-go](https://github.com/developer-learning/night-reading-go) - Night-Reading-Go《Go 夜读》 &gt; Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics.      由 Go 夜读 SIG 成员维护，并通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
+- [night](https://github.com/talk-go/night) - Weekly Go Online Meetup via Zoom and Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
 - [sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) - Static provisioner of local volumes
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
 - [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
@@ -388,7 +390,6 @@
 
 ## HTML 
 
-- [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ethereum-compass](https://github.com/laalaguer/ethereum-compass) - 《以太坊的指南针》 一本写给普通人看的以太坊区块链技术书。A Book of Ethereum in Chinese.
@@ -425,6 +426,8 @@
 
 ## JavaScript 
 
+- [WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment) - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
+- [RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
 - [sharedrop](https://github.com/cowbell/sharedrop) - HTML5 clone of Apple's AirDrop - easy P2P file transfer powered by WebRTC
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [noVNC](https://github.com/novnc/noVNC) - VNC client web application
@@ -519,7 +522,6 @@
 
 ## Jupyter Notebook 
 
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
 - [google-research](https://github.com/google-research/google-research) - Google Research
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + LeetCode + Kaggle
@@ -623,6 +625,7 @@
 
 ## Python 
 
+- [stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) - GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)
@@ -630,7 +633,6 @@
 - [tiup](https://github.com/pingcap-incubator/tiup) - A component manager for TiDB
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [senpai](https://github.com/facebookincubator/senpai) - Senpai is an automated memory sizing tool for container applications.
-- [objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [trax](https://github.com/google/trax) - Trax — your path to advanced deep learning
 - [pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper
 - [django-cockroachdb](https://github.com/cockroachdb/django-cockroachdb) - CockroachDB Backend for Django
@@ -958,6 +960,7 @@
 
 ## Shell 
 
+- [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [db](https://github.com/infostreams/db) - Version control for databases: save, restore, and archive snapshots of your database from the command line
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
@@ -1078,9 +1081,7 @@
 
 ## TypeScript 
 
-- [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals
 - [cdk8s](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
-- [ionic](https://github.com/ionic-team/ionic) - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
 - [kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [todo-actions](https://github.com/dtinth/todo-actions) - Turn TODO in source code into issues and close them when they are gone. Runs on GitHub Actions.
 - [wechaty](https://github.com/wechaty/wechaty) - WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖
