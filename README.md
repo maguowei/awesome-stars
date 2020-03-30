@@ -45,7 +45,7 @@
 - [edgefs](https://github.com/Nexenta/edgefs) - EdgeFS - decentralized, scalable data fabric platform for Edge/IoT Computing and Kubernetes apps
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [ish](https://github.com/tbodt/ish) - Linux shell for iOS
+- [ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [RediSearch](https://github.com/RediSearch/RediSearch) - Fulltext Search and Secondary Index module for Redis
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
