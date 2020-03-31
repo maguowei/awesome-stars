@@ -113,6 +113,8 @@
 
 ## Go 
 
+- [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
+- [sealos](https://github.com/fanux/sealos) - kubernetes高可用安装（kubernetes install）工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16.8 v1.15.11 v1.17.4 v1.18.0!
 - [kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [kt-connect](https://github.com/alibaba/kt-connect) - Manage and Integration with your Kubernetes dev environment more efficient.
@@ -428,6 +430,7 @@
 
 ## JavaScript 
 
+- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment) - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
 - [RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
 - [sharedrop](https://github.com/cowbell/sharedrop) - HTML5 clone of Apple's AirDrop - easy P2P file transfer powered by WebRTC
@@ -627,6 +630,7 @@
 
 ## Python 
 
+- [webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
 - [stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [tenacity](https://github.com/jd/tenacity) - Retrying library for Python
@@ -962,6 +966,8 @@
 
 ## Shell 
 
+- [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. No support is provided at the moment.
 - [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [db](https://github.com/infostreams/db) - Version control for databases: save, restore, and archive snapshots of your database from the command line
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
