@@ -442,7 +442,7 @@
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
-- [amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
+- [amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.  https://go.amp.dev/devx-survey
 - [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
 - [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
