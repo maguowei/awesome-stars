@@ -119,6 +119,7 @@
 
 ## Go 
 
+- [fleet](https://github.com/rancher/fleet) - Manage large fleets of Kubernetes clusters
 - [crossplane](https://github.com/crossplane/crossplane) - The open source control plane to manage your infrastructure and applications the Kubernetes way.
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
 - [sealos](https://github.com/fanux/sealos) - kubernetes高可用安装（kubernetes install）工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16.8 v1.15.11 v1.17.4 v1.18.0!
@@ -1082,12 +1083,12 @@
 - [vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift web framework.
 - [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
 - [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
-- [folding-cell](https://github.com/Ramotion/folding-cell) - :octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries
+- [folding-cell](https://github.com/Ramotion/folding-cell) - :octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion - https://www.ramotion.com/agency/app-development/
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 - [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - 📖 Design Patterns implemented in Swift 5.0
 - [Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift.
 - [Nuke](https://github.com/kean/Nuke) - Powerful image loading and caching system
-- [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries
+- [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion - https://www.ramotion.com/agency/app-development/
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
 - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
@@ -1099,6 +1100,7 @@
 
 ## TypeScript 
 
+- [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [todo-actions](https://github.com/dtinth/todo-actions) - Turn TODO in source code into issues and close them when they are gone. Runs on GitHub Actions.
 - [wechaty](https://github.com/wechaty/wechaty) - WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖
