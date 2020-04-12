@@ -91,7 +91,6 @@
 
 ## CSS 
 
-- [cdk8s](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
@@ -217,7 +216,7 @@
 - [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
-- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database, long-term remote storage for Prometheus
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [kube-batch](https://github.com/kubernetes-sigs/kube-batch) - A batch scheduler of kubernetes for high performance workload, e.g. AI/ML, BigData, HPC
 - [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
@@ -268,7 +267,7 @@
 - [krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [micro](https://github.com/micro/micro) - Micro is a microservices runtime for the Cloud
+- [micro](https://github.com/micro/micro) - Micro is a distributed service runtime for the Cloud
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
@@ -522,6 +521,7 @@
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
 - [next.js](https://github.com/zeit/next.js) - The React Framework
 - [ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
@@ -663,6 +663,7 @@
 - [GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) - GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)
 - [android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - 
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
+- [cdk8s](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [senpai](https://github.com/facebookincubator/senpai) - Senpai is an automated memory sizing tool for container applications.
 - [trax](https://github.com/google/trax) - Trax — your path to advanced deep learning
 - [pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper
@@ -704,7 +705,7 @@
 - [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
 - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
-- [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing
+- [streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django
 - [graalpython](https://github.com/graalvm/graalpython) - A Python 3 implementation built on GraalVM
 - [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales Numpy, Pandas and Scikit-learn.
@@ -1147,7 +1148,6 @@
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 
 ## Vim script 
