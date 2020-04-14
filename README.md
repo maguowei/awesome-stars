@@ -121,6 +121,7 @@
 
 ## Go 
 
+- [gosql](https://github.com/eatonphil/gosql) - An early PostgreSQL implementation in Go
 - [afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
 - [wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [service-catalog](https://github.com/kubernetes-sigs/service-catalog) - Consume services in Kubernetes using the Open Service Broker API
@@ -268,7 +269,7 @@
 - [krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [micro](https://github.com/micro/micro) - Micro is a distributed service runtime for the Cloud
+- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime for the Cloud
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
@@ -651,6 +652,7 @@
 
 ## Python 
 
+- [aws-sam-cli](https://github.com/awslabs/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [stripe-python](https://github.com/stripe/stripe-python) - Python library for the Stripe API.
 - [django-ratelimit](https://github.com/jsocol/django-ratelimit) - Cache-based rate-limiting for Django
@@ -1123,7 +1125,7 @@
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [todo-actions](https://github.com/dtinth/todo-actions) - Turn TODO in source code into issues and close them when they are gone. Runs on GitHub Actions.
-- [wechaty](https://github.com/wechaty/wechaty) - WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖
+- [wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for WeChat Individual Account, Powered by TypeScript, Docker, and 💖
 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
