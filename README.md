@@ -185,7 +185,7 @@
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [k3sup](https://github.com/alexellis/k3sup) - from Zero to KUBECONFIG in &lt; 1 min 🚀
 - [chaos-mesh](https://github.com/pingcap/chaos-mesh) - A Chaos Engineering Platform for Kubernetes
-- [livego](https://github.com/gwuhaolin/livego) - 纯 Go 写的直播服务器
+- [livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 - [ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
 - [imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go
@@ -1020,6 +1020,7 @@
 
 ## Swift 
 
+- [Dozer](https://github.com/Mortennn/Dozer) - Hide status bar icons on macOS
 - [Pages](https://github.com/nachonavarro/Pages) - 📖 A lightweight, paging view solution for SwiftUI
 - [playbook-ios](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically taking snapshots of them.
 - [clashX](https://github.com/yichengchen/clashX) - 
