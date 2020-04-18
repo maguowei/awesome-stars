@@ -59,6 +59,7 @@
 
 ## C++ 
 
+- [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [MegEngine](https://github.com/MegEngine/MegEngine) - MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架
 - [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
@@ -343,7 +344,7 @@
 - [m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
-- [teleport](https://github.com/gravitational/teleport) - Privileged access management that doesn’t get in the way.
+- [teleport](https://github.com/gravitational/teleport) - Zero Trust Access to Infrastructure and Applications
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
@@ -981,7 +982,7 @@
 - [nushell](https://github.com/nushell/nushell) - A new type of shell
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
 - [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
