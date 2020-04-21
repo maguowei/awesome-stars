@@ -122,6 +122,7 @@
 
 ## Go 
 
+- [otp](https://github.com/pquerna/otp) - TOTP library for Go
 - [go-funk](https://github.com/thoas/go-funk) - A modern Go utility library which provides helpers (map, find, contains, filter, ...)
 - [systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
 - [crocodile](https://github.com/labulaka521/crocodile) - Distributed Task Scheduling System|分布式定时任务调度平台
@@ -509,7 +510,6 @@
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
 - [workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
-- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [awx](https://github.com/ansible/awx) - AWX Project
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
@@ -527,7 +527,6 @@
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
 - [next.js](https://github.com/zeit/next.js) - The React Framework
 - [ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
@@ -635,6 +634,7 @@
 - [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
@@ -1024,6 +1024,7 @@
 
 ## Swift 
 
+- [HNNow](https://github.com/nathfreder/HNNow) - Hacker News reader for iOS and iPadOS built with SwiftUI
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide status bar icons on macOS
 - [Pages](https://github.com/nachonavarro/Pages) - 📖 A lightweight, paging view solution for SwiftUI
 - [playbook-ios](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically taking snapshots of them.
@@ -1157,6 +1158,7 @@
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
+- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 
 ## Vim script 
