@@ -657,6 +657,7 @@
 
 ## Python 
 
+- [cnocr](https://github.com/breezedeus/cnocr) - A python package for Chinese/English OCR with pretrained models. Happy try.
 - [aws-sam-cli](https://github.com/awslabs/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [stripe-python](https://github.com/stripe/stripe-python) - Python library for the Stripe API.
@@ -1002,7 +1003,7 @@
 
 - [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
-- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. No free support is provided at the moment.
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. No free support is provided at the moment. With OpenCore Now!!
 - [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [db](https://github.com/infostreams/db) - Version control for databases: save, restore, and archive snapshots of your database from the command line
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
@@ -1024,6 +1025,7 @@
 
 ## Swift 
 
+- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide status bar icons on macOS
 - [Pages](https://github.com/nachonavarro/Pages) - 📖 A lightweight, paging view solution for SwiftUI
 - [playbook-ios](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically taking snapshots of them.
