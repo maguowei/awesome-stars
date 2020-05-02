@@ -664,6 +664,7 @@
 
 ## Python 
 
+- [jukebox](https://github.com/openai/jukebox) - Code for "Jukebox: A Generative Model for Music"
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [gino](https://github.com/python-gino/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
@@ -1139,6 +1140,7 @@
 
 ## TypeScript 
 
+- [lightproxy](https://github.com/alibaba/lightproxy) - Web debugging proxy based Electron & whistle
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [todo-actions](https://github.com/dtinth/todo-actions) - Turn TODO in source code into issues and close them when they are gone. Runs on GitHub Actions.
