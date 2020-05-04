@@ -123,6 +123,7 @@
 
 ## Go 
 
+- [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
 - [qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System (Project under CNCF)
 - [ledisdb](https://github.com/ledisdb/ledisdb) - A high performance NoSQL Database Server powered by Go
@@ -985,13 +986,14 @@
 
 ## Rust 
 
+- [winrt-rs](https://github.com/microsoft/winrt-rs) - Rust/WinRT - Rust for the Windows Runtime
 - [monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 - [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [native_spark](https://github.com/rajasekarv/native_spark) - A new arguably faster implementation of Apache Spark from scratch in Rust
+- [vega](https://github.com/rajasekarv/vega) - A new arguably faster implementation of Apache Spark from scratch in Rust
 - [rudr](https://github.com/oam-dev/rudr) - A Kubernetes implementation of the Open Application Model specification
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -1035,6 +1037,7 @@
 
 ## Swift 
 
+- [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery) - 🖼 Gallery App for Harvest (Elm Architecture + Optics) + SwiftUI + Combine.
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide status bar icons on macOS
 - [Pages](https://github.com/nachonavarro/Pages) - 📖 A lightweight, paging view solution for SwiftUI
