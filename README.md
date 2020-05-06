@@ -44,7 +44,6 @@
 - [msquic](https://github.com/microsoft/msquic) - Cross platform C implementation of the IETF QUIC protocol.
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [edgefs](https://github.com/Nexenta/edgefs) - EdgeFS - decentralized, scalable data fabric platform for Edge/IoT Computing and Kubernetes apps
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [ish](https://github.com/ish-app/ish) - Linux shell for iOS
@@ -123,6 +122,13 @@
 
 ## Go 
 
+- [git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
+- [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~
+- [argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
+- [go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
+- [sftpgo](https://github.com/drakkan/sftpgo) - Full featured and highly configurable SFTP server
+- [kured](https://github.com/weaveworks/kured) - Kubernetes Reboot Daemon
 - [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
 - [qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System (Project under CNCF)
@@ -153,7 +159,7 @@
 - [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [kube-scan](https://github.com/octarinesec/kube-scan) - kube-scan: Octarine k8s cluster risk assessment tool
 - [go-tools](https://github.com/dominikh/go-tools) - Staticcheck – a collection of static analysis tools for working with Go code
-- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel written in Go
+- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
 - [tiup](https://github.com/pingcap-incubator/tiup) - A component manager for TiDB
 - [minter-go-node](https://github.com/MinterTeam/minter-go-node) - 🚀 Official Minter Blockchain Implementation in Go
 - [testgrid](https://github.com/GoogleCloudPlatform/testgrid) - 
@@ -222,7 +228,7 @@
 - [kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 - [lute](https://github.com/b3log/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide
 - [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
 - [cloud-run-button](https://github.com/GoogleCloudPlatform/cloud-run-button) - Let anyone deploy your GitHub repos to Google Cloud Run with a single click
 - [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
@@ -443,6 +449,7 @@
 
 ## Java 
 
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [flink-learning](https://github.com/zhisheng17/flink-learning) - flink learning blog. http://www.54tianzhisheng.cn  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
 - [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
 - [nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
@@ -461,6 +468,8 @@
 
 ## JavaScript 
 
+- [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [KafkaCenter](https://github.com/xaecbd/KafkaCenter) - KafkaCenter is a unified one-stop platform for Kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components.
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [webrtc-book-cn](https://github.com/a-wing/webrtc-book-cn) - 中文翻译 《 Real-Time Communication with WebRTC 》
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -599,6 +608,7 @@
 
 ## Others 
 
+- [weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [field_trip](https://github.com/makoshan/field_trip) - 城市探索地图
@@ -665,6 +675,7 @@
 
 ## Python 
 
+- [django-storages](https://github.com/jschneier/django-storages) - https://django-storages.readthedocs.io/
 - [jukebox](https://github.com/openai/jukebox) - Code for "Jukebox: A Generative Model for Music"
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
@@ -756,7 +767,7 @@
 - [distributed](https://github.com/dask/distributed) - A distributed task scheduler for Dask
 - [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [django-autoslug](https://github.com/justinmayer/django-autoslug) - AutoSlugField for Django. Supports (but not does not require) unidecode/pytils for transliteration. Old issue tracker is at Bitbucket: https://bitbucket.org/neithere/django-autoslug/issues
 - [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [pygraphy](https://github.com/ethe/pygraphy) - A modern Pythonic GraphQL implementation.
@@ -1143,7 +1154,8 @@
 
 ## TypeScript 
 
-- [lightproxy](https://github.com/alibaba/lightproxy) - Web debugging proxy based Electron & whistle
+- [zarm](https://github.com/ZhongAnTech/zarm) - 基于 React、React-Native 的移动端UI组件库
+- [lightproxy](https://github.com/alibaba/lightproxy) - 💎 Open-soruce Web debugging proxy
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [todo-actions](https://github.com/dtinth/todo-actions) - Turn TODO in source code into issues and close them when they are gone. Runs on GitHub Actions.
