@@ -122,6 +122,7 @@
 
 ## Go 
 
+- [scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~
@@ -450,6 +451,7 @@
 ## Java 
 
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [KafkaCenter](https://github.com/xaecbd/KafkaCenter) - KafkaCenter is a unified one-stop platform for Kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components.
 - [flink-learning](https://github.com/zhisheng17/flink-learning) - flink learning blog. http://www.54tianzhisheng.cn  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
 - [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
 - [nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
@@ -469,7 +471,6 @@
 ## JavaScript 
 
 - [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [KafkaCenter](https://github.com/xaecbd/KafkaCenter) - KafkaCenter is a unified one-stop platform for Kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components.
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [webrtc-book-cn](https://github.com/a-wing/webrtc-book-cn) - 中文翻译 《 Real-Time Communication with WebRTC 》
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -1155,7 +1156,7 @@
 ## TypeScript 
 
 - [zarm](https://github.com/ZhongAnTech/zarm) - 基于 React、React-Native 的移动端UI组件库
-- [lightproxy](https://github.com/alibaba/lightproxy) - 💎 Open-soruce Web debugging proxy
+- [lightproxy](https://github.com/alibaba/lightproxy) - 💎 Web debugging proxy with one-click certificate install & system proxy
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [todo-actions](https://github.com/dtinth/todo-actions) - Turn TODO in source code into issues and close them when they are gone. Runs on GitHub Actions.
