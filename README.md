@@ -10,6 +10,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
+  - [CodeQL](#codeql)
   - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
@@ -41,6 +42,7 @@
 
 ## C 
 
+- [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [msquic](https://github.com/microsoft/msquic) - Cross platform C implementation of the IETF QUIC protocol.
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -59,6 +61,8 @@
 
 ## C++ 
 
+- [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+- [TileDB](https://github.com/TileDB-Inc/TileDB) - The Storage Engine for Data Science
 - [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [MegEngine](https://github.com/MegEngine/MegEngine) - MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架
@@ -97,11 +101,15 @@
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
 - [weui-wxss](https://github.com/Tencent/weui-wxss) - A UI library by WeChat official design team, includes the most useful widgets/modules.
 - [weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
-- [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ## Clojure 
 
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+
+## CodeQL 
+
+- [codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise
 
 ## CoffeeScript 
 
@@ -122,6 +130,8 @@
 
 ## Go 
 
+- [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
+- [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -450,6 +460,8 @@
 
 ## Java 
 
+- [flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
+- [presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [KafkaCenter](https://github.com/xaecbd/KafkaCenter) - KafkaCenter is a unified one-stop platform for Kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components.
 - [flink-learning](https://github.com/zhisheng17/flink-learning) - flink learning blog. http://www.54tianzhisheng.cn  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
@@ -509,7 +521,7 @@
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
-- [elasticsearch-dump](https://github.com/taskrabbit/elasticsearch-dump) - Import and export tools for elasticsearch
+- [elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch
 - [F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
@@ -676,6 +688,7 @@
 
 ## Python 
 
+- [octodns](https://github.com/github/octodns) - Tools for managing DNS across multiple providers
 - [django-storages](https://github.com/jschneier/django-storages) - https://django-storages.readthedocs.io/
 - [jukebox](https://github.com/openai/jukebox) - Code for "Jukebox: A Generative Model for Music"
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
@@ -1026,6 +1039,7 @@
 
 ## Shell 
 
+- [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided at the moment.
@@ -1049,6 +1063,7 @@
 
 ## Swift 
 
+- [Sica](https://github.com/cats-oss/Sica) - :deer: Simple Interface Core Animation. Run type-safe animation sequencially or parallelly
 - [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery) - 🖼 Gallery App for Harvest (Elm Architecture + Optics) + SwiftUI + Combine.
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide status bar icons on macOS
@@ -1155,8 +1170,9 @@
 
 ## TypeScript 
 
+- [codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 - [zarm](https://github.com/ZhongAnTech/zarm) - 基于 React、React-Native 的移动端UI组件库
-- [lightproxy](https://github.com/alibaba/lightproxy) - 💎 Web debugging proxy with one-click certificate install & system proxy
+- [lightproxy](https://github.com/alibaba/lightproxy) - 💎 Web debugging proxy with one-click on Windows/macOS
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [todo-actions](https://github.com/dtinth/todo-actions) - Turn TODO in source code into issues and close them when they are gone. Runs on GitHub Actions.
