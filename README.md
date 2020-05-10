@@ -129,6 +129,7 @@
 
 ## Go 
 
+- [argo-events](https://github.com/argoproj/argo-events) - Event-driven workflow automation framework
 - [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 - [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
@@ -168,7 +169,7 @@
 - [selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
 - [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [kube-scan](https://github.com/octarinesec/kube-scan) - kube-scan: Octarine k8s cluster risk assessment tool
-- [go-tools](https://github.com/dominikh/go-tools) - Staticcheck – a collection of static analysis tools for working with Go code
+- [go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
 - [tiup](https://github.com/pingcap-incubator/tiup) - A component manager for TiDB
 - [minter-go-node](https://github.com/MinterTeam/minter-go-node) - 🚀 Official Minter Blockchain Implementation in Go
@@ -279,7 +280,7 @@
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
-- [go-micro](https://github.com/micro/go-micro) - A Go distributed systems development framework
+- [go-micro](https://github.com/micro/go-micro) - A distributed systems development framework
 - [errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -689,6 +690,8 @@
 
 ## Python 
 
+- [PyFunctional](https://github.com/EntilZha/PyFunctional) - Python library for creating data pipelines with chain functional programming
+- [rpyc](https://github.com/tomerfiliba/rpyc) - RPyC (Remote Python Call) - A transparent and symmetric RPC library for python
 - [octodns](https://github.com/github/octodns) - Tools for managing DNS across multiple providers
 - [django-storages](https://github.com/jschneier/django-storages) - https://django-storages.readthedocs.io/
 - [jukebox](https://github.com/openai/jukebox) - Code for "Jukebox: A Generative Model for Music"
@@ -1063,6 +1066,7 @@
 
 ## Swift 
 
+- [FlowStack](https://github.com/johnsusek/FlowStack) - A grid layout view for SwiftUI
 - [SwiftUI-Image-Carousel](https://github.com/bbaars/SwiftUI-Image-Carousel) - 
 - [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [Sica](https://github.com/cats-oss/Sica) - :deer: Simple Interface Core Animation. Run type-safe animation sequencially or parallelly
@@ -1172,6 +1176,7 @@
 
 ## TypeScript 
 
+- [L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL  or AMap to render basemaps.
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 - [zarm](https://github.com/ZhongAnTech/zarm) - 基于 React、React-Native 的移动端UI组件库
