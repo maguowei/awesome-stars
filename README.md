@@ -129,6 +129,7 @@
 
 ## Go 
 
+- [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [argo-events](https://github.com/argoproj/argo-events) - Event-driven workflow automation framework
 - [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 - [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -1014,7 +1015,7 @@
 
 ## Rust 
 
-- [winrt-rs](https://github.com/microsoft/winrt-rs) - Rust/WinRT - Rust for the Windows Runtime
+- [winrt-rs](https://github.com/microsoft/winrt-rs) - Rust/WinRT is a Rust language projection for the Windows Runtime
 - [monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 - [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
@@ -1140,7 +1141,6 @@
 - [Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources. Feel free to contribute!
 - [ARPaint](https://github.com/oabdelkarim/ARPaint) - Draw with bare fingers in the air using ARKit
 - [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
-- [ARCharts](https://github.com/Boris-Em/ARCharts) - Lovely Augmented Reality Charts for iOS - Built with ARKit
 - [MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController
 - [SwiftDate](https://github.com/malcommac/SwiftDate) - Parse, validate, manipulate, and display dates, time and timezones in Swift
 - [Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS
