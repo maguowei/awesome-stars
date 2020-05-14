@@ -294,6 +294,7 @@
 - [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
 - [kyma](https://github.com/kyma-project/kyma) - A flexible and easy way to connect and extend enterprise applications in a cloud-native world
 - [opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
+- [opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
 - [krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
@@ -607,7 +608,6 @@
 - [frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio Service Mesh Advanced Practical - Istio服务网格进阶实战 https://www.servicemesher.com/istio-handbook/
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-- [opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
 - [kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
 - [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
@@ -852,7 +852,6 @@
 - [eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
 - [toolz](https://github.com/pytoolz/toolz) - A functional standard library for Python.
 - [django-mysql](https://github.com/adamchainz/django-mysql) - :dolphin: :horse: Extensions to Django for use with MySQL/MariaDB
-- [airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [django-postgres-extra](https://github.com/SectorLabs/django-postgres-extra) - Bringing all of PostgreSQL's awesomeness to Django.
 - [faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
