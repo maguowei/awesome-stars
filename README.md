@@ -129,6 +129,8 @@
 
 ## Go 
 
+- [parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
+- [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [argo-events](https://github.com/argoproj/argo-events) - Event-driven workflow automation framework
 - [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
@@ -691,6 +693,8 @@
 
 ## Python 
 
+- [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
+- [pycasbin](https://github.com/casbin/pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
 - [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
 - [PyFunctional](https://github.com/EntilZha/PyFunctional) - Python library for creating data pipelines with chain functional programming
 - [rpyc](https://github.com/tomerfiliba/rpyc) - RPyC (Remote Python Call) - A transparent and symmetric RPC library for python
@@ -1043,6 +1047,7 @@
 
 ## Shell 
 
+- [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
@@ -1199,7 +1204,7 @@
 - [rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
-- [bit](https://github.com/teambit/bit) - Build, distribute and collaborate on reusable components.
+- [bit](https://github.com/teambit/bit) - Streamline modern component development and reuse.
 - [theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [fluentui](https://github.com/microsoft/fluentui) - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
 - [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
