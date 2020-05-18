@@ -129,6 +129,7 @@
 
 ## Go 
 
+- [descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [origin](https://github.com/openshift/origin) - Images for OpenShift 3 and 4 - see openshift/okd for more
 - [tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
@@ -162,7 +163,7 @@
 - [cilium](https://github.com/cilium/cilium) - API-aware Networking and Security using eBPF and XDP
 - [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 - [fleet](https://github.com/rancher/fleet) - Manage large fleets of Kubernetes clusters
-- [crossplane](https://github.com/crossplane/crossplane) - The open source control plane to manage your infrastructure and applications the Kubernetes way.
+- [crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
 - [sealos](https://github.com/fanux/sealos) - 只能用丝滑一词形容的kubernetes高可用安装（kubernetes install）工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16 v1.15 v1.17 v1.18!
 - [kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64
@@ -185,7 +186,7 @@
 - [tidis](https://github.com/yongman/tidis) - Distributed transactional NoSQL database, Redis protocol compatible using tikv as backend
 - [gospider](https://github.com/jaeles-project/gospider) - Gospider - Fast web spider written in Go
 - [apns2](https://github.com/sideshow/apns2) - ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
-- [super-graph](https://github.com/dosco/super-graph) - Super Graph - Build web products faster. Secure high performance GraphQL
+- [super-graph](https://github.com/dosco/super-graph) - Super Graph - Fetch data without code!
 - [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
@@ -400,7 +401,7 @@
 - [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
 - [sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management
 - [pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
-- [gvisor](https://github.com/google/gvisor) - Application Kernel & Container Runtime
+- [gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
 - [coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
@@ -488,6 +489,7 @@
 
 ## JavaScript 
 
+- [kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.18 安装手册，(k8s install) 在线答疑，持续更新。
 - [strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
@@ -1075,6 +1077,8 @@
 
 ## Swift 
 
+- [swiftUI-slide-over-card](https://github.com/moifort/swiftUI-slide-over-card) - Slide over modal/card for SwiftUI
+- [APNSwift](https://github.com/kylebrowning/APNSwift) - An HTTP/2 APNS library built on swift-nio
 - [FlowStack](https://github.com/johnsusek/FlowStack) - A grid layout view for SwiftUI
 - [SwiftUI-Image-Carousel](https://github.com/bbaars/SwiftUI-Image-Carousel) - 
 - [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
