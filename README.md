@@ -29,6 +29,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
+  - [PowerShell](#powershell)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -62,6 +63,9 @@
 
 ## C++ 
 
+- [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
+- [milvus](https://github.com/milvus-io/milvus) - An open source vector similarity search engine
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [TileDB](https://github.com/TileDB-Inc/TileDB) - The Storage Engine for Data Science
 - [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
@@ -129,6 +133,8 @@
 
 ## Go 
 
+- [Mastering_Go_Second_Edition_Zh_CN](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN) - Mastering Go 第二版中文版来袭！
+- [Go](https://github.com/TheAlgorithms/Go) - Algorithms Implemented in GoLang
 - [poseidon](https://github.com/kubernetes-sigs/poseidon) - A Firmament-based Kubernetes scheduler
 - [descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [origin](https://github.com/openshift/origin) - Images for OpenShift 3 and 4 - see openshift/okd for more
@@ -154,7 +160,6 @@
 - [otp](https://github.com/pquerna/otp) - TOTP library for Go
 - [go-funk](https://github.com/thoas/go-funk) - A modern Go utility library which provides helpers (map, find, contains, filter, ...)
 - [systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
-- [crocodile](https://github.com/labulaka521/crocodile) - Distributed Task Scheduling System|分布式定时任务调度平台
 - [gosql](https://github.com/eatonphil/gosql) - An early PostgreSQL implementation in Go
 - [afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
 - [wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
@@ -174,13 +179,11 @@
 - [wagon](https://github.com/go-interpreter/wagon) - wagon, a WebAssembly-based Go interpreter, for Go.
 - [Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
 - [selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
-- [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [kube-scan](https://github.com/octarinesec/kube-scan) - kube-scan: Octarine k8s cluster risk assessment tool
 - [go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
 - [tiup](https://github.com/pingcap-incubator/tiup) - A component manager for TiDB
 - [minter-go-node](https://github.com/MinterTeam/minter-go-node) - 🚀 Official Minter Blockchain Implementation in Go
-- [testgrid](https://github.com/GoogleCloudPlatform/testgrid) - 
 - [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Terraform AWS provider
 - [gout](https://github.com/guonaihong/gout) - gout to become the Swiss Army Knife of the http client @^^@---&gt;  gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
 - [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode) - :memo: LeetCode of algorithms with golang solution(updating).
@@ -217,7 +220,6 @@
 - [k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab's k3s in Docker
 - [local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Use HostPath for persistent local storage with Kubernetes
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-- [k3sup](https://github.com/alexellis/k3sup) - from Zero to KUBECONFIG in &lt; 1 min 🚀
 - [chaos-mesh](https://github.com/pingcap/chaos-mesh) - A Chaos Engineering Platform for Kubernetes
 - [livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
@@ -632,7 +634,6 @@
 - [weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [field_trip](https://github.com/makoshan/field_trip) - 城市探索地图
 - [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [TeachYourselfCS-CN](https://github.com/keithnull/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -694,6 +695,10 @@
 ## Perl 
 
 - [cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+
+## PowerShell 
+
+- [winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 
 ## Python 
 
@@ -934,7 +939,7 @@
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
-- [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Python SDK https://slack.dev/python-slackclient/
+- [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Developer Kit for Python
 - [pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is a library to extract, transform, and visually explore big graphs
 - [budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
 - [dill](https://github.com/uqfoundation/dill) - serialize all of python
@@ -1080,6 +1085,7 @@
 
 ## Swift 
 
+- [fluentui-apple](https://github.com/microsoft/fluentui-apple) - UIKit and AppKit controls for building native Microsoft experiences
 - [swiftUI-slide-over-card](https://github.com/moifort/swiftUI-slide-over-card) - Slide over modal/card for SwiftUI
 - [APNSwift](https://github.com/kylebrowning/APNSwift) - An HTTP/2 APNS library built on swift-nio
 - [FlowStack](https://github.com/johnsusek/FlowStack) - A grid layout view for SwiftUI
