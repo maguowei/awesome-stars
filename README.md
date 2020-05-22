@@ -447,6 +447,7 @@
 
 ## HTML 
 
+- [new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [qcloud-documents](https://github.com/tencentyun/qcloud-documents) - 腾讯云官方文档
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
@@ -597,7 +598,7 @@
 - [Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + LeetCode + Kaggle
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-- [analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras, PyTorch and Ray on Apache Spark
+- [analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [DensePose](https://github.com/facebookresearch/DensePose) - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 - [kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
@@ -702,6 +703,7 @@
 
 ## Python 
 
+- [aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
 - [dcos](https://github.com/dcos/dcos) - DC/OS - The Datacenter Operating System
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [pycasbin](https://github.com/casbin/pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
