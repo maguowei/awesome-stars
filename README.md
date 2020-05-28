@@ -570,7 +570,7 @@
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
-- [next.js](https://github.com/zeit/next.js) - The React Framework
+- [next.js](https://github.com/vercel/next.js) - The React Framework
 - [ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -804,7 +804,7 @@
 - [distributed](https://github.com/dask/distributed) - A distributed task scheduler for Dask
 - [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+- [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [django-autoslug](https://github.com/justinmayer/django-autoslug) - AutoSlugField for Django. Supports (but not does not require) unidecode/pytils for transliteration. Old issue tracker is at Bitbucket: https://bitbucket.org/neithere/django-autoslug/issues
 - [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [pygraphy](https://github.com/ethe/pygraphy) - A modern Pythonic GraphQL implementation.
@@ -924,6 +924,7 @@
 - [django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 - [django-pipeline](https://github.com/jazzband/django-pipeline) - Pipeline is an asset packaging library for Django.
 - [black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [dynamic-rest](https://github.com/AltSchool/dynamic-rest) - Dynamic extensions for Django REST Framework
@@ -1076,7 +1077,6 @@
 - [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook
 - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
-- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
