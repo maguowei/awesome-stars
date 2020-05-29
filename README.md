@@ -308,7 +308,7 @@
 - [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [micro](https://github.com/micro/micro) - A distributed systems server for the cloud era
+- [micro](https://github.com/micro/micro) - A distributed systems runtime for the cloud
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
@@ -593,7 +593,6 @@
 
 ## Jupyter Notebook 
 
-- [OnJava8](https://github.com/LingCoder/OnJava8) - 《On Java 8》中文版，又名《Java编程思想》 第5版
 - [google-research](https://github.com/google-research/google-research) - Google Research
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + LeetCode + Kaggle
@@ -644,6 +643,7 @@
 - [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)
 - [reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.
+- [OnJava8](https://github.com/LingCoder/OnJava8) - 《On Java 8》中文版，又名《Java编程思想》 第5版
 - [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [python-data-structure-cn](https://github.com/facert/python-data-structure-cn) - problem-solving-with-algorithms-and-data-structure-using-python 中文版
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
@@ -704,6 +704,8 @@
 
 ## Python 
 
+- [helm-charts](https://github.com/elastic/helm-charts) - You know, for Kubernetes
+- [django-grpc-framework](https://github.com/fengsp/django-grpc-framework) - gRPC for Django.
 - [aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
 - [dcos](https://github.com/dcos/dcos) - DC/OS - The Datacenter Operating System
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
@@ -1087,6 +1089,7 @@
 
 ## Swift 
 
+- [Splash](https://github.com/JohnSundell/Splash) - A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun!
 - [fluentui-apple](https://github.com/microsoft/fluentui-apple) - UIKit and AppKit controls for building native Microsoft experiences
 - [swiftUI-slide-over-card](https://github.com/moifort/swiftUI-slide-over-card) - Slide over modal/card for SwiftUI
 - [APNSwift](https://github.com/kylebrowning/APNSwift) - An HTTP/2 APNS library built on swift-nio
