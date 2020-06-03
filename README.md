@@ -45,7 +45,7 @@
 ## C 
 
 - [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
-- [msquic](https://github.com/microsoft/msquic) - Cross platform C implementation of the IETF QUIC protocol.
+- [msquic](https://github.com/microsoft/msquic) - Cross-platform implementation of the IETF QUIC protocol.
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
@@ -709,6 +709,7 @@
 
 ## Python 
 
+- [practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [helm-charts](https://github.com/elastic/helm-charts) - You know, for Kubernetes
 - [django-grpc-framework](https://github.com/fengsp/django-grpc-framework) - gRPC for Django.
 - [aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
@@ -1070,7 +1071,7 @@
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
-- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided at the moment.
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Open PR(s) to report and fix problems.
 - [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [db](https://github.com/infostreams/db) - Version control for databases: save, restore, and archive snapshots of your database from the command line
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
@@ -1176,7 +1177,6 @@
 - [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
 - [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for Swift & ObjC.
 - [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
-- [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) - Simple JSON Object mapping written in Swift
 - [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX
 - [vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift web framework.
 - [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
@@ -1189,7 +1189,6 @@
 - [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion - https://www.ramotion.com/agency/app-development/
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
-- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 - [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
 
 ## TeX 
@@ -1198,11 +1197,12 @@
 
 ## TypeScript 
 
+- [aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL  or AMap to render basemaps.
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
-- [wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for WeChat Individual Account, Powered by TypeScript, Docker, and 💖
+- [wechaty](https://github.com/wechaty/wechaty) - A Conversational AI RPA SDK for Chatbot
 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
