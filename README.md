@@ -133,6 +133,8 @@
 
 ## Go 
 
+- [jupiter](https://github.com/douyu/jupiter) - Jupiter是douyu开源的面向服务治理的Golang微服务框架
+- [node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [k8s-cronjob-prescaler](https://github.com/microsoft/k8s-cronjob-prescaler) - Kubernetes operator that prescales cluster nodes to ensure a cronjobs start exactly on time
 - [kyaml2go](https://github.com/PrasadG193/kyaml2go) - K8s Go client code generator from Kubernetes resource yamls
 - [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
@@ -708,6 +710,8 @@
 
 ## Python 
 
+- [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) - The Project is real time application in opencv using first order model
+- [mmdetection](https://github.com/open-mmlab/mmdetection) - Open MMLab Detection Toolbox and Benchmark
 - [practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [helm-charts](https://github.com/elastic/helm-charts) - You know, for Kubernetes
 - [django-grpc-framework](https://github.com/fengsp/django-grpc-framework) - gRPC for Django.
@@ -1037,6 +1041,7 @@
 
 ## Rust 
 
+- [substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [winrt-rs](https://github.com/microsoft/winrt-rs) - Rust/WinRT is a Rust language projection for the Windows Runtime
 - [monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
@@ -1196,6 +1201,7 @@
 
 ## TypeScript 
 
+- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build custom ML tools
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL  or AMap to render basemaps.
