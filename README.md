@@ -45,7 +45,6 @@
 ## C 
 
 - [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
-- [msquic](https://github.com/microsoft/msquic) - Cross-platform implementation of the IETF QUIC protocol.
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
@@ -128,11 +127,13 @@
 
 ## Dockerfile 
 
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 - [kdbg](https://github.com/nvucinic/kdbg) - Small Kubernetes debugging container
 - [build-push-action](https://github.com/docker/build-push-action) - Build+push official Docker GitHub action
 
 ## Go 
 
+- [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go
 - [jupiter](https://github.com/douyu/jupiter) - Jupiter是douyu开源的面向服务治理的Golang微服务框架
 - [node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [k8s-cronjob-prescaler](https://github.com/microsoft/k8s-cronjob-prescaler) - Kubernetes operator that prescales cluster nodes to ensure a cronjobs start exactly on time
@@ -189,12 +190,10 @@
 - [go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
 - [tiup](https://github.com/pingcap/tiup) - A component manager for TiDB
-- [minter-go-node](https://github.com/MinterTeam/minter-go-node) - 🚀 Official Minter Blockchain Implementation in Go
 - [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Terraform AWS provider
 - [gout](https://github.com/guonaihong/gout) - gout to become the Swiss Army Knife of the http client @^^@---&gt;  gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
 - [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode) - :memo: LeetCode of algorithms with golang solution(updating).
 - [tidis](https://github.com/yongman/tidis) - Distributed transactional NoSQL database, Redis protocol compatible using tikv as backend
-- [gospider](https://github.com/jaeles-project/gospider) - Gospider - Fast web spider written in Go
 - [apns2](https://github.com/sideshow/apns2) - ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
 - [super-graph](https://github.com/dosco/super-graph) - Super Graph - Fetch data without code!
 - [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
@@ -312,7 +311,7 @@
 - [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [micro](https://github.com/micro/micro) - A distributed systems runtime for the cloud
+- [micro](https://github.com/micro/micro) - A development platform for cloud services
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
@@ -509,7 +508,6 @@
 - [WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment) - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
 - [RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
 - [sharedrop](https://github.com/cowbell/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
-- [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
@@ -710,6 +708,7 @@
 
 ## Python 
 
+- [altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
 - [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) - The Project is real time application in opencv using first order model
 - [mmdetection](https://github.com/open-mmlab/mmdetection) - Open MMLab Detection Toolbox and Benchmark
 - [practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
@@ -723,7 +722,6 @@
 - [rpyc](https://github.com/tomerfiliba/rpyc) - RPyC (Remote Python Call) - A transparent and symmetric RPC library for python
 - [octodns](https://github.com/github/octodns) - Tools for managing DNS across multiple providers
 - [django-storages](https://github.com/jschneier/django-storages) - https://django-storages.readthedocs.io/
-- [jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [gino](https://github.com/python-gino/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
@@ -732,7 +730,6 @@
 - [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [stripe-python](https://github.com/stripe/stripe-python) - Python library for the Stripe API.
 - [django-ratelimit](https://github.com/jsocol/django-ratelimit) - Cache-based rate-limiting for Django
-- [DingtalkChatbot](https://github.com/zhuifengshen/DingtalkChatbot) - 钉钉群自定义机器人消息Python封装
 - [xunfeng](https://github.com/ysrc/xunfeng) - 巡风是一款适用于企业内网的漏洞快速应急，巡航扫描系统。
 - [aioquic](https://github.com/aiortc/aioquic) - QUIC and HTTP/3 implementation in Python
 - [webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
@@ -743,7 +740,6 @@
 - [android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - 
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [cdk8s](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
-- [senpai](https://github.com/facebookincubator/senpai) - Senpai is an automated memory sizing tool for container applications.
 - [trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
 - [pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper
 - [django-cockroachdb](https://github.com/cockroachdb/django-cockroachdb) - CockroachDB Backend for Django
@@ -755,7 +751,6 @@
 - [jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 - [h5py](https://github.com/h5py/h5py) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
 - [peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
-- [dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning
 - [injector](https://github.com/alecthomas/injector) - Python dependency injection framework, inspired by Guice
@@ -823,11 +818,10 @@
 - [open-deepnude](https://github.com/open-deepnude/open-deepnude) - Open source reverse-engineered clone of DeepNude
 - [deepnude_official](https://github.com/open-deepnude/deepnude_official) - 
 - [pylibra](https://github.com/bandprotocol/pylibra) - A Python client for Libra network
-- [masr](https://github.com/seracc/masr) - 中文语音识别，高识别率预训练模型，支持docker快速安装 Chinese Speech Recognition; Mandarin Automatic Speech Recognition;
+- [masr](https://github.com/seracc/masr) - 中文语音识别; Mandarin Automatic Speech Recognition;
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
-- [byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
 - [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
 - [aswan](https://github.com/momosecurity/aswan) - 陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
 - [hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
