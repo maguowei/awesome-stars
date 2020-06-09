@@ -9,7 +9,6 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
-  - [Clojure](#clojure)
   - [CodeQL](#codeql)
   - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
@@ -102,10 +101,6 @@
 - [weui-wxss](https://github.com/Tencent/weui-wxss) - A UI library by WeChat official design team, includes the most useful widgets/modules.
 - [weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-
-## Clojure 
-
-- [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 
 ## CodeQL 
 
