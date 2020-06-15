@@ -127,6 +127,8 @@
 
 ## Go 
 
+- [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+- [gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
 - [google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
 - [utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
@@ -706,7 +708,7 @@
 
 - [altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
 - [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) - The Project is real time application in opencv using first order model
-- [mmdetection](https://github.com/open-mmlab/mmdetection) - Open MMLab Detection Toolbox and Benchmark
+- [mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
 - [practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [helm-charts](https://github.com/elastic/helm-charts) - You know, for Kubernetes
 - [django-grpc-framework](https://github.com/fengsp/django-grpc-framework) - gRPC for Django.
