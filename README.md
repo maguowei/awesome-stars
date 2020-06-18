@@ -64,7 +64,7 @@
 - [incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
-- [milvus](https://github.com/milvus-io/milvus) - An open source vector similarity search engine
+- [milvus](https://github.com/milvus-io/milvus) - An open source vector similarity search engine powered by Faiss, HNSW and Annoy
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [TileDB](https://github.com/TileDB-Inc/TileDB) - The Storage Engine for Data Science
 - [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
@@ -126,6 +126,7 @@
 
 ## Go 
 
+- [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
 - [google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
@@ -811,7 +812,7 @@
 - [open-deepnude](https://github.com/open-deepnude/open-deepnude) - Open source reverse-engineered clone of DeepNude
 - [deepnude_official](https://github.com/open-deepnude/deepnude_official) - 
 - [pylibra](https://github.com/bandprotocol/pylibra) - A Python client for Libra network
-- [masr](https://github.com/seracc/masr) - 中文语音识别; Mandarin Automatic Speech Recognition;
+- [masr](https://github.com/nobody132/masr) - 中文语音识别; Mandarin Automatic Speech Recognition;
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
@@ -1189,7 +1190,6 @@
 
 ## TypeScript 
 
-- [Mongood](https://github.com/RenzHoly/Mongood) - MongoDB Operation Dashboard
 - [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build custom ML tools
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
