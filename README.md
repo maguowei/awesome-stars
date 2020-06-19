@@ -57,6 +57,7 @@
 
 ## C# # 
 
+- [runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
 
 ## C++ 
@@ -126,6 +127,7 @@
 
 ## Go 
 
+- [containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way
 - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
@@ -550,6 +552,7 @@
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -676,7 +679,6 @@
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
-- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
@@ -900,7 +902,7 @@
 - [spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 - [websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python
 - [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
-- [autokeras](https://github.com/keras-team/autokeras) - An AutoML system based on Keras
+- [autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
 - [faust](https://github.com/robinhood/faust) - Python Stream Processing
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
@@ -1011,7 +1013,7 @@
 - [click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
 - [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command-line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧  Modern command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
 - [gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
@@ -1029,7 +1031,7 @@
 ## Rust 
 
 - [substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
-- [winrt-rs](https://github.com/microsoft/winrt-rs) - Rust/WinRT is a Rust language projection for the Windows Runtime
+- [winrt-rs](https://github.com/microsoft/winrt-rs) - Rust language projection for the Windows Runtime
 - [monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 - [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
