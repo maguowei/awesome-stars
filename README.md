@@ -65,7 +65,7 @@
 - [incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
-- [milvus](https://github.com/milvus-io/milvus) - An open source vector similarity search engine powered by Faiss, HNSW and Annoy
+- [milvus](https://github.com/milvus-io/milvus) - An open source vector similarity search engine powered by Faiss, NMSLIB and Annoy
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [TileDB](https://github.com/TileDB-Inc/TileDB) - The Storage Engine for Data Science
 - [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
