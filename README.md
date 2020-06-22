@@ -128,6 +128,7 @@
 
 ## Go 
 
+- [goplus](https://github.com/qiniu/goplus) - GoPlus - The Go+ language for data science
 - [containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way
 - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
