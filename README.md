@@ -129,6 +129,7 @@
 
 ## Go 
 
+- [kubermatic](https://github.com/kubermatic/kubermatic) - The Central Kubernetes Management Platform For Any Infrastructure
 - [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - [goplus](https://github.com/qiniu/goplus) - GoPlus - The Go+ language for data science
 - [containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way
@@ -234,7 +235,7 @@
 - [kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
-- [bfe](https://github.com/baidu/bfe) - A modern layer 7 load balancer from baidu
+- [bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
 - [kubectl-debug](https://github.com/aylei/kubectl-debug) - Debug your pod by a new container with every troubleshooting tools pre-installed
 - [building-web-applications-in-go](https://github.com/unknwon/building-web-applications-in-go) - Go 语言 Web 应用开发系列教程，从新手到双手残废
 - [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
@@ -635,7 +636,7 @@
 ## Others 
 
 - [weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [TeachYourselfCS-CN](https://github.com/keithnull/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
@@ -1063,7 +1064,7 @@
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
-- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Open PR(s) to fix problems.
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Please open PR(s) to fix problems.
 - [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [db](https://github.com/infostreams/db) - Version control for databases: save, restore, and archive snapshots of your database from the command line
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
