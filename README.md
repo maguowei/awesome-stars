@@ -1093,6 +1093,8 @@
 
 ## Swift 
 
+- [Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift with iOS/macOS/Linux
+- [apollo-ios](https://github.com/apollographql/apollo-ios) - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift
 - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ ⛺
 - [ChartView](https://github.com/AppPear/ChartView) - ChartView made in SwiftUI
 - [firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
