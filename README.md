@@ -53,7 +53,7 @@
 - [psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
-- [redis](https://github.com/redis-io/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+- [redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 
 ## C# # 
 
@@ -130,10 +130,11 @@
 
 ## Go 
 
+- [im_service](https://github.com/GoBelieveIO/im_service) - golang   im   server
 - [tipocket](https://github.com/pingcap/tipocket) - A toolkit for testing TiDB
 - [kubermatic](https://github.com/kubermatic/kubermatic) - The Central Kubernetes Management Platform For Any Infrastructure
 - [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-- [goplus](https://github.com/qiniu/goplus) - GoPlus - The Go+ language for data science
+- [gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for data science
 - [containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way
 - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
@@ -182,7 +183,7 @@
 - [service-catalog](https://github.com/kubernetes-sigs/service-catalog) - Consume services in Kubernetes using the Open Service Broker API
 - [github-actions](https://github.com/docker/github-actions) - Core code for all Docker's github actions
 - [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
-- [cilium](https://github.com/cilium/cilium) - API-aware Networking and Security using eBPF and XDP
+- [cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 - [crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
@@ -225,7 +226,7 @@
 - [blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [gim](https://github.com/alberliu/gim) - golang写的IM服务器，支持多业务接入
 - [aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
-- [cortex](https://github.com/cortexlabs/cortex) - API platform for machine learning engineers
+- [cortex](https://github.com/cortexlabs/cortex) - Build machine learning APIs
 - [k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab's k3s in Docker
 - [local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
@@ -256,7 +257,7 @@
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 - [lute](https://github.com/b3log/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide
-- [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
+- [podman](https://github.com/containers/podman) - libpod is a library used to create container pods. Home of Podman.
 - [cloud-run-button](https://github.com/GoogleCloudPlatform/cloud-run-button) - Let anyone deploy your GitHub repos to Google Cloud Run with a single click
 - [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
@@ -1095,6 +1096,8 @@
 
 ## Swift 
 
+- [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A small macOS app that acts as a system cleaner (logs, cache, ...)
+- [CleanyModal](https://github.com/loryhuz/CleanyModal) - Swift UI Kit to present clean modal/alert
 - [fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 - [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 - [Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift with iOS/macOS/Linux
