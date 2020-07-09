@@ -116,6 +116,7 @@
 
 ## Dart 
 
+- [flutter_pulltorefresh](https://github.com/peng8350/flutter_pulltorefresh) - a widget provided to the flutter scroll component drop-down refresh and pull up load.
 - [samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos.
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [V2LF](https://github.com/w4mxl/V2LF) - The v2ex client write in flutter.
@@ -130,6 +131,7 @@
 
 ## Go 
 
+- [gitqlite](https://github.com/augmentable-dev/gitqlite) - Query git repositories with SQL. Uses SQLite virtual tables and go-git
 - [im_service](https://github.com/GoBelieveIO/im_service) - golang   im   server
 - [tipocket](https://github.com/pingcap/tipocket) - A toolkit for testing TiDB
 - [kubermatic](https://github.com/kubermatic/kubermatic) - The Central Kubernetes Management Platform For Any Infrastructure
@@ -1054,7 +1056,7 @@
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [actix-web](https://github.com/actix/actix-web) - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -1096,6 +1098,7 @@
 
 ## Swift 
 
+- [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image loading and Animation framework powered by SDWebImage
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A small macOS app that acts as a system cleaner (logs, cache, ...)
 - [CleanyModal](https://github.com/loryhuz/CleanyModal) - Swift UI Kit to present clean modal/alert
 - [fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
