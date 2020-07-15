@@ -68,7 +68,7 @@
 - [mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [milvus](https://github.com/milvus-io/milvus) - An open source vector similarity search engine powered by Faiss, NMSLIB and Annoy
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [TileDB](https://github.com/TileDB-Inc/TileDB) - The Storage Engine for Data Science
+- [TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
 - [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , dbnet(1.7M) + crnn(6.3M) + anglenet(1.5M) 总模型仅10M
 - [srs](https://github.com/ossrs/srs) - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
@@ -116,6 +116,8 @@
 
 ## Dart 
 
+- [awesomefluttertips](https://github.com/erluxman/awesomefluttertips) - ❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️
+- [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) - wechat_flutter  Flutter版本微信，一个优秀的Flutter即时通讯IM开源库！
 - [flutter_pulltorefresh](https://github.com/peng8350/flutter_pulltorefresh) - a widget provided to the flutter scroll component drop-down refresh and pull up load.
 - [samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos.
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -252,7 +254,7 @@
 - [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [yaegi](https://github.com/containous/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
-- [kuma](https://github.com/kumahq/kuma) - 🐻 The Control Plane for Modern Service Connectivity
+- [kuma](https://github.com/kumahq/kuma) - 🐻 The Universal Service Mesh. CNCF Sandbox Project.
 - [ginkgo](https://github.com/onsi/ginkgo) - BDD Testing Framework for Go
 - [torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
@@ -369,7 +371,7 @@
 - [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [runtime](https://github.com/kata-containers/runtime) - Kata Containers runtime
+- [runtime](https://github.com/kata-containers/runtime) - Kata Containers version 1.x runtime (for version 2.x see https://github.com/kata-containers/kata-containers).
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
@@ -635,7 +637,6 @@
 
 ## Objective-C 
 
-- [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
 - [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [realm-cocoa](https://github.com/realm/realm-cocoa) - Realm is a mobile database: a replacement for Core Data & SQLite
 
@@ -1099,6 +1100,7 @@
 
 ## Swift 
 
+- [RedditOS](https://github.com/Dimillian/RedditOS) - A SwiftUI Reddit client for macOS Big Sur
 - [Ink](https://github.com/JohnSundell/Ink) - A fast and flexible Markdown parser written in Swift.
 - [EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate QR Code in Swift, support iOS, macOS, watchOS and tvOS.
 - [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image loading and Animation framework powered by SDWebImage
@@ -1119,12 +1121,10 @@
 - [fluentui-apple](https://github.com/microsoft/fluentui-apple) - UIKit and AppKit controls for building native Microsoft experiences
 - [swiftUI-slide-over-card](https://github.com/moifort/swiftUI-slide-over-card) - Slide over modal/card for SwiftUI
 - [APNSwift](https://github.com/kylebrowning/APNSwift) - An HTTP/2 APNS library built on swift-nio
-- [FlowStack](https://github.com/johnsusek/FlowStack) - A grid layout view for SwiftUI
 - [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [Sica](https://github.com/cats-oss/Sica) - :deer: Simple Interface Core Animation. Run type-safe animation sequencially or parallelly
 - [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery) - 🖼 Gallery App for Harvest (Elm Architecture + Optics) + SwiftUI + Combine.
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
-- [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 - [Pages](https://github.com/nachonavarro/Pages) - 📖  A lightweight, paging view solution for SwiftUI
 - [playbook-ios](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically taking snapshots of them.
 - [clashX](https://github.com/yichengchen/clashX) - 
@@ -1133,7 +1133,6 @@
 - [Messenger](https://github.com/realpaliy/Messenger) - iOS - Real-time messaging app  🎨
 - [swift-argument-parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
 - [Tiercel](https://github.com/Danie1s/Tiercel) - 简单易用、功能丰富的纯 Swift 下载框架
-- [SwURL](https://github.com/cmtrounce/SwURL) - async image loading in SwiftUI
 - [swift-doc](https://github.com/SwiftDocOrg/swift-doc) - Generates documentation for Swift projects
 - [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine) - Used: SwiftUI and Combine
 - [swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
@@ -1224,7 +1223,7 @@
 - [cdk8s](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [wechaty](https://github.com/wechaty/wechaty) - Conversational AI RPA SDK for Chatbot1
-- [formik](https://github.com/formik/formik) - Build forms in React, without the tears 😭
+- [formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
