@@ -64,6 +64,7 @@
 
 ## C++ 
 
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
@@ -135,6 +136,8 @@
 
 ## Go 
 
+- [vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
+- [stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications
 - [argo-workflows-catalog](https://github.com/argoproj-labs/argo-workflows-catalog) - Argo Workflows Catalog
 - [gitqlite](https://github.com/augmentable-dev/gitqlite) - Query git repositories with SQL. Uses SQLite virtual tables and go-git
 - [im_service](https://github.com/GoBelieveIO/im_service) - golang   im   server
@@ -721,6 +724,7 @@
 
 ## Python 
 
+- [feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
 - [altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
@@ -1106,6 +1110,7 @@
 
 ## Swift 
 
+- [FeedKit](https://github.com/nmdias/FeedKit) - An RSS, Atom and JSON Feed parser written in Swift
 - [SFSafeSymbols](https://github.com/piknotech/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
 - [RedditOS](https://github.com/Dimillian/RedditOS) - A SwiftUI Reddit client for macOS Big Sur
 - [Ink](https://github.com/JohnSundell/Ink) - A fast and flexible Markdown parser written in Swift.
@@ -1219,6 +1224,7 @@
 
 ## TypeScript 
 
+- [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Aliyun, Tencent-Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 - [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
