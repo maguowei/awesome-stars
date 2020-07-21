@@ -463,6 +463,7 @@
 
 ## HTML 
 
+- [SwiftUI-WeChat](https://github.com/seasonZhu/SwiftUI-WeChat) - 一个微信SwiftUI编写,在原作者的基础上面修改学习
 - [new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [qcloud-documents](https://github.com/tencentyun/qcloud-documents) - 腾讯云官方文档
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -511,6 +512,7 @@
 
 ## JavaScript 
 
+- [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 - [ajv](https://github.com/ajv-validator/ajv) - The fastest JSON Schema Validator. Supports draft-04/06/07
@@ -650,6 +652,7 @@
 
 ## Others 
 
+- [gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [wg-serverless](https://github.com/cncf/wg-serverless) - CNCF Serverless WG
 - [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - iOS开发常用三方库、插件、知名博客等等
 - [weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
@@ -724,6 +727,7 @@
 
 ## Python 
 
+- [english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
@@ -1116,7 +1120,7 @@
 - [Ink](https://github.com/JohnSundell/Ink) - A fast and flexible Markdown parser written in Swift.
 - [EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate QR Code in Swift, support iOS, macOS, watchOS and tvOS.
 - [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image loading and Animation framework powered by SDWebImage
-- [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A small macOS app that acts as a system cleaner (logs, cache, ...)
+- [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A macOS system analyser and cleaner
 - [CleanyModal](https://github.com/loryhuz/CleanyModal) - Swift UI Kit to present clean modal/alert
 - [fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 - [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
