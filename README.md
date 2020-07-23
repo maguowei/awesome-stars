@@ -138,11 +138,12 @@
 
 ## Go 
 
+- [copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.
 - [auger](https://github.com/jpbetz/auger) - Directly access data objects stored in etcd by kubernetes.
 - [vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
 - [stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications
 - [argo-workflows-catalog](https://github.com/argoproj-labs/argo-workflows-catalog) - Argo Workflows Catalog
-- [gitqlite](https://github.com/augmentable-dev/gitqlite) - Query git repositories with SQL. Uses SQLite virtual tables and go-git
+- [gitqlite](https://github.com/augmentable-dev/gitqlite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [im_service](https://github.com/GoBelieveIO/im_service) - golang   im   server
 - [tipocket](https://github.com/pingcap/tipocket) - A toolkit for testing TiDB
 - [kubermatic](https://github.com/kubermatic/kubermatic) - The Central Kubernetes Management Platform For Any Infrastructure
@@ -517,12 +518,12 @@
 
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
-- [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 - [ajv](https://github.com/ajv-validator/ajv) - The fastest JSON Schema Validator. Supports draft-04/06/07
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.18 安装手册，(k8s install) 在线答疑，持续更新。
+- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
@@ -1238,13 +1239,13 @@
 
 ## TypeScript 
 
+- [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Aliyun, Tencent-Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 - [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 - [L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL  or AMap to render basemaps.
-- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [cdk8s](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
