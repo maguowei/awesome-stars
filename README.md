@@ -102,7 +102,6 @@
 
 - [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-- [weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ## CodeQL 
@@ -266,6 +265,7 @@
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [kube-batch](https://github.com/kubernetes-sigs/kube-batch) - A batch scheduler of kubernetes for high performance workload, e.g. AI/ML, BigData, HPC
+- [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [elvish](https://github.com/elves/elvish) - Friendly Interactive Shell and Expressive Programming Language
@@ -502,6 +502,7 @@
 
 ## JavaScript 
 
+- [react-weui](https://github.com/weui/react-weui) - weui for react
 - [components](https://github.com/primer/components) - Primer React components
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
@@ -519,7 +520,6 @@
 - [RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
 - [sharedrop](https://github.com/cowbell/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [noVNC](https://github.com/novnc/noVNC) - VNC client web application
-- [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
 - [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
 - [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
@@ -528,9 +528,7 @@
 - [appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
-- [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-- [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
 - [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) - Puppeteer, Headless Chrome；爬取《es6标准入门》、自动推文到掘金、站点性能分析；高级爬虫、自动化UI测试、性能分析；
 - [style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
@@ -917,7 +915,6 @@
 - [faust](https://github.com/robinhood/faust) - Python Stream Processing
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
-- [saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.
 - [AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
@@ -1224,7 +1221,6 @@
 ## TypeScript 
 
 - [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Aliyun, Tencent-Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 - [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
@@ -1252,9 +1248,7 @@
 - [bit](https://github.com/teambit/bit) - Build, distribute and collaborate on components.
 - [theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [fluentui](https://github.com/microsoft/fluentui) - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
-- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
 - [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
-- [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
