@@ -62,7 +62,7 @@
 
 ## C++ 
 
-- [workflow](https://github.com/sogou/workflow) - 
+- [workflow](https://github.com/sogou/workflow) - Sogou framework for C++ backend development.
 - [Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 SSR / Trojan / Trojan-Go / NaiveProxy | 使用 C++ / Qt5 开发 | 可拓展插件式设计 :star:
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -723,6 +723,7 @@
 
 ## Python 
 
+- [prefect](https://github.com/PrefectHQ/prefect) - A modern data workflow platform
 - [python-jose](https://github.com/mpdavis/python-jose) - A JOSE implementation in Python
 - [pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python
 - [english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
@@ -1077,6 +1078,7 @@
 
 ## Shell 
 
+- [haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 225 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
 - [catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines.
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
