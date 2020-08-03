@@ -65,7 +65,6 @@
 - [workflow](https://github.com/sogou/workflow) - Sogou framework for C++ backend development.
 - [Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 SSR / Trojan / Trojan-Go / NaiveProxy | 使用 C++ / Qt5 开发 | 可拓展插件式设计 :star:
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
@@ -253,7 +252,6 @@
 - [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [yaegi](https://github.com/containous/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
-- [kuma](https://github.com/kumahq/kuma) - 🐻 The Universal Service Mesh. CNCF Sandbox Project.
 - [ginkgo](https://github.com/onsi/ginkgo) - BDD Testing Framework for Go
 - [torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
@@ -505,6 +503,8 @@
 
 ## JavaScript 
 
+- [icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
+- [get-v2ex](https://github.com/7nights/get-v2ex) - The back-end of bv2ex web application.
 - [Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC) - 
 - [md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [react-weui](https://github.com/weui/react-weui) - weui for react
@@ -723,6 +723,7 @@
 
 ## Python 
 
+- [python-betterproto](https://github.com/danielgtaylor/python-betterproto) - Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC
 - [prefect](https://github.com/PrefectHQ/prefect) - A modern data workflow platform
 - [python-jose](https://github.com/mpdavis/python-jose) - A JOSE implementation in Python
 - [pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python
@@ -1233,6 +1234,7 @@
 
 ## TypeScript 
 
+- [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
