@@ -243,7 +243,6 @@
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
 - [bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
 - [building-web-applications-in-go](https://github.com/unknwon/building-web-applications-in-go) - Go 语言 Web 应用开发系列教程，从新手到双手残废
-- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
 - [go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [containers-from-scratch](https://github.com/lizrice/containers-from-scratch) - Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari
@@ -530,6 +529,7 @@
 - [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
 - [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2020)
 - [appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -646,6 +646,7 @@
 
 ## Others 
 
+- [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
 - [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
