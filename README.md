@@ -76,7 +76,7 @@
 - [vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - Mozilla Voice STT is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+- [STT](https://github.com/mozilla/STT) - Mozilla Voice STT is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
 - [pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained.
@@ -508,7 +508,6 @@
 ## JavaScript 
 
 - [icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
-- [get-v2ex](https://github.com/7nights/get-v2ex) - The back-end of bv2ex web application.
 - [Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC) - 
 - [md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [react-weui](https://github.com/weui/react-weui) - weui for react
@@ -649,6 +648,7 @@
 
 ## Others 
 
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
@@ -1242,6 +1242,7 @@
 
 ## TypeScript 
 
+- [rome](https://github.com/romefrontend/rome) - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [fast](https://github.com/microsoft/fast) - The adaptive interface system  for modern web experiences.
 - [mobile-web-best-practice](https://github.com/mcuking/mobile-web-best-practice) - :soccer: 移动 web 最佳实践
 - [eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
