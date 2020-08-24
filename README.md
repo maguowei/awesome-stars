@@ -511,6 +511,7 @@
 
 ## JavaScript 
 
+- [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
@@ -587,7 +588,6 @@
 - [Leaflet](https://github.com/Leaflet/Leaflet) - :leaves: JavaScript library for mobile-friendly interactive maps
 - [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
@@ -611,6 +611,7 @@
 
 ## Jupyter Notebook 
 
+- [computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [google-research](https://github.com/google-research/google-research) - Google Research
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
@@ -632,6 +633,7 @@
 
 ## Makefile 
 
+- [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [specification](https://github.com/serverlessworkflow/specification) - Serverless Workflow Specification
 - [frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
@@ -730,6 +732,8 @@
 
 ## Python 
 
+- [aiocron](https://github.com/gawel/aiocron) - Crontabs for asyncio
+- [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese)
 - [typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - Take a modern Python codebase to the next level of performance.
 - [aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python
@@ -1250,6 +1254,7 @@
 
 ## TypeScript 
 
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [grafana-dashboards](https://github.com/percona/grafana-dashboards) - Grafana dashboards for MySQL and MongoDB monitoring using Prometheus
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [hooks](https://github.com/alibaba/hooks) - React Hooks Library
@@ -1294,6 +1299,7 @@
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
+- [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 
