@@ -129,6 +129,7 @@
 
 ## Go 
 
+- [snowflake](https://github.com/bwmarrin/snowflake) - A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
 - [aws-controllers-k8s](https://github.com/aws/aws-controllers-k8s) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [ent](https://github.com/facebook/ent) - An entity framework for Go
 - [feishu](https://github.com/fastwego/feishu) - [飞书] A fast feishu development sdk written in Golang
@@ -764,7 +765,7 @@
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [gino](https://github.com/python-gino/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
 - [cnocr](https://github.com/breezedeus/cnocr) - 基于 MXNet 的中文/英文 OCR Python 包
-- [aws-sam-cli](https://github.com/awslabs/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
+- [aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [stripe-python](https://github.com/stripe/stripe-python) - Python library for the Stripe API.
 - [xunfeng](https://github.com/ysrc/xunfeng) - 巡风是一款适用于企业内网的漏洞快速应急，巡航扫描系统。
@@ -798,7 +799,7 @@
 - [iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
 - [jet-bridge](https://github.com/jet-admin/jet-bridge) - Jet Bridge (Universal) for Jet Admin – API-based Admin Panel Framework for your application
-- [serverless-application-model](https://github.com/awslabs/serverless-application-model) - AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications
+- [serverless-application-model](https://github.com/aws/serverless-application-model) - AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications
 - [memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code
 - [gpt2-ml](https://github.com/imcaspar/gpt2-ml) - GPT2 for Multiple Languages, including pretrained models. GPT2 多语言支持, 15亿参数中文预训练模型
 - [django-inline-actions](https://github.com/escaped/django-inline-actions) - django-inline-actions adds actions to each row of the ModelAdmin or InlineModelAdmin.
@@ -1260,7 +1261,7 @@
 - [hooks](https://github.com/alibaba/hooks) - React Hooks Library
 - [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
 - [rome](https://github.com/romefrontend/rome) - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
-- [fast](https://github.com/microsoft/fast) - The adaptive interface system  for modern web experiences.
+- [fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [mobile-web-best-practice](https://github.com/mcuking/mobile-web-best-practice) - :soccer: 移动 web 最佳实践
 - [eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
