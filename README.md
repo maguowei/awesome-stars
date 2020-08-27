@@ -63,7 +63,7 @@
 
 - [workflow](https://github.com/sogou/workflow) - Sogou framework for C++ backend development.
 - [Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 SSR / Trojan / Trojan-Go / NaiveProxy | 使用 C++ / Qt5 开发 | 可拓展插件式设计 :star:
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome OCR toolkits based on PaddlePaddle （『飞桨』8.6M超轻量中文OCR模型，支持训练部署全流程）
 - [incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
@@ -129,6 +129,7 @@
 
 ## Go 
 
+- [nirvana](https://github.com/caicloud/nirvana) - Golang Restful API Framework for Productivity
 - [snowflake](https://github.com/bwmarrin/snowflake) - A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
 - [aws-controllers-k8s](https://github.com/aws/aws-controllers-k8s) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [ent](https://github.com/facebook/ent) - An entity framework for Go
@@ -512,7 +513,6 @@
 
 ## JavaScript 
 
-- [javascript-the-definitive-guide-7th-edition](https://github.com/anbang/javascript-the-definitive-guide-7th-edition) - JavaScript权威指南(第7版)-非官方翻译
 - [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -654,6 +654,7 @@
 
 ## Others 
 
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -942,7 +943,6 @@
 - [websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python
 - [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
-- [faust](https://github.com/robinhood/faust) - Python Stream Processing
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
