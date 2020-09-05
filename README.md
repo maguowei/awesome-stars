@@ -38,6 +38,7 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
+  - [Vue](#vue)
 
 ## C 
 
@@ -131,6 +132,7 @@
 
 ## Go 
 
+- [sealos](https://github.com/fanux/sealos) - 只能用丝滑一词形容的kubernetes高可用安装（kubernetes install）工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16 v1.15 v1.17 v1.18 v1.19!
 - [server-sdk-go](https://github.com/rongcloud/server-sdk-go) - RongCloud Server SDK in Go.
 - [nirvana](https://github.com/caicloud/nirvana) - Golang Restful API Framework for Productivity
 - [snowflake](https://github.com/bwmarrin/snowflake) - A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
@@ -489,6 +491,7 @@
 
 ## Java 
 
+- [SoloPi](https://github.com/alipay/SoloPi) - SoloPi 自动化测试工具
 - [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [jdk](https://github.com/openjdk/jdk) - Read-only mirror of https://hg.openjdk.java.net/jdk/jdk
 - [ignite](https://github.com/apache/ignite) - Apache Ignite
@@ -748,6 +751,7 @@
 
 ## Python 
 
+- [autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [aldjemy](https://github.com/aldjemy/aldjemy) - Integration SQLAlchemy in Django projects for effective query building purposes
 - [enaml](https://github.com/nucleic/enaml) - Declarative User Interfaces for Python
 - [Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
@@ -991,7 +995,7 @@
 - [oauthlib](https://github.com/oauthlib/oauthlib) - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
 - [redis-py-cluster](https://github.com/Grokzen/redis-py-cluster) - Python cluster client for the official redis cluster. Redis 3.0+.
 - [python-etcd3](https://github.com/kragniz/python-etcd3) - Python client for the etcd API v3
-- [ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+- [ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 - [httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
@@ -1284,6 +1288,7 @@
 
 ## TypeScript 
 
+- [taro-listview](https://github.com/Rahim-Chan/taro-listview) - taro框架长列表方案 ：集成下拉刷新、骨架屏、无限滚动、图片懒加载；
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI
 - [chrome-launcher](https://github.com/GoogleChrome/chrome-launcher) - Launch Google Chrome with ease from node.
 - [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
@@ -1340,6 +1345,10 @@
 ## Vim script 
 
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
+
+## Vue 
+
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
 
 
 ## License
