@@ -493,7 +493,7 @@
 
 - [SoloPi](https://github.com/alipay/SoloPi) - SoloPi 自动化测试工具
 - [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
-- [jdk](https://github.com/openjdk/jdk) - Read-only mirror of https://hg.openjdk.java.net/jdk/jdk
+- [jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [ignite](https://github.com/apache/ignite) - Apache Ignite
 - [flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
@@ -1288,6 +1288,7 @@
 
 ## TypeScript 
 
+- [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [taro-listview](https://github.com/Rahim-Chan/taro-listview) - taro框架长列表方案 ：集成下拉刷新、骨架屏、无限滚动、图片懒加载；
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI
 - [chrome-launcher](https://github.com/GoogleChrome/chrome-launcher) - Launch Google Chrome with ease from node.
