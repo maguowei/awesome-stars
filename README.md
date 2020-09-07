@@ -33,6 +33,7 @@
   - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [Smarty](#smarty)
   - [Starlark](#starlark)
   - [Swift](#swift)
   - [TeX](#tex)
@@ -751,6 +752,7 @@
 
 ## Python 
 
+- [django-newsfeed](https://github.com/saadmk11/django-newsfeed) - A news curator and newsletter subscription package for Django
 - [autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [aldjemy](https://github.com/aldjemy/aldjemy) - Integration SQLAlchemy in Django projects for effective query building purposes
 - [enaml](https://github.com/nucleic/enaml) - Declarative User Interfaces for Python
@@ -1150,6 +1152,10 @@
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+
+## Smarty 
+
+- [charts](https://github.com/bitnami/charts) - Helm Charts
 
 ## Starlark 
 
