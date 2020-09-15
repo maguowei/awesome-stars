@@ -202,7 +202,7 @@
 - [afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
 - [wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [service-catalog](https://github.com/kubernetes-sigs/service-catalog) - Consume services in Kubernetes using the Open Service Broker API
-- [github-actions](https://github.com/docker/github-actions) - Core code for all Docker's github actions
+- [github-actions](https://github.com/docker/github-actions) - :warning: This repository is being replaced with docker/build-push-action@v2 https://github.com/docker/github-actions and will be deprecated in the future
 - [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
 - [cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
@@ -513,7 +513,6 @@
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
-- [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
@@ -667,6 +666,7 @@
 
 ## Others 
 
+- [leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) - This is a repository containing the list of company wise questions available on leetcode premium
 - [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
 - [flutter-development-roadmap](https://github.com/Tarikul711/flutter-development-roadmap) - Flutter App Developer Roadmap - A complete roadmap to learn Flutter App Development. I tried to learn flutter using this roadmap. If you want to add something please contribute to the project. Happy Learning
 - [Learn-Vim](https://github.com/iggredible/Learn-Vim) - A book for learning the Vim editor the smart way.
