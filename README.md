@@ -494,6 +494,7 @@
 
 ## Java 
 
+- [FlutterTencentImPlugin](https://github.com/JiangJuHong/FlutterTencentImPlugin) - 腾讯即时通讯(IM)，Flutter插件
 - [SoloPi](https://github.com/alipay/SoloPi) - SoloPi 自动化测试工具
 - [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
@@ -666,6 +667,7 @@
 
 ## Others 
 
+- [community](https://github.com/cloudnativeto/community) - Cloud Native Community materials
 - [leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) - This is a repository containing the list of company wise questions available on leetcode premium
 - [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
 - [flutter-development-roadmap](https://github.com/Tarikul711/flutter-development-roadmap) - Flutter App Developer Roadmap - A complete roadmap to learn Flutter App Development. I tried to learn flutter using this roadmap. If you want to add something please contribute to the project. Happy Learning
