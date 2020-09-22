@@ -332,7 +332,7 @@
 - [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
+- [micro](https://github.com/micro/micro) - Micro is a framework for cloud services development
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
@@ -593,6 +593,7 @@
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
 - [workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
+- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [awx](https://github.com/ansible/awx) - AWX Project
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
@@ -759,6 +760,7 @@
 
 ## Python 
 
+- [yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time thread&coroutine aware.
 - [Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [django-newsfeed](https://github.com/saadmk11/django-newsfeed) - A news curator and newsletter subscription package for Django
 - [autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
@@ -1013,7 +1015,6 @@
 - [django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django
 - [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
 - [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Developer Kit for Python
 - [pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is a library to extract, transform, and visually explore big graphs
