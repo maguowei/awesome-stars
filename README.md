@@ -64,7 +64,7 @@
 ## C++ 
 
 - [wave-share](https://github.com/ggerganov/wave-share) - Serverless, peer-to-peer, local file sharing through sound
-- [workflow](https://github.com/sogou/workflow) - Sogou framework for C++ backend development.
+- [workflow](https://github.com/sogou/workflow) - Sogou framework for C++ back-end development.
 - [Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 SSR / Trojan / Trojan-Go / NaiveProxy | 使用 C++ / Qt5 开发 | 可拓展插件式设计 :star:
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome OCR toolkits based on PaddlePaddle （3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
 - [incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
@@ -335,7 +335,7 @@
 - [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [micro](https://github.com/micro/micro) - Micro is a Go cloud services development framework
+- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
@@ -940,7 +940,7 @@
 - [bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
 - [databases](https://github.com/encode/databases) - Async database support for Python. 🗄
-- [ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
+- [ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
 - [vid2vid](https://github.com/NVIDIA/vid2vid) - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 - [clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
