@@ -1321,7 +1321,7 @@
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI
 - [chrome-launcher](https://github.com/GoogleChrome/chrome-launcher) - Launch Google Chrome with ease from node.
 - [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
-- [gitpod](https://github.com/gitpod-io/gitpod) - Gitpod is an open-source Kubernetes application providing prebuilt, collaborative development environments in your browser - powered by VS Code.
+- [gitpod](https://github.com/gitpod-io/gitpod) - Gitpod is an open source developer platform that automates the provisioning of ready-to-code development environments.
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [grafana-dashboards](https://github.com/percona/grafana-dashboards) - Grafana dashboards for MySQL and MongoDB monitoring using Prometheus
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
@@ -1329,7 +1329,7 @@
 - [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
 - [rome](https://github.com/romefrontend/rome) - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
-- [mobile-web-best-practice](https://github.com/mcuking/mobile-web-best-practice) - :soccer: 移动 web 最佳实践
+- [mobile-web-best-practice](https://github.com/mcuking/mobile-web-best-practice) - :tiger: 移动 web 最佳实践
 - [eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
