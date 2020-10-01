@@ -335,7 +335,7 @@
 - [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
+- [micro](https://github.com/micro/micro) - Micro is a development framework for the Cloud
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
@@ -1338,7 +1338,7 @@
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
-- [build-push-action](https://github.com/docker/build-push-action) - Build+push official Docker GitHub action
+- [build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx
 - [cdk8s](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [wechaty](https://github.com/wechaty/wechaty) - Conversational SDK for Chatbot Makers
