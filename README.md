@@ -102,6 +102,7 @@
 
 ## CSS 
 
+- [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
 - [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
@@ -654,7 +655,6 @@
 
 ## Makefile 
 
-- [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [specification](https://github.com/serverlessworkflow/specification) - Serverless Workflow Specification
 - [frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
