@@ -67,7 +67,6 @@
 
 - [wave-share](https://github.com/ggerganov/wave-share) - Serverless, peer-to-peer, local file sharing through sound
 - [workflow](https://github.com/sogou/workflow) - Sogou framework for C++ back-end development
-- [Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 SSR / Trojan / Trojan-Go / NaiveProxy | 使用 C++ / Qt5 开发 | 可拓展插件式设计 :star:
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome OCR toolkits based on PaddlePaddle （3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
 - [incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
@@ -531,6 +530,7 @@
 
 ## JavaScript 
 
+- [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
@@ -764,6 +764,7 @@
 
 ## Python 
 
+- [schemathesis](https://github.com/schemathesis/schemathesis) - A modern API testing tool for web applications built with Open API and GraphQL specifications.
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
 - [ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
@@ -1183,6 +1184,7 @@
 
 ## Swift 
 
+- [AdaptiveCardUI](https://github.com/gonzalezreal/AdaptiveCardUI) - Snippets of UI, authored in JSON and rendered with SwiftUI
 - [swift-atomics](https://github.com/apple/swift-atomics) - 
 - [DeckKit](https://github.com/danielsaidi/DeckKit) - DeckKit is a tiny library that helps you create card-based apps in SwiftUI.
 - [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
