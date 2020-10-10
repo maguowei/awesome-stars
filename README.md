@@ -135,6 +135,8 @@
 
 ## Go 
 
+- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
+- [oauth2](https://github.com/golang/oauth2) - Go OAuth2
 - [server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers
@@ -255,7 +257,7 @@
 - [blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [gim](https://github.com/alberliu/gim) - golang写的IM服务器(服务组件形式)
 - [aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
-- [cortex](https://github.com/cortexlabs/cortex) - Model serving for developers
+- [cortex](https://github.com/cortexlabs/cortex) - Model serving at scale
 - [k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab's k3s in Docker
 - [local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
@@ -339,7 +341,6 @@
 - [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
@@ -765,6 +766,8 @@
 
 ## Python 
 
+- [GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) - 新闻网页正文通用抽取器 Beta 版.
+- [Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
 - [schemathesis](https://github.com/schemathesis/schemathesis) - A modern API testing tool for web applications built with Open API and GraphQL specifications.
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
@@ -1134,6 +1137,7 @@
 - [quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [actix-web](https://github.com/actix/actix-web) - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
