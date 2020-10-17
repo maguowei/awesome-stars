@@ -134,6 +134,7 @@
 
 ## Go 
 
+- [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -325,7 +326,7 @@
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
-- [go-micro](https://github.com/asim/go-micro) - A Go standard library for microservices
+- [go-micro](https://github.com/asim/go-micro) - A Go microservices development framework
 - [errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -534,7 +535,7 @@
 
 ## JavaScript 
 
-- [docs](https://github.com/github/docs) - This is the open-source repo for docs.github.com.
+- [docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
@@ -769,6 +770,8 @@
 
 ## Python 
 
+- [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
+- [playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [TTBot](https://github.com/01ly/TTBot) - 今日头条机器人，支持用户登陆、关注、取消关注、获取关注粉丝、发文、发悟空问答、点赞、评论、采集各种类型新闻讯息等，使用今日头条网页版API实现
 - [GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) - 新闻网页正文通用抽取器 Beta 版.
 - [Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
