@@ -488,7 +488,7 @@
 - [SwiftUI-WeChat](https://github.com/seasonZhu/SwiftUI-WeChat) - 一个微信SwiftUI编写,在原作者的基础上面修改学习
 - [qcloud-documents](https://github.com/tencentyun/qcloud-documents) - 腾讯云官方文档
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
+- [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ethereum-compass](https://github.com/laalaguer/ethereum-compass) - 《以太坊的指南针》 一本写给普通人看的以太坊区块链技术书。A Book of Ethereum in Chinese.
 - [eng-practices](https://github.com/rootsongjc/eng-practices) - 谷歌工程实践文档 - https://jimmysong.io/eng-practices
@@ -866,7 +866,7 @@
 - [django-inline-actions](https://github.com/escaped/django-inline-actions) - django-inline-actions adds actions to each row of the ModelAdmin or InlineModelAdmin.
 - [heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.
 - [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
-- [alembic](https://github.com/sqlalchemy/alembic) - a database migrations tool for SQLAlchemy.
+- [alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 - [reloading](https://github.com/julvo/reloading) - Change Python code while it's running without losing state
 - [KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
