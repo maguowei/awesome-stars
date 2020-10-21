@@ -131,9 +131,11 @@
 
 - [alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 
 ## Go 
 
+- [over-golang](https://github.com/overnote/over-golang) - Golang相关：[进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -535,6 +537,7 @@
 
 ## JavaScript 
 
+- [github-daily](https://github.com/headllines/github-daily) - GitHub daily top 10 repos
 - [docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
@@ -679,6 +682,7 @@
 
 ## Others 
 
+- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 - [community](https://github.com/cloudnativeto/community) - Cloud Native Community materials
 - [leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) - This is a repository containing the list of company wise questions available on leetcode premium
 - [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
@@ -1061,7 +1065,6 @@
 - [django-redis-cache](https://github.com/sebleier/django-redis-cache) - A Redis cache backend for django
 - [django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
 - [pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
-- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
 - [dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [weixin-python](https://github.com/zwczou/weixin-python) - 微信SDK - 包括微信支付,微信公众号,微信登陆,微信消息处理等
