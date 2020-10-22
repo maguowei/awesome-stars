@@ -53,7 +53,7 @@
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
-- [RediSearch](https://github.com/RediSearch/RediSearch) - Fulltext Search and Secondary Index module for Redis
+- [RediSearch](https://github.com/RediSearch/RediSearch) - Secondary Index, Query Engine & Full-Text search Engine for Redis
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
 - [redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
@@ -261,7 +261,7 @@
 - [blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [gim](https://github.com/alberliu/gim) - golang写的IM服务器(服务组件形式)
 - [aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
-- [cortex](https://github.com/cortexlabs/cortex) - Model serving at scale
+- [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning in production
 - [k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab's k3s in Docker
 - [local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
