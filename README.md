@@ -775,6 +775,7 @@
 
 ## Python 
 
+- [python-csql](https://github.com/akdor1154/python-csql) - 
 - [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
 - [playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [TTBot](https://github.com/01ly/TTBot) - 今日头条机器人，支持用户登陆、关注、取消关注、获取关注粉丝、发文、发悟空问答、点赞、评论、采集各种类型新闻讯息等，使用今日头条网页版API实现
@@ -784,7 +785,7 @@
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
 - [ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
-- [yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time thread&coroutine aware.
+- [yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time thread&coroutine&greenlet aware.
 - [Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [django-newsfeed](https://github.com/saadmk11/django-newsfeed) - A news curator and newsletter subscription package for Django
 - [autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
