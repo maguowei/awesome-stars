@@ -251,7 +251,7 @@
 - [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
 - [tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing
 - [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
-- [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
+- [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [titan](https://github.com/distributedio/titan) - A Distributed Redis Protocol Compatible NoSQL Database
 - [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8, and up.
