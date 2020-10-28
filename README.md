@@ -53,7 +53,7 @@
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
-- [RediSearch](https://github.com/RediSearch/RediSearch) - Secondary Index, Query Engine & Full-Text search Engine for Redis
+- [RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
 - [redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
@@ -683,6 +683,7 @@
 
 ## Others 
 
+- [interview-questions](https://github.com/resumejob/interview-questions) - 根据超过 1500 篇真实面经整理的腾讯，阿里，字节跳动，Shopee，美团，滴滴高频面试题
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 - [community](https://github.com/cloudnativeto/community) - Cloud Native Community materials
 - [leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) - This is a repository containing the list of company wise questions available on leetcode premium
@@ -1043,8 +1044,8 @@
 - [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
-- [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Developer Kit for Python
-- [pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is a library to extract, transform, and visually explore big graphs
+- [python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack Developer Kit for Python
+- [pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer
 - [budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
 - [dill](https://github.com/uqfoundation/dill) - serialize all of python
 - [responses](https://github.com/getsentry/responses) - A utility for mocking out the Python Requests library.
