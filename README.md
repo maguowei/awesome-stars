@@ -31,6 +31,7 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Scala](#scala)
   - [Shell](#shell)
   - [Smarty](#smarty)
@@ -65,8 +66,9 @@
 
 ## C++ 
 
+- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 - [wave-share](https://github.com/ggerganov/wave-share) - Serverless, peer-to-peer, local file sharing through sound
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome OCR toolkits based on PaddlePaddle （3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
 - [incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
@@ -106,7 +108,6 @@
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
 - [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
-- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ## CodeQL 
@@ -135,6 +136,8 @@
 
 ## Go 
 
+- [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
+- [go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
 - [offiaccount](https://github.com/fastwego/offiaccount) - [微信公众号] A fast wechat offiaccount development sdk written in Golang
 - [over-golang](https://github.com/overnote/over-golang) - Golang相关：[进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
@@ -261,7 +264,7 @@
 - [blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [gim](https://github.com/alberliu/gim) - golang写的IM服务器(服务组件形式)
 - [aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
-- [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning in production
+- [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models to production
 - [k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab's k3s in Docker
 - [local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
@@ -511,7 +514,6 @@
 
 ## Java 
 
-- [FlutterTencentImPlugin](https://github.com/JiangJuHong/FlutterTencentImPlugin) - 腾讯即时通讯(IM)，Flutter插件
 - [SoloPi](https://github.com/alipay/SoloPi) - SoloPi 自动化测试工具
 - [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
@@ -683,6 +685,9 @@
 
 ## Others 
 
+- [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+- [write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [interview-questions](https://github.com/resumejob/interview-questions) - 根据超过 1500 篇真实面经整理的腾讯，阿里，字节跳动，Shopee，美团，滴滴高频面试题
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 - [community](https://github.com/cloudnativeto/community) - Cloud Native Community materials
@@ -777,6 +782,8 @@
 
 ## Python 
 
+- [yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader for various sites.
+- [EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 - [python-csql](https://github.com/akdor1154/python-csql) - 
 - [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
 - [playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
@@ -1132,6 +1139,7 @@
 
 ## Rust 
 
+- [nat](https://github.com/willdoescode/nat) - ⚡️ nat - the 'ls' replacement you never knew you needed⚡️
 - [image-service](https://github.com/dragonflyoss/image-service) - Dragonfly image service, providing fast, secure and easy access to container images.
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
@@ -1155,6 +1163,10 @@
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
+
+## SCSS 
+
+- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Scala 
 
@@ -1209,6 +1221,7 @@
 - [swift-atomics](https://github.com/apple/swift-atomics) - This package implements an atomics library for Swift, providing atomic operations for a variety of Swift types, including integers and pointer values. The goal is to enable intrepid developers to start building synchronization constructs directly in Swift.
 - [DeckKit](https://github.com/danielsaidi/DeckKit) - DeckKit is a tiny library that helps you create card-based apps in SwiftUI.
 - [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
+- [FlutterTencentImPlugin](https://github.com/JiangJuHong/FlutterTencentImPlugin) - 腾讯即时通讯(IM)，Flutter插件
 - [FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI
 - [Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly
 - [SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
@@ -1404,7 +1417,7 @@
 
 ## Vue 
 
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 80k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
 
 
 ## License
