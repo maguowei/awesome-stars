@@ -146,7 +146,7 @@
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
-- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
+- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [oauth2](https://github.com/golang/oauth2) - Go OAuth2
 - [server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
@@ -278,7 +278,6 @@
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
 - [bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
-- [building-web-applications-in-go](https://github.com/unknwon/building-web-applications-in-go) - Go 语言 Web 应用开发系列教程，从新手到双手残废
 - [go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [containers-from-scratch](https://github.com/lizrice/containers-from-scratch) - Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari
@@ -332,7 +331,7 @@
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
-- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed systems development.
+- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development.
 - [errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -830,7 +829,6 @@
 - [helm-charts](https://github.com/elastic/helm-charts) - You know, for Kubernetes
 - [django-grpc-framework](https://github.com/fengsp/django-grpc-framework) - gRPC for Django.
 - [aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
-- [dcos](https://github.com/dcos/dcos) - DC/OS - The Datacenter Operating System
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [pycasbin](https://github.com/casbin/pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
 - [PyFunctional](https://github.com/EntilZha/PyFunctional) - Python library for creating data pipelines with chain functional programming
