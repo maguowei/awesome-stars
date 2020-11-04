@@ -782,7 +782,7 @@
 
 ## Python 
 
-- [yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader for various sites.
+- [yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and libray for various sites.
 - [EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 - [python-csql](https://github.com/akdor1154/python-csql) - 
 - [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
@@ -1213,6 +1213,7 @@
 
 ## Swift 
 
+- [SwiftUI-Cookbook](https://github.com/PacktPublishing/SwiftUI-Cookbook) - SwiftUI Cookbook, published by Packt
 - [eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [PackageList](https://github.com/SwiftPackageIndex/PackageList) - The master list of repositories for the Swift Package Index.
 - [swift-algorithms](https://github.com/apple/swift-algorithms) - Swift Algorithms is an open-source package of sequence and collection algorithms, along with their related types.
