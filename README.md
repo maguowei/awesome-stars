@@ -117,6 +117,7 @@
 
 ## Dart 
 
+- [sentry-mobile](https://github.com/getsentry/sentry-mobile) - This is a hackweek project!
 - [rongcloud-im-flutter-sdk](https://github.com/rongcloud/rongcloud-im-flutter-sdk) - IM Flutter SDK of RongCloud
 - [flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in  flutter framework using Firebase realtime database and storage
 - [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
@@ -137,6 +138,8 @@
 
 ## Go 
 
+- [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency trace storage.
 - [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
 - [go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
@@ -349,7 +352,7 @@
 - [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native app development
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native application development
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
@@ -685,6 +688,7 @@
 
 ## Others 
 
+- [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) - 《Effective Modern C++》翻译 - 2020更新中
 - [academy](https://github.com/cloudnativeto/academy) - 云原生学院
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C
@@ -784,6 +788,7 @@
 
 ## Python 
 
+- [zh-style-guide](https://github.com/yikeke/zh-style-guide) - An open-source style guide for writing Chinese technical documents: https://zh-style-guide.readthedocs.io
 - [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google Accounts with emails.
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [django-sspanel](https://github.com/Ehco1996/django-sspanel) - 用diango开发的shadowsocks/V2ray面板
