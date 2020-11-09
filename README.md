@@ -118,6 +118,7 @@
 ## Dart 
 
 - [sentry-mobile](https://github.com/getsentry/sentry-mobile) - This is a hackweek project!
+- [FlutterTencentImPlugin](https://github.com/JiangJuHong/FlutterTencentImPlugin) - 腾讯即时通讯(IM)，Flutter插件
 - [rongcloud-im-flutter-sdk](https://github.com/rongcloud/rongcloud-im-flutter-sdk) - IM Flutter SDK of RongCloud
 - [flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in  flutter framework using Firebase realtime database and storage
 - [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
@@ -138,6 +139,7 @@
 
 ## Go 
 
+- [conprof](https://github.com/conprof/conprof) - Continuous profiling in for pprof compatible profiles.
 - [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency trace storage.
@@ -688,6 +690,7 @@
 
 ## Others 
 
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) - 《Effective Modern C++》翻译 - 2020更新中
 - [academy](https://github.com/cloudnativeto/academy) - 云原生学院
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
@@ -788,6 +791,8 @@
 
 ## Python 
 
+- [pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
+- [pyicloud](https://github.com/picklepete/pyicloud) - A Python + iCloud wrapper to access iPhone and Calendar data.
 - [zh-style-guide](https://github.com/yikeke/zh-style-guide) - An open-source style guide for writing Chinese technical documents: https://zh-style-guide.readthedocs.io
 - [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google Accounts with emails.
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
@@ -1140,6 +1145,7 @@
 
 ## Ruby 
 
+- [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
@@ -1232,7 +1238,6 @@
 - [swift-atomics](https://github.com/apple/swift-atomics) - This package implements an atomics library for Swift, providing atomic operations for a variety of Swift types, including integers and pointer values. The goal is to enable intrepid developers to start building synchronization constructs directly in Swift.
 - [DeckKit](https://github.com/danielsaidi/DeckKit) - DeckKit is a tiny library that helps you create card-based apps in SwiftUI.
 - [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
-- [FlutterTencentImPlugin](https://github.com/JiangJuHong/FlutterTencentImPlugin) - 腾讯即时通讯(IM)，Flutter插件
 - [FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI
 - [Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly
 - [SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
