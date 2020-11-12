@@ -139,6 +139,7 @@
 
 ## Go 
 
+- [wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
 - [conprof](https://github.com/conprof/conprof) - Continuous profiling in for pprof compatible profiles.
 - [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
@@ -791,6 +792,7 @@
 
 ## Python 
 
+- [airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [sqlalchemy-mixins](https://github.com/absent1706/sqlalchemy-mixins) - Active Record, Django-like queries, nested eager load and beauty __repr__ for SQLAlchemy
 - [pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
 - [pyicloud](https://github.com/picklepete/pyicloud) - A Python + iCloud wrapper to access iPhone and Calendar data.
@@ -1308,7 +1310,7 @@
 - [swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language
 - [InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 - [Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework.
-- [SwiftLocation](https://github.com/malcommac/SwiftLocation) - Efficient/Easy GPS tracking, reverse geocoding, region monitoring autocomplete, beacon for iOS
+- [SwiftLocation](https://github.com/malcommac/SwiftLocation) - 🛰 CoreLocation Made Easy - Efficient & Easy Location Tracker, IP Location, Gecoder, Geofence, Autocomplete, Beacon Ranging, Broadcaster and Visits Monitoring
 - [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift
 - [Pock](https://github.com/pigigaldi/Pock) - Display macOS Dock in Touch Bar
 - [Shout](https://github.com/jakeheis/Shout) - SSH made easy in Swift
