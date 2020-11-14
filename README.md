@@ -448,7 +448,7 @@
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
+- [charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management
 - [pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
 - [gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
@@ -548,6 +548,7 @@
 
 ## JavaScript 
 
+- [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [github-daily](https://github.com/headllines/github-daily) - GitHub daily top 10 repos
 - [docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
