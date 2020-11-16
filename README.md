@@ -62,6 +62,7 @@
 
 ## C# # 
 
+- [tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
 - [runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
 
@@ -139,6 +140,7 @@
 
 ## Go 
 
+- [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [conprof](https://github.com/conprof/conprof) - Continuous profiling in for pprof compatible profiles.
 - [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
@@ -548,6 +550,7 @@
 
 ## JavaScript 
 
+- [rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
 - [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [github-daily](https://github.com/headllines/github-daily) - GitHub daily top 10 repos
 - [docs](https://github.com/github/docs) - The open-source repo for docs.github.com
@@ -664,6 +667,7 @@
 
 ## Kotlin 
 
+- [compose-jb](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
 
@@ -1347,7 +1351,7 @@
 - [Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources. Feel free to contribute!
 - [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 - [MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController
-- [SwiftDate](https://github.com/malcommac/SwiftDate) - Parse, validate, manipulate, and display dates, time and timezones in Swift
+- [SwiftDate](https://github.com/malcommac/SwiftDate) - 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
 - [Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable
@@ -1375,6 +1379,7 @@
 
 ## TypeScript 
 
+- [hub](https://github.com/artifacthub/hub) - Find, install and publish Kubernetes packages
 - [actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
