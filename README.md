@@ -523,6 +523,7 @@
 
 ## Java 
 
+- [skija](https://github.com/JetBrains/skija) - Skia bindings for Java
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍「算法面试+算法知识」这是一套针对小白的完整算法训练 | 还包括：1、千本开源电子书 2、阿里、字节、滴滴 等面经汇总 3、百张思维导图 （来个Star吧~）
 - [SoloPi](https://github.com/alipay/SoloPi) - SoloPi 自动化测试工具
 - [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -1379,6 +1380,7 @@
 
 ## TypeScript 
 
+- [headlamp](https://github.com/kinvolk/headlamp) - An easy-to-use and versatile dashboard for Kubernetes brought to you by Kinvolk.
 - [hub](https://github.com/artifacthub/hub) - Find, install and publish Kubernetes packages
 - [actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
