@@ -140,7 +140,8 @@
 
 ## Go 
 
-- [kubevela](https://github.com/oam-dev/kubevela) - The Fully Extensible App Platform based on Kubernetes and Open Application Model
+- [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
+- [kubevela](https://github.com/oam-dev/kubevela) - An Easy-to-use yet Fully Extensible App Platform based on Kubernetes and Open Application Model.
 - [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [conprof](https://github.com/conprof/conprof) - Continuous profiling in for pprof compatible profiles.
 - [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -357,7 +358,7 @@
 - [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native application development
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native application development, microservices and API driven backends.
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
@@ -525,7 +526,7 @@
 ## Java 
 
 - [skija](https://github.com/JetBrains/skija) - Skia bindings for Java
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍「算法面试+算法知识」这是一套针对小白的完整算法训练 | 还包括：1、千本开源电子书 2、阿里、字节、滴滴 等面经汇总 3、百张思维导图 （来个Star吧~）
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍「算法面试+算法知识」这是一套针对小白的完整算法训练 | 还包括：1、千本开源电子书 2、阿里、字节、滴滴 百篇大厂面经汇总 3、百张思维导图 （来个Star吧~）
 - [SoloPi](https://github.com/alipay/SoloPi) - SoloPi 自动化测试工具
 - [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
@@ -603,6 +604,7 @@
 - [nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。  https://taro.jd.com/
+- [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
@@ -717,7 +719,6 @@
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
-- [go-jose](https://github.com/square/go-jose) - An implementation of JOSE standards (JWE, JWS, JWT) in Go
 - [awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
 - [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
@@ -1423,7 +1424,6 @@
 - [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
 - [BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 - [rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
