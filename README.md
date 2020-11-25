@@ -341,7 +341,7 @@
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
-- [nitro](https://github.com/asim/nitro) - Nitro is a futuristic blazingly fast framework for distributed app development, IoT, edge and p2p.
+- [nitro](https://github.com/asim/nitro) - Nitro is a futuristic blazingly fast embeddable framework for distributed app development, IoT, edge and p2p.
 - [errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -603,7 +603,7 @@
 - [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。  https://taro.jd.com/
+- [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。  https://taro.zone/
 - [33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
@@ -627,7 +627,6 @@
 - [workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
-- [awx](https://github.com/ansible/awx) - AWX Project
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
@@ -682,7 +681,6 @@
 ## Makefile 
 
 - [specification](https://github.com/serverlessworkflow/specification) - Serverless Workflow Specification
-- [frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
 - [kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
 - [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -879,6 +877,7 @@
 - [android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - 
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
+- [frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper
 - [django-cockroachdb](https://github.com/cockroachdb/django-cockroachdb) - CockroachDB Backend for Django
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
@@ -1076,6 +1075,7 @@
 - [django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django
 - [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [awx](https://github.com/ansible/awx) - AWX Project
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
 - [python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack Developer Kit for Python
 - [pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer
