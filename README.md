@@ -95,7 +95,7 @@
 - [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse is a free analytics DBMS for big data
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
@@ -357,7 +357,7 @@
 - [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [micro](https://github.com/micro/micro) - Micro is a platform for API driven Go services development
+- [micro](https://github.com/micro/micro) - Micro is a cloud native development platform
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
@@ -588,7 +588,7 @@
 - [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2020)
 - [appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -806,7 +806,7 @@
 - [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google Accounts with emails.
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [django-sspanel](https://github.com/Ehco1996/django-sspanel) - 用diango开发的shadowsocks/V2ray面板
-- [yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and libray for various sites.
+- [yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and library for various sites.
 - [EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 - [python-csql](https://github.com/akdor1154/python-csql) - 
 - [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
@@ -1451,7 +1451,7 @@
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and data visualization library for browser
+- [incubator-echarts](https://github.com/apache/incubator-echarts) - Apache ECharts (incubating) is a powerful, interactive charting and data visualization library for browser
 
 ## Vim script 
 
