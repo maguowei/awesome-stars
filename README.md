@@ -830,7 +830,7 @@
 - [Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [django-rest-framework-simplejwt](https://github.com/SimpleJWT/django-rest-framework-simplejwt) - A JSON Web Token authentication plugin for the Django REST Framework.
 - [aiocron](https://github.com/gawel/aiocron) - Crontabs for asyncio
-- [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese and Easy to adapt for other languages)
+- [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese, German and Easy to adapt for other languages)
 - [typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - Take a modern Python codebase to the next level of performance.
 - [aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python
