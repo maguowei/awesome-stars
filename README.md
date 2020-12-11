@@ -139,6 +139,7 @@
 
 ## Go 
 
+- [chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [nerdctl](https://github.com/AkihiroSuda/nerdctl) - Docker-compatible CLI for containerd
 - [prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of the Ethereum 2.0 blockchain
@@ -501,6 +502,7 @@
 
 ## HTML 
 
+- [school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
 - [charts](https://github.com/bitnami/charts) - Helm Charts
 - [django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
 - [icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
@@ -785,7 +787,6 @@
 ## PHP 
 
 - [mdclub](https://github.com/zdhxiong/mdclub) - MDClub 社区系统后端代码
-- [easywechat](https://github.com/w7corp/easywechat) - :package: It is probably the best SDK in the world for developing WeChat App.
 - [web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 
 ## Perl 
@@ -800,6 +801,7 @@
 
 ## Python 
 
+- [PaddleX](https://github.com/PaddlePaddle/PaddleX) - PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）
 - [boltstream](https://github.com/benwilber/boltstream) - Boltstream Live Video Streaming Website + Backend
 - [django-grpc](https://github.com/gluk-w/django-grpc) - Easy gRPC service based on Django application
 - [detection-rules](https://github.com/elastic/detection-rules) - Rules for Elastic Security's detection engine
@@ -1401,6 +1403,7 @@
 
 ## TypeScript 
 
+- [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [headlamp](https://github.com/kinvolk/headlamp) - An easy-to-use and versatile dashboard for Kubernetes brought to you by Kinvolk.
 - [hub](https://github.com/artifacthub/hub) - Find, install and publish Kubernetes packages
 - [actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
