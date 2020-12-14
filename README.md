@@ -231,7 +231,7 @@
 - [go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
 - [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [kured](https://github.com/weaveworks/kured) - Kubernetes Reboot Daemon
-- [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
+- [tview](https://github.com/rivo/tview) - Rich interactive widgets for your terminal UI, written in Go
 - [qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System (Project under CNCF)
 - [go-funk](https://github.com/thoas/go-funk) - A modern Go utility library which provides helpers (map, find, contains, filter, ...)
@@ -363,7 +363,7 @@
 - [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [micro](https://github.com/micro/micro) - Micro is a platform to build, run and manage microservices
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
@@ -386,7 +386,7 @@
 - [cgroups](https://github.com/containerd/cgroups) - cgroups package for Go
 - [helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts
 - [dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
-- [kratos](https://github.com/go-kratos/kratos) - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [kratos](https://github.com/go-kratos/kratos) - Kratos是一套轻量级的Go微服务框架，包含大量微服务相关框架及工具。
 - [go-common](https://github.com/openbilibili/go-common) - 哔哩哔哩 bilibili 网站后台工程 源码
 - [cost-model](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes
 - [helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
@@ -1350,7 +1350,7 @@
 - [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
 - [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [Pixel](https://github.com/muukii/Pixel) - 🎨🖼 An image editor and engine using CoreImage
-- [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
+- [SPPermissions](https://github.com/varabeis/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
 - [Schedule](https://github.com/luoxiu/Schedule) - Schedule timing task in Swift using a fluent API. (A friendly alternative to Timer)
 - [YPImagePicker](https://github.com/Yummypets/YPImagePicker) - 📸 Instagram-like image picker & filters for iOS
 - [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
