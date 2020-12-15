@@ -118,7 +118,7 @@
 ## Dart 
 
 - [fluwx](https://github.com/OpenFlutter/fluwx) - Flutter版微信SDK.WeChat SDK for flutter.
-- [sentry-mobile](https://github.com/getsentry/sentry-mobile) - This is a hackweek project!
+- [sentry-mobile](https://github.com/getsentry/sentry-mobile) - WIP: Sentry Mobile app
 - [FlutterTencentImPlugin](https://github.com/JiangJuHong/FlutterTencentImPlugin) - 腾讯即时通讯(IM)，Flutter插件
 - [rongcloud-im-flutter-sdk](https://github.com/rongcloud/rongcloud-im-flutter-sdk) - IM Flutter SDK of RongCloud
 - [flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in  flutter framework using Firebase realtime database and storage
@@ -204,7 +204,7 @@
 - [utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, MetalStack, and vSphere with minimal TCO.
+- [gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet,vSphere, MetalStack, and kubevirt with minimal TCO.
 - [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [jupiter](https://github.com/douyu/jupiter) - Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
 - [node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
@@ -280,7 +280,7 @@
 - [blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [gim](https://github.com/alberliu/gim) - golang写的IM服务器(服务组件形式)
 - [aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
-- [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models to production
+- [cortex](https://github.com/cortexlabs/cortex) - Run inference at scale
 - [k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab's k3s in Docker
 - [local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
@@ -535,6 +535,7 @@
 - [skija](https://github.com/JetBrains/skija) - Skia bindings for Java
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书  3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）
 - [SoloPi](https://github.com/alipay/SoloPi) - SoloPi 自动化测试工具
+- [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [ignite](https://github.com/apache/ignite) - Apache Ignite
 - [flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
@@ -1220,6 +1221,7 @@
 
 ## Shell 
 
+- [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
 - [tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
 - [tmpmail](https://github.com/sdushantha/tmpmail) - 📬 A temporary email right from your terminal written in POSIX sh
@@ -1425,7 +1427,6 @@
 - [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [mobile-web-best-practice](https://github.com/mcuking/mobile-web-best-practice) - :tiger: 移动 web 最佳实践
-- [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [ajv](https://github.com/ajv-validator/ajv) - The fastest JSON Schema Validator. Supports draft-04/06/07/2019-09
