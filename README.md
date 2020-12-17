@@ -255,7 +255,7 @@
 - [gout](https://github.com/guonaihong/gout) - gout to become the Swiss Army Knife of the http client @^^@---&gt;  gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
 - [awesome-golang-algorithm](https://github.com/kylesliu/awesome-golang-algorithm) - :memo: LeetCode of algorithms with golang solution(updating).
 - [apns2](https://github.com/sideshow/apns2) - ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
-- [super-graph](https://github.com/dosco/super-graph) - Super Graph - Fetch data with GraphQL
+- [graphjin](https://github.com/dosco/graphjin) - GraphJin - Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler.
 - [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
@@ -638,7 +638,6 @@
 - [webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [Leaflet](https://github.com/Leaflet/Leaflet) - :leaves: JavaScript library for mobile-friendly interactive maps
 - [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
@@ -1009,7 +1008,7 @@
 - [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
 - [dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
 - [databases](https://github.com/encode/databases) - Async database support for Python. 🗄
-- [ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
+- [ludwig](https://github.com/ludwig-ai/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
 - [vid2vid](https://github.com/NVIDIA/vid2vid) - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 - [clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
@@ -1106,6 +1105,7 @@
 - [djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [python-pinyin](https://github.com/mozillazg/python-pinyin) - 汉字转拼音(pypinyin)
 - [cpython](https://github.com/python/cpython) - The Python programming language
