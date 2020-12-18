@@ -91,7 +91,7 @@
 - [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
-- [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
+- [envoy](https://github.com/envoyproxy/envoy) - **ATTENTION: Holiday vacation Dec-23 - Jan-4. Responses delayed.** Cloud-native high-performance edge/middle/service proxy
 - [foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
@@ -171,7 +171,7 @@
 - [pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [reform](https://github.com/go-reform/reform) - A better ORM for Go, based on non-empty interfaces and code generation.
-- [sealos](https://github.com/fanux/sealos) - 只能用丝滑一词形容的kubernetes高可用安装（kubernetes install）工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16 v1.15 v1.17 v1.18 v1.19!
+- [sealos](https://github.com/fanux/sealos) - 只能用丝滑一词形容的kubernetes高可用安装（kubernetes install）工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16 v1.15 v1.17 v1.18 v1.19 v1.20集成containerd离线包!
 - [server-sdk-go](https://github.com/rongcloud/server-sdk-go) - RongCloud Server SDK in Go.
 - [nirvana](https://github.com/caicloud/nirvana) - Golang Restful API Framework for Productivity
 - [snowflake](https://github.com/bwmarrin/snowflake) - A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
