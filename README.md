@@ -263,7 +263,7 @@
 - [ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
 - [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [keto](https://github.com/ory/keto) - A cloud native access control server providing best-practice patterns (RBAC, ABAC, ACL, AWS IAM Policies, Kubernetes Roles, ...) via REST APIs. Written in Go.
-- [kratos](https://github.com/ory/kratos) - Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user experience! Written in Go.
+- [kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, KeyCloak) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headles, API-only - without templating or theming headaches.
 - [popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
 - [flagger](https://github.com/weaveworks/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
@@ -1087,7 +1087,7 @@
 - [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
 - [django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django
-- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
+- [core](https://github.com/home-assistant/core) - WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ :house_with_garden: Open source home automation that puts local control and privacy first
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [awx](https://github.com/ansible/awx) - AWX Project
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
