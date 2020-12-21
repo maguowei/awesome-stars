@@ -105,6 +105,7 @@
 
 ## CSS 
 
+- [missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
@@ -139,6 +140,7 @@
 
 ## Go 
 
+- [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [agent](https://github.com/grafana/agent) - A lightweight subset of Prometheus and more, optimized for Grafana Cloud
 - [harvester](https://github.com/rancher/harvester) - Open source hyperconverged infrastructure (HCI) software
 - [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) - A PostgresSQL metric exporter for Prometheus
@@ -149,7 +151,7 @@
 - [prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of the Ethereum 2.0 blockchain
 - [kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
 - [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
-- [kubevela](https://github.com/oam-dev/kubevela) - An Easy-to-use yet Highly Extensible App Platform based on Kubernetes and Open Application Model.
+- [kubevela](https://github.com/oam-dev/kubevela) - A Platform Engine based on Kubernetes, CUE and Open Application Model.
 - [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [conprof](https://github.com/conprof/conprof) - Continuous profiling in for pprof compatible profiles.
 - [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -349,7 +351,7 @@
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
-- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for microservices development
+- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -535,6 +537,7 @@
 
 ## Java 
 
+- [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [skija](https://github.com/JetBrains/skija) - Skia bindings for Java
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书  3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）
 - [SoloPi](https://github.com/alipay/SoloPi) - SoloPi 自动化测试工具
@@ -544,7 +547,7 @@
 - [flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-- [KafkaCenter](https://github.com/xaecbd/KafkaCenter) - KafkaCenter is a unified one-stop platform for Kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components.
+- [KafkaCenter](https://github.com/xaecbd/KafkaCenter) - KafkaCenter is a unified  platform for Kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components.
 - [flink-learning](https://github.com/zhisheng17/flink-learning) - flink learning blog. http://www.flink-learning.com  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
 - [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
 - [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
@@ -698,6 +701,7 @@
 
 ## Objective-C 
 
+- [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
 - [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
 - [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [realm-cocoa](https://github.com/realm/realm-cocoa) - Realm is a mobile database: a replacement for Core Data & SQLite
@@ -1187,6 +1191,7 @@
 
 ## Rust 
 
+- [GraphScope](https://github.com/alibaba/GraphScope) - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud providers in just a few seconds
 - [nat](https://github.com/willdoescode/nat) - ⚡️ nat - the 'ls' replacement you never knew you needed⚡️
