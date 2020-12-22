@@ -268,9 +268,9 @@
 - [ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
 - [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [keto](https://github.com/ory/keto) - A cloud native access control server providing best-practice patterns (RBAC, ABAC, ACL, AWS IAM Policies, Kubernetes Roles, ...) via REST APIs. Written in Go.
-- [kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, KeyCloak) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headles, API-only - without templating or theming headaches.
+- [kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headles, API-only - without templating or theming headaches.
 - [popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
-- [flagger](https://github.com/weaveworks/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
+- [flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
 - [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
 - [tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing
