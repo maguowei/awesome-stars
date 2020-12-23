@@ -67,6 +67,7 @@
 
 ## C++ 
 
+- [Tendis](https://github.com/Tencent/Tendis) - Tendis is a high-performance distributed storage system fully compatible with the Redis protocol.
 - [workflow](https://github.com/sogou/workflow) - C++ Programming Paradigm with Asynchronous Networking
 - [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 - [wave-share](https://github.com/ggerganov/wave-share) - Serverless, peer-to-peer, local file sharing through sound
@@ -80,7 +81,6 @@
 - [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
 - [srs](https://github.com/ossrs/srs) - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
 - [vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
-- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
@@ -118,6 +118,7 @@
 
 ## Dart 
 
+- [flutterfire](https://github.com/FirebaseExtended/flutterfire) - 🔥 A collection of Firebase plugins for Flutter apps.
 - [fluwx](https://github.com/OpenFlutter/fluwx) - Flutter版微信SDK.WeChat SDK for flutter.
 - [sentry-mobile](https://github.com/getsentry/sentry-mobile) - WIP: Sentry Mobile app
 - [FlutterTencentImPlugin](https://github.com/JiangJuHong/FlutterTencentImPlugin) - 腾讯即时通讯(IM)，Flutter插件
@@ -140,6 +141,8 @@
 
 ## Go 
 
+- [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
+- [sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [agent](https://github.com/grafana/agent) - A lightweight subset of Prometheus and more, optimized for Grafana Cloud
 - [harvester](https://github.com/rancher/harvester) - Open source hyperconverged infrastructure (HCI) software
@@ -549,6 +552,7 @@
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - [KafkaCenter](https://github.com/xaecbd/KafkaCenter) - KafkaCenter is a unified  platform for Kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components.
 - [flink-learning](https://github.com/zhisheng17/flink-learning) - flink learning blog. http://www.flink-learning.com  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
+- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
 - [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
 - [nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
@@ -566,6 +570,7 @@
 
 ## JavaScript 
 
+- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for rocket, core, capsule, pad, and launch data
 - [magnetW](https://github.com/xiandanin/magnetW) - 磁力链接聚合搜索
 - [wechat_history_export](https://github.com/kingbase/wechat_history_export) - 从 PC 端 (Windows) 不那么狼狈的阅读或导出微信公众号的历史文章
 - [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
@@ -666,6 +671,8 @@
 
 ## Jupyter Notebook 
 
+- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+- [ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
@@ -811,6 +818,8 @@
 
 ## Python 
 
+- [wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python
+- [ariadne](https://github.com/mirumee/ariadne) - Ariadne is a Python library for implementing GraphQL servers using schema-first approach.
 - [aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
 - [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [PaddleX](https://github.com/PaddlePaddle/PaddleX) - PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）
@@ -1191,6 +1200,7 @@
 
 ## Rust 
 
+- [gping](https://github.com/orf/gping) - Ping, but with a graph
 - [GraphScope](https://github.com/alibaba/GraphScope) - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud providers in just a few seconds
