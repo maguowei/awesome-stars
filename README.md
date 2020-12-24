@@ -68,7 +68,7 @@
 ## C++ 
 
 - [Tendis](https://github.com/Tencent/Tendis) - Tendis is a high-performance distributed storage system fully compatible with the Redis protocol.
-- [workflow](https://github.com/sogou/workflow) - C++ Programming Paradigm with Asynchronous Networking
+- [workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine
 - [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 - [wave-share](https://github.com/ggerganov/wave-share) - Serverless, peer-to-peer, local file sharing through sound
 - [incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
@@ -141,6 +141,7 @@
 
 ## Go 
 
+- [juicesync](https://github.com/juicedata/juicesync) - A tool to move your data between any clouds or regions.
 - [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
