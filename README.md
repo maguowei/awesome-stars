@@ -141,6 +141,7 @@
 
 ## Go 
 
+- [learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 - [juicesync](https://github.com/juicedata/juicesync) - A tool to move your data between any clouds or regions.
 - [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
@@ -213,7 +214,7 @@
 - [utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet,vSphere, MetalStack, and kubevirt with minimal TCO.
+- [gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, vSphere, MetalStack, and Kubevirt with minimal TCO.
 - [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [jupiter](https://github.com/douyu/jupiter) - Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
 - [node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
@@ -718,7 +719,7 @@
 
 - [awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
-- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
+- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [guwenbert](https://github.com/Ethan-yt/guwenbert) - GuwenBERT: 古文预训练语言模型（古文BERT） a Pre-trained Language Model for Classical Chinese (Literary Chinese)
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) - 《Effective Modern C++》翻译 - 2020更新中
