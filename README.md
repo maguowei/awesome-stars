@@ -62,6 +62,7 @@
 
 ## C# # 
 
+- [jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
 - [runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 
@@ -141,6 +142,8 @@
 
 ## Go 
 
+- [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
+- [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 - [juicesync](https://github.com/juicedata/juicesync) - A tool to move your data between any clouds or regions.
 - [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
@@ -572,6 +575,7 @@
 
 ## JavaScript 
 
+- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API and Web App for analyzing & finding a person profile across 300+ social media websites (Detections are updated regularly)
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for rocket, core, capsule, pad, and launch data
 - [magnetW](https://github.com/xiandanin/magnetW) - 磁力链接聚合搜索
 - [wechat_history_export](https://github.com/kingbase/wechat_history_export) - 从 PC 端 (Windows) 不那么狼狈的阅读或导出微信公众号的历史文章
@@ -805,6 +809,7 @@
 
 ## PHP 
 
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [mdclub](https://github.com/zdhxiong/mdclub) - MDClub 社区系统后端代码
 - [web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 
@@ -820,6 +825,7 @@
 
 ## Python 
 
+- [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Utilities for dealing with Tumblr blogs, Tumblr backup
 - [sampleproject](https://github.com/pypa/sampleproject) - A sample project that exists for PyPUG's "Tutorial on Packaging and Distributing Projects"
 - [wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python
@@ -1204,6 +1210,7 @@
 
 ## Rust 
 
+- [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [gping](https://github.com/orf/gping) - Ping, but with a graph
 - [GraphScope](https://github.com/alibaba/GraphScope) - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
@@ -1290,6 +1297,7 @@
 
 ## Swift 
 
+- [MarkdownUI](https://github.com/gonzalezreal/MarkdownUI) - Render Markdown formatted text in SwiftUI
 - [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS [and Apple Platforms].
 - [swift-nio-ssh](https://github.com/apple/swift-nio-ssh) - SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
@@ -1303,7 +1311,7 @@
 - [DeckKit](https://github.com/danielsaidi/DeckKit) - DeckKit is a tiny library that helps you create card-based apps in SwiftUI.
 - [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
 - [FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI
-- [Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly
+- [Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building apps for browsers/WebAssembly and other platforms
 - [SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
 - [Sliders-SwiftUI](https://github.com/kieranb662/Sliders-SwiftUI) - Collection of unique fully customizable SwiftUI sliders, joysticks, trackpads and more!
 - [Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
