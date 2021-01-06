@@ -602,7 +602,7 @@
 - [webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.18 安装手册，(k8s install) 在线答疑，持续更新。
+- [kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.20 安装手册，(k8s install) 在线答疑，持续更新。
 - [strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [webrtc-book-cn](https://github.com/a-wing/webrtc-book-cn) - 中文翻译 《 Real-Time Communication with WebRTC 》
@@ -829,6 +829,7 @@
 
 ## Python 
 
+- [WeRoBot](https://github.com/offu/WeRoBot) - WeRoBot 是一个微信公众号开发框架
 - [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Utilities for dealing with Tumblr blogs, Tumblr backup
 - [sampleproject](https://github.com/pypa/sampleproject) - A sample project that exists for PyPUG's "Tutorial on Packaging and Distributing Projects"
@@ -1160,7 +1161,7 @@
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 - [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
 - [qrcode](https://github.com/sylnsfar/qrcode) - artistic QR Code in Python （Animated GIF qr code）- Python 艺术二维码生成器 （GIF动态二维码、图片二维码）
-- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal
 - [asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
