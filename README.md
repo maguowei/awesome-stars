@@ -73,6 +73,7 @@
 
 ## C++ 
 
+- [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [Tendis](https://github.com/Tencent/Tendis) - Tendis is a high-performance distributed storage system fully compatible with the Redis protocol.
 - [workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine
 - [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
@@ -97,7 +98,7 @@
 - [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
-- [envoy](https://github.com/envoyproxy/envoy) - **ATTENTION: Holiday vacation Dec-23 - Jan-4. Responses delayed.** Cloud-native high-performance edge/middle/service proxy
+- [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
@@ -147,6 +148,7 @@
 
 ## Go 
 
+- [ebpf](https://github.com/cilium/ebpf) - eBPF Library for Go
 - [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
 - [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
@@ -164,7 +166,7 @@
 - [prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of the Ethereum 2.0 blockchain
 - [kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
 - [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
-- [kubevela](https://github.com/oam-dev/kubevela) - A Platform Engine based on Kubernetes, CUE and Open Application Model.
+- [kubevela](https://github.com/oam-dev/kubevela) - A Platform Engine based on Kubernetes, CUELang templating and Open Application Model.
 - [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [conprof](https://github.com/conprof/conprof) - Continuous profiling in for pprof compatible profiles.
 - [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -307,7 +309,7 @@
 - [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 - [ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
 - [imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go
-- [kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes
+- [kruise](https://github.com/openkruise/kruise) - Automate application management on Kubernetes
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
 - [bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
@@ -550,6 +552,7 @@
 
 ## Java 
 
+- [DoraemonKit](https://github.com/didi/DoraemonKit) - A full-featured App (iOS & Android) development assistant. You deserve it.  简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [skija](https://github.com/JetBrains/skija) - Skia bindings for Java
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书  3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）
@@ -1238,7 +1241,7 @@
 - [nushell](https://github.com/nushell/nushell) - A new type of shell
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [diem](https://github.com/diem/diem) - Diem’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
