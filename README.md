@@ -166,7 +166,7 @@
 - [prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of the Ethereum 2.0 blockchain
 - [kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
 - [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
-- [kubevela](https://github.com/oam-dev/kubevela) - A Platform Engine based on Kubernetes, CUELang templating and Open Application Model.
+- [kubevela](https://github.com/oam-dev/kubevela) - A Highly Extensible Platform Engine based on Kubernetes and Open Application Model.
 - [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [conprof](https://github.com/conprof/conprof) - Continuous profiling in for pprof compatible profiles.
 - [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -1481,7 +1481,7 @@
 - [build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx
 - [cdk8s](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
-- [wechaty](https://github.com/wechaty/wechaty) - Conversational SDK for Chatbot Makers
+- [wechaty](https://github.com/wechaty/wechaty) - RPA SDK for Chatbot Makers
 - [formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
