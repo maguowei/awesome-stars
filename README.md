@@ -355,7 +355,7 @@
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
 - [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
 - [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.
-- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [rke](https://github.com/rancher/rke) - Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
 - [netstack](https://github.com/google/netstack) - IPv4 and IPv6 userland network stack
@@ -406,7 +406,7 @@
 - [cgroups](https://github.com/containerd/cgroups) - cgroups package for Go
 - [helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts
 - [dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
-- [kratos](https://github.com/go-kratos/kratos) - Kratos是一套轻量级的Go微服务框架，包含大量微服务相关框架及工具。
+- [kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
 - [go-common](https://github.com/openbilibili/go-common) - 哔哩哔哩 bilibili 网站后台工程 源码
 - [cost-model](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes
 - [helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
@@ -552,6 +552,9 @@
 
 ## Java 
 
+- [Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
+- [miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
+- [Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
 - [DoraemonKit](https://github.com/didi/DoraemonKit) - A full-featured App (iOS & Android) development assistant. You deserve it.  简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [skija](https://github.com/JetBrains/skija) - Skia bindings for Java
@@ -583,6 +586,7 @@
 
 ## JavaScript 
 
+- [metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere !
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API and Web App for analyzing & finding a person profile across 300+ social media websites (Detections are updated regularly)
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for rocket, core, capsule, pad, and launch data
 - [magnetW](https://github.com/xiandanin/magnetW) - 磁力链接聚合搜索
@@ -729,6 +733,7 @@
 
 ## Others 
 
+- [WebKit](https://github.com/WebKit/WebKit) - Official git mirror of the WebKit repository, https://svn.webkit.org/repository/webkit, future canonical repository.
 - [awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
@@ -1449,6 +1454,7 @@
 
 ## TypeScript 
 
+- [redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [headlamp](https://github.com/kinvolk/headlamp) - An easy-to-use and versatile dashboard for Kubernetes brought to you by Kinvolk.
 - [hub](https://github.com/artifacthub/hub) - Find, install and publish Kubernetes packages
