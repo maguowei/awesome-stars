@@ -925,7 +925,6 @@
 - [stripe-python](https://github.com/stripe/stripe-python) - Python library for the Stripe API.
 - [xunfeng](https://github.com/ysrc/xunfeng) - 巡风是一款适用于企业内网的漏洞快速应急，巡航扫描系统。
 - [aioquic](https://github.com/aiortc/aioquic) - QUIC and HTTP/3 implementation in Python
-- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available.
 - [webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
 - [stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
@@ -1280,8 +1279,6 @@
 - [catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines.
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
-- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-- [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [db](https://github.com/infostreams/db) - Version control for databases: save, restore, and archive snapshots of your database from the command line
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
