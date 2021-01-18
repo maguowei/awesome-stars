@@ -461,7 +461,6 @@
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
-- [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
@@ -984,7 +983,7 @@
 - [graphene-sqlalchemy](https://github.com/graphql-python/graphene-sqlalchemy) - Graphene SQLAlchemy integration
 - [pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
-- [mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python
+- [mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python
 - [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [diy-async-web-framework](https://github.com/hzlmn/diy-async-web-framework) - Learn how modern async web frameworks work, by writing simple clone from scratch
@@ -1031,7 +1030,6 @@
 - [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
 - [pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
-- [curio](https://github.com/dabeaz/curio) - Curio - Dead Body Reported!
 - [google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
 - [public-speaking-with-meaning](https://github.com/xiaolai/public-speaking-with-meaning) - 《我也有话要说》—— 普通人的当众讲话技能
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
