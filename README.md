@@ -421,7 +421,7 @@
 - [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-- [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
+- [pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server) - benchmarks for implementation of servers which support 1 million connections
 - [container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
@@ -837,6 +837,7 @@
 
 ## Python 
 
+- [sosumi-snap](https://github.com/popey/sosumi-snap) - 
 - [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
 - [schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [WeRoBot](https://github.com/offu/WeRoBot) - WeRoBot 是一个微信公众号开发框架
@@ -1232,7 +1233,7 @@
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
 - [substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
-- [windows-rs](https://github.com/microsoft/windows-rs) - Rust for the Windows API
+- [windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 - [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
