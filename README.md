@@ -837,6 +837,7 @@
 
 ## Python 
 
+- [PyWebIO](https://github.com/wang0618/PyWebIO) - Write interactive web app in script way.
 - [sosumi-snap](https://github.com/popey/sosumi-snap) - 
 - [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
 - [schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
