@@ -149,6 +149,8 @@
 
 ## Go 
 
+- [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
+- [terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [nocalhost](https://github.com/nocalhost/nocalhost) - Nocalhost is Cloud Native Environment.
 - [juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [ebpf](https://github.com/cilium/ebpf) - eBPF Library for Go
@@ -648,7 +650,7 @@
 - [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架
 - [react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - A Wysiwyg editor build on top of ReactJS and DraftJS. https://jpuri.github.io/react-draft-wysiwyg
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 🤪  😜 阿里招p6/p7 Python Golang | gaojunqi@outlook.com | 上海张江
 - [swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
