@@ -150,6 +150,7 @@
 
 ## Go 
 
+- [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
 - [terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [nocalhost](https://github.com/nocalhost/nocalhost) - Nocalhost is Cloud Native Environment.
@@ -553,6 +554,7 @@
 
 ## Java 
 
+- [canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
 - [Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
 - [miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 - [DoraemonKit](https://github.com/didi/DoraemonKit) - A full-featured App (iOS & Android) development assistant. You deserve it.  简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/
@@ -581,7 +583,7 @@
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
-- [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
+- [elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 
 ## JavaScript 
 
@@ -730,6 +732,7 @@
 
 ## Others 
 
+- [common-regex](https://github.com/cdoco/common-regex) - :jack_o_lantern: 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。
 - [coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 - [golang](https://github.com/aceld/golang) - 《Golang修养之路》本书针对Golang专题性热门技术深入理解，修养在Golang领域深入话题，脱胎换骨。
 - [Qodana](https://github.com/JetBrains/Qodana) - 
@@ -750,7 +753,7 @@
 - [leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) - This is a repository containing the list of company wise questions available on leetcode premium
 - [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
 - [flutter-development-roadmap](https://github.com/Tarikul711/flutter-development-roadmap) - Flutter App Developer Roadmap - A complete roadmap to learn Flutter App Development. I tried to learn flutter using this roadmap. If you want to add something please contribute to the project. Happy Learning
-- [Learn-Vim](https://github.com/iggredible/Learn-Vim) - A guide for learning the Vim editor and Vimscript the smart way.
+- [Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript is not hard. This is the guide that you're looking for.
 - [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
 - [mlsys-ladder](https://github.com/caicloud/mlsys-ladder) - Learning Machine Learning, The Chinese Taoist Way
 - [swiftui-animation-library](https://github.com/amosgyamfi/swiftui-animation-library) - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band, Kitchen Sink and Wobble effects. Browse, find and download the animation that fits your needs.
@@ -1456,6 +1459,8 @@
 
 ## TypeScript 
 
+- [vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
+- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser to a second screen for your computer
 - [redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [headlamp](https://github.com/kinvolk/headlamp) - An easy-to-use and versatile web UI for Kubernetes brought to you by Kinvolk.
