@@ -1287,7 +1287,7 @@
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [opencv-python](https://github.com/skvark/opencv-python) - Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
+- [opencv-python](https://github.com/opencv/opencv-python) - Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [container-service-for-azure-china](https://github.com/Azure/container-service-for-azure-china) - Container Service for Azure China
 - [spec](https://github.com/cloudevents/spec) - CloudEvents Specification
@@ -1460,7 +1460,7 @@
 ## TypeScript 
 
 - [vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
-- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser to a second screen for your computer
+- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a second screen for your computer
 - [redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [headlamp](https://github.com/kinvolk/headlamp) - An easy-to-use and versatile web UI for Kubernetes brought to you by Kinvolk.
