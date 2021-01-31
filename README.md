@@ -297,7 +297,7 @@
 - [sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
 - [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
 - [tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing
-- [buf](https://github.com/bufbuild/buf) - 
+- [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [titan](https://github.com/distributedio/titan) - A Distributed Redis Protocol Compatible NoSQL Database
 - [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
@@ -1274,7 +1274,7 @@
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
 - [tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
-- [tmpmail](https://github.com/sdushantha/tmpmail) - 📬 A temporary email right from your terminal written in POSIX sh
+- [tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [fastmac](https://github.com/fastai/fastmac) - Get a MacOS or Linux shell, for free, in around 2 minutes
 - [debugger-action](https://github.com/csexton/debugger-action) - Interactive debug session for GitHub Actions
 - [certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
@@ -1460,7 +1460,7 @@
 ## TypeScript 
 
 - [vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
-- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a second screen for your computer
+- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [headlamp](https://github.com/kinvolk/headlamp) - An easy-to-use and versatile web UI for Kubernetes brought to you by Kinvolk.
