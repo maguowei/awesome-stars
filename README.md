@@ -976,7 +976,7 @@
 - [uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
 - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
-- [healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django
+- [healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
 - [graalpython](https://github.com/oracle/graalpython) - A Python 3 implementation built on GraalVM
 - [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales Numpy, pandas, Scikit-learn and Python functions.
 - [podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
