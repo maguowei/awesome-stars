@@ -151,6 +151,7 @@
 
 ## Go 
 
+- [swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
 - [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
@@ -1340,7 +1341,7 @@
 - [DeviceKit](https://github.com/devicekit/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
 - [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A waterfall grid layout view for SwiftUI.
 - [SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit) - A SwiftUI system components and interactions demo app
-- [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - A sample project showcasing the production setup of the SwiftUI app with Clean Architecture
+- [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - A sample project showcasing the production setup of the SwiftUI app with Clean Architecture. Examples for working with CoreData persistence, networking, dependency injection, unit testing, and more.
 - [ElegantTimeline-SwiftUI](https://github.com/ThasianX/ElegantTimeline-SwiftUI) - Elegant demonstration of a multi-faceted timeline view with interactions between the calendar, list, and app theme.
 - [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
 - [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy for iOS
