@@ -843,6 +843,7 @@
 
 ## Python 
 
+- [c10k](https://github.com/wilhelmshen/c10k) - A coroutine-based alternative implementation of the posix thread
 - [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [PyWebIO](https://github.com/wang0618/PyWebIO) - Write interactive web app in script way.
@@ -1498,7 +1499,7 @@
 - [build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx
 - [cdk8s](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
-- [wechaty](https://github.com/wechaty/wechaty) - RPA SDK for Chatbot Makers
+- [wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
 - [formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
