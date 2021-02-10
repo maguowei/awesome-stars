@@ -16,6 +16,7 @@
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
+  - [Hy](#hy)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jsonnet](#jsonnet)
@@ -128,6 +129,7 @@
 
 ## Dart 
 
+- [Flutter-responsive-email-ui---Mobile-Tablet-and-Web](https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web) - We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.
 - [flutterfire](https://github.com/FirebaseExtended/flutterfire) - 🔥 A collection of Firebase plugins for Flutter apps.
 - [fluwx](https://github.com/OpenFlutter/fluwx) - Flutter版微信SDK.WeChat SDK for flutter.
 - [sentry-mobile](https://github.com/getsentry/sentry-mobile) - Sentry Mobile App
@@ -151,6 +153,7 @@
 
 ## Go 
 
+- [under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | https://golang.design/under-the-hood
 - [aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
 - [berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
@@ -208,7 +211,7 @@
 - [nirvana](https://github.com/caicloud/nirvana) - Golang Restful API Framework for Productivity
 - [snowflake](https://github.com/bwmarrin/snowflake) - A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
 - [community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
-- [ent](https://github.com/facebook/ent) - An entity framework for Go
+- [ent](https://github.com/ent/ent) - An entity framework for Go
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [olric](https://github.com/buraksezer/olric) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -269,7 +272,7 @@
 - [afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
 - [wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [service-catalog](https://github.com/kubernetes-sigs/service-catalog) - Consume services in Kubernetes using the Open Service Broker API
-- [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
+- [argo-workflows](https://github.com/argoproj/argo-workflows) - Argo Workflows: Get stuff done with Kubernetes.
 - [cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 - [crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
@@ -386,7 +389,7 @@
 - [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [xuperchain](https://github.com/xuperchain/xuperchain) - A highly flexible blockchain architecture with great transaction performance.
 - [gortcd](https://github.com/gortc/gortcd) - Fast TURN and STUN server: cross-platform, hot reload, flexible config
-- [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
+- [dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [kyma](https://github.com/kyma-project/kyma) - A flexible and easy way to connect and extend enterprise applications in a cloud-native world
 - [opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
@@ -556,6 +559,10 @@
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
+## Hy 
+
+- [hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
+
 ## Java 
 
 - [canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
@@ -591,6 +598,7 @@
 
 ## JavaScript 
 
+- [neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 300+ social media websites (Detections are updated regularly)
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [magnetW](https://github.com/xiandanin/magnetW) - 磁力链接聚合搜索
@@ -607,7 +615,6 @@
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC) - 
 - [react-weui](https://github.com/weui/react-weui) - weui for react
-- [components](https://github.com/primer/components) - Primer React components
 - [headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
@@ -625,7 +632,7 @@
 - [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Secret detection for your GitHub, GitLab and Bitbucket repositories.
+- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2021)
 - [appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -739,7 +746,7 @@
 - [common-regex](https://github.com/cdoco/common-regex) - :jack_o_lantern: 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。
 - [coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 - [golang](https://github.com/aceld/golang) - 《Golang修养之路》本书针对Golang专题性热门技术深入理解，修养在Golang领域深入话题，脱胎换骨。
-- [Qodana](https://github.com/JetBrains/Qodana) - 
+- [Qodana](https://github.com/JetBrains/Qodana) - Source repository of Qodana Help
 - [WebKit](https://github.com/WebKit/WebKit) - Official git mirror of the WebKit repository, https://svn.webkit.org/repository/webkit, future canonical repository.
 - [awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
@@ -1037,7 +1044,6 @@
 - [numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [graphics](https://github.com/tensorflow/graphics) - TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow
 - [delegator.py](https://github.com/amitt001/delegator.py) - Subprocesses for Humans 2.0.
-- [hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -1490,6 +1496,7 @@
 - [fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [mobile-web-best-practice](https://github.com/mcuking/mobile-web-best-practice) - :tiger: 移动 web 最佳实践
 - [eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
+- [components](https://github.com/primer/components) - Primer React components
 - [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [ajv](https://github.com/ajv-validator/ajv) - The fastest JSON Schema Validator. Supports draft-04/06/07/2019-09
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
