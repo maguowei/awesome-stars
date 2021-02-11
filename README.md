@@ -598,6 +598,7 @@
 
 ## JavaScript 
 
+- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
 - [neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 300+ social media websites (Detections are updated regularly)
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
@@ -854,7 +855,7 @@
 - [pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
 - [python-inject](https://github.com/ivankorobkov/python-inject) - Python dependency injection
 - [c10k](https://github.com/wilhelmshen/c10k) - A coroutine-based alternative implementation of the posix thread
-- [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
+- [akshare](https://github.com/jindaxiang/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [PyWebIO](https://github.com/wang0618/PyWebIO) - Write interactive web app in script way.
 - [sosumi-snap](https://github.com/popey/sosumi-snap) - 
@@ -972,7 +973,7 @@
 - [SlowFast](https://github.com/facebookresearch/SlowFast) - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
 - [iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
-- [jet-bridge](https://github.com/jet-admin/jet-bridge) - Jet Bridge (Universal) for Jet Admin – API-based Admin Panel Framework for your application
+- [jet-bridge](https://github.com/jet-admin/jet-bridge) - Jet Bridge – Admin Panel Framework for your application
 - [serverless-application-model](https://github.com/aws/serverless-application-model) - AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications
 - [memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code
 - [gpt2-ml](https://github.com/imcaspar/gpt2-ml) - GPT2 for Multiple Languages, including pretrained models. GPT2 多语言支持, 15亿参数中文预训练模型
