@@ -199,7 +199,6 @@
 - [db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
-- [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers
 - [go-ycsb](https://github.com/pingcap/go-ycsb) - A Go port of Yahoo! Cloud Serving Benchmark (YCSB)
 - [gota](https://github.com/go-gota/gota) - Gota: DataFrames and data wrangling in Go (Golang)
@@ -1087,7 +1086,7 @@
 - [tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
 - [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [django-simple-history](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from admin site.
-- [The-Big-Username-Blacklist](https://github.com/marteinn/The-Big-Username-Blacklist) - This is a opinionated blacklist of words that you might not like to see used as usernames in your service.
+- [The-Big-Username-Blocklist](https://github.com/marteinn/The-Big-Username-Blocklist) - This is a opinionated blocklist of words that you might not like to see used as usernames in your service.
 - [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [pytrends](https://github.com/GeneralMills/pytrends) - Pseudo API for Google Trends
@@ -1149,7 +1148,7 @@
 - [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [awx](https://github.com/ansible/awx) - AWX Project
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack Developer Kit for Python
 - [pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer
 - [budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
@@ -1474,6 +1473,7 @@
 
 ## TypeScript 
 
+- [vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [opstrace](https://github.com/opstrace/opstrace) - Secure observability, deployed in your own network. An open source alternative to SaaS solutions like Datadog, SignalFx, ...
 - [vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
