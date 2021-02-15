@@ -190,7 +190,6 @@
 - [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
 - [go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
-- [offiaccount](https://github.com/fastwego/offiaccount) - [微信公众号] A fast wechat offiaccount development sdk written in Golang
 - [over-golang](https://github.com/overnote/over-golang) - Golang相关：[进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -601,7 +600,6 @@
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 300+ social media websites (Detections are updated regularly)
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [magnetW](https://github.com/xiandanin/magnetW) - 磁力链接聚合搜索
-- [wechat_history_export](https://github.com/kingbase/wechat_history_export) - 从 PC 端 (Windows) 不那么狼狈的阅读或导出微信公众号的历史文章
 - [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [github-daily](https://github.com/headllines/github-daily) - GitHub daily top 10 repos
 - [docs](https://github.com/github/docs) - The open-source repo for docs.github.com
@@ -1411,7 +1409,7 @@
 - [Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework.
 - [SwiftLocation](https://github.com/malcommac/SwiftLocation) - 🛰 CoreLocation Made Easy - Efficient & Easy Location Tracker, IP Location, Gecoder, Geofence, Autocomplete, Beacon Ranging, Broadcaster and Visits Monitoring
 - [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift
-- [Pock](https://github.com/pigigaldi/Pock) - Display macOS Dock in Touch Bar
+- [pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [Shout](https://github.com/jakeheis/Shout) - SSH made easy in Swift
 - [FloatingPanel](https://github.com/scenee/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
 - [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
@@ -1536,7 +1534,6 @@
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins) - React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 
