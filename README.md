@@ -149,7 +149,6 @@
 ## Dockerfile 
 
 - [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 
 ## Go 
 
@@ -668,6 +667,7 @@
 
 ## Kotlin 
 
+- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 - [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 
 ## Lua 
@@ -1213,6 +1213,7 @@
 - [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 230 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 - [tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
@@ -1362,6 +1363,7 @@
 
 ## TypeScript 
 
+- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
