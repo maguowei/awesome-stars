@@ -182,7 +182,7 @@
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [grafana/agent](https://github.com/grafana/agent) - Prometheus Metrics, Loki Logs, and Tempo Traces, optimized for Grafana Cloud.
 - [rancher/harvester](https://github.com/rancher/harvester) - Open source hyperconverged infrastructure (HCI) software
-- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgresSQL metric exporter for Prometheus
+- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 最小巧、最准确、最全面、最实用的中国大陆 GeoIP2 数据库及 IP 地址段
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [AkihiroSuda/nerdctl](https://github.com/AkihiroSuda/nerdctl) - Docker-compatible CLI for containerd
@@ -1368,6 +1368,7 @@
 
 ## TypeScript 
 
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
