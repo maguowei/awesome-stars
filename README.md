@@ -50,7 +50,7 @@
 
 ## C 
 
-- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension - for multi-tenant and real-time analytics workloads
+- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
 - [mopemope/meinheld](https://github.com/mopemope/meinheld) - Meinheld is a high performance asynchronous WSGI Web Server (based on picoev)
 - [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files.
@@ -71,6 +71,7 @@
 
 ## C# # 
 
+- [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 
@@ -282,7 +283,7 @@
 - [sideshow/apns2](https://github.com/sideshow/apns2) - ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler.
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
-- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -571,7 +572,7 @@
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere!
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [xiandanin/magnetW](https://github.com/xiandanin/magnetW) - 磁力链接聚合搜索
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
@@ -926,7 +927,7 @@
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [alecthomas/injector](https://github.com/alecthomas/injector) - Python dependency injection framework, inspired by Guice
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
-- [emeryberger/scalene](https://github.com/emeryberger/scalene) - Scalene: a high-performance, high-precision CPU and memory profiler for Python
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU and memory profiler for Python
 - [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [facebookresearch/SlowFast](https://github.com/facebookresearch/SlowFast) - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
@@ -1328,7 +1329,7 @@
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [jakeheis/Shout](https://github.com/jakeheis/Shout) - SSH made easy in Swift
 - [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
-- [muukii/Pixel](https://github.com/muukii/Pixel) - 📷 An image editor and engine using CoreImage - Started v2 development!
+- [muukii/Pixel](https://github.com/muukii/Pixel) - 📷 [v2 development started 🧵] An image editor and engine using CoreImage
 - [varabeis/SPPermissions](https://github.com/varabeis/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
 - [luoxiu/Schedule](https://github.com/luoxiu/Schedule) - Schedule timing task in Swift using a fluent API. (A friendly alternative to Timer)
 - [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker) - 📸 Instagram-like image picker & filters for iOS
