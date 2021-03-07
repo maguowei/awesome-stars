@@ -153,6 +153,10 @@
 
 ## Go 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
+- [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.
+- [brigadecore/brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) - 🔥  Continuous Profiling Platform 🔥 Debug performance issues down to a single line of code
 - [docker/hub-tool](https://github.com/docker/hub-tool) - 🧪 Docker Hub experimental CLI tool
@@ -717,7 +721,7 @@
 - [cloudnativeto/academy](https://github.com/cloudnativeto/academy) - 云原生学院
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [resumejob/interview-questions](https://github.com/resumejob/interview-questions) - 根据超过 1700 篇真实面经整理的腾讯，阿里，字节跳动，Shopee，美团，滴滴高频面试题
+- [resumejob/interview-questions](https://github.com/resumejob/interview-questions) - 根据超过 2000 篇真实面经整理的腾讯，阿里，字节跳动，Shopee，美团，滴滴高频面试题
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 - [cloudnativeto/community](https://github.com/cloudnativeto/community) - 云原生社区资料库
 - [MysteryVaibhav/leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) - This is a repository containing the list of company wise questions available on leetcode premium
@@ -874,7 +878,7 @@
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [omnilib/aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - Take a modern Python codebase to the next level of performance.
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python
-- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.（200+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
+- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.（260+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
 - [adamchainz/django-cors-headers](https://github.com/adamchainz/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
 - [danielgtaylor/python-betterproto](https://github.com/danielgtaylor/python-betterproto) - Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
@@ -1212,6 +1216,7 @@
 
 ## Shell 
 
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed block storage built on and for Kubernetes
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [aws/eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
@@ -1372,6 +1377,7 @@
 
 ## TypeScript 
 
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
