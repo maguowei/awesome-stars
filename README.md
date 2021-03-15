@@ -10,6 +10,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [Clojure](#clojure)
   - [CodeQL](#codeql)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
@@ -50,6 +51,7 @@
 
 ## C 
 
+- [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
 - [mopemope/meinheld](https://github.com/mopemope/meinheld) - Meinheld is a high performance asynchronous WSGI Web Server (based on picoev)
@@ -78,6 +80,7 @@
 
 ## C++ 
 
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -124,6 +127,10 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+
+## Clojure 
+
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens
 
 ## CodeQL 
 
@@ -546,6 +553,7 @@
 
 ## Java 
 
+- [apache/druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes
 - [google/rejoiner](https://github.com/google/rejoiner) - Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources
 - [apache/ozone](https://github.com/apache/ozone) - Scalable, redundant, and distributed object store for Apache Hadoop
@@ -712,6 +720,7 @@
 
 ## Others 
 
+- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
@@ -820,6 +829,7 @@
 
 ## Python 
 
+- [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [phalt/django-api-domains](https://github.com/phalt/django-api-domains) - A pragmatic styleguide for Django API Projects
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - Better dates & times for Python
@@ -1420,7 +1430,7 @@
 
 ## Vue 
 
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 150k+ developers. https://hoppscotch.io
 
 
 ## License
