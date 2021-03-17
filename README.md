@@ -725,6 +725,7 @@
 
 ## Others 
 
+- [maguowei/asyncio_different](https://github.com/maguowei/asyncio_different) - go与python的协程对比,以及python中协程的改进历史,和示例代码
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
@@ -834,6 +835,7 @@
 
 ## Python 
 
+- [aleimu/asyncio_different](https://github.com/aleimu/asyncio_different) - go与python的协程对比,以及python中协程的改进历史,和示例代码
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [phalt/django-api-domains](https://github.com/phalt/django-api-domains) - A pragmatic styleguide for Django API Projects
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
