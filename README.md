@@ -14,6 +14,7 @@
   - [CodeQL](#codeql)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
+  - [Elixir](#elixir)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -160,6 +161,10 @@
 ## Dockerfile 
 
 - [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
+
+## Elixir 
+
+- [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 
 ## Go 
 
@@ -591,6 +596,7 @@
 
 ## JavaScript 
 
+- [cer/event-sourcing-examples](https://github.com/cer/event-sourcing-examples) - Example code for my building and deploying microservices with event sourcing, CQRS and Docker presentation
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
