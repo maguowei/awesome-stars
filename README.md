@@ -906,7 +906,7 @@
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [omnilib/aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - Take a modern Python codebase to the next level of performance.
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python
-- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.（270+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
+- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.（300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
 - [danielgtaylor/python-betterproto](https://github.com/danielgtaylor/python-betterproto) - Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [mpdavis/python-jose](https://github.com/mpdavis/python-jose) - A JOSE implementation in Python
@@ -1070,7 +1070,7 @@
 - [devpi/devpi](https://github.com/devpi/devpi) - Python PyPi staging server and packaging, testing, release tool
 - [aio-libs/aioredis-py](https://github.com/aio-libs/aioredis-py) - asyncio (PEP 3156) Redis support
 - [redzej/graphene-permissions](https://github.com/redzej/graphene-permissions) - Customizable permissions for graphene-django.
-- [iodide-project/pyodide](https://github.com/iodide-project/pyodide) - Python with the scientific stack, compiled to WebAssembly.
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Python with the scientific stack, compiled to WebAssembly.
 - [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
 - [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 - [aaugustin/websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python
@@ -1344,7 +1344,7 @@
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [jakeheis/Shout](https://github.com/jakeheis/Shout) - SSH made easy in Swift
 - [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
-- [muukii/Brightroom](https://github.com/muukii/Brightroom) - 📷 [v2 development started 🧵] An image editor and engine using CoreImage
+- [muukii/Brightroom](https://github.com/muukii/Brightroom) - 📷 [v2-alpha.1 now open] An image editor and engine using CoreImage
 - [ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
 - [luoxiu/Schedule](https://github.com/luoxiu/Schedule) - Schedule timing task in Swift using a fluent API. (A friendly alternative to Timer)
 - [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker) - 📸 Instagram-like image picker & filters for iOS
