@@ -569,6 +569,7 @@
 
 ## Java 
 
+- [pravega/pravega](https://github.com/pravega/pravega) - Pravega - Streaming as a new software defined storage primitive
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [didi/Logi-KafkaManager](https://github.com/didi/Logi-KafkaManager) - 一站式Apache Kafka集群指标监控与运维管控平台
 - [apache/druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
