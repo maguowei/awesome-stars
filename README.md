@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Assembly](#assembly)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
@@ -48,6 +49,10 @@
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [Vue](#vue)
+
+## Assembly 
+
+- [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 
 ## Batchfile 
 
@@ -97,8 +102,6 @@
 - [ggerganov/wave-share](https://github.com/ggerganov/wave-share) - Serverless, peer-to-peer, local file sharing through sound
 - [apache/incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
-- [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
@@ -222,7 +225,7 @@
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [grafana/agent](https://github.com/grafana/agent) - Prometheus Metrics, Loki Logs, and Tempo Traces, optimized for Grafana Cloud.
-- [rancher/harvester](https://github.com/rancher/harvester) - Open source hyperconverged infrastructure (HCI) software
+- [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 最小巧、最准确、最全面、最实用的中国大陆 GeoIP2 数据库及 IP 地址段
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
@@ -230,7 +233,7 @@
 - [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of the Ethereum 2.0 blockchain
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
 - [appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
-- [oam-dev/kubevela](https://github.com/oam-dev/kubevela) - A Modern Application Deployment Platform Based on Kubernetes and OAM.
+- [oam-dev/kubevela](https://github.com/oam-dev/kubevela) - A Modern Application Deployment System Based on Kubernetes and OAM.
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [conprof/conprof](https://github.com/conprof/conprof) - Continuous profiling for performance analysis of CPU, memory over time.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -248,7 +251,7 @@
 - [pingcap/go-ycsb](https://github.com/pingcap/go-ycsb) - A Go port of Yahoo! Cloud Serving Benchmark (YCSB)
 - [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装kubernetes，超全版本，支持国产化，生产环境中稳如老狗，99年证书，0依赖，去haproxy keepalived，v1.20支持containerd！
+- [fanux/sealos](https://github.com/fanux/sealos) - sealos即将贡献给阿里，更名为sealer，继续保持开源，详情见readme，一条命令离线安装kubernetes，超全版本，支持国产化，生产环境中稳如老狗，99年证书，0依赖，去haproxy keepalived，v1.20支持containerd！
 - [rongcloud/server-sdk-go](https://github.com/rongcloud/server-sdk-go) - RongCloud Server SDK in Go.
 - [bwmarrin/snowflake](https://github.com/bwmarrin/snowflake) - A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
@@ -283,6 +286,7 @@
 - [go-ego/gse](https://github.com/go-ego/gse) - Go efficient text segmentation and NLP; support english, chinese, japanese and other. Go 语言高性能分词
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 - [hantmac/Mastering_Go_Second_Edition_Zh_CN](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN) - Mastering Go 第二版中文版来袭！
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms Implemented in GoLang
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
@@ -1352,7 +1356,7 @@
 - [niw/KeyboardGuide](https://github.com/niw/KeyboardGuide) - A modern, real iOS keyboard system notifications handler framework that Just Works.
 - [swift-server/async-http-client](https://github.com/swift-server/async-http-client) - HTTP client library built on SwiftNIO
 - [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
-- [SwiftDocOrg/swift-doc](https://github.com/SwiftDocOrg/swift-doc) - Generates documentation for Swift projects
+- [SwiftDocOrg/swift-doc](https://github.com/SwiftDocOrg/swift-doc) - A documentation generator for Swift projects
 - [AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine) - Used: SwiftUI and Combine
 - [apple/swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
 - [twostraws/ControlRoom](https://github.com/twostraws/ControlRoom) - A macOS app to control the Xcode Simulator.
