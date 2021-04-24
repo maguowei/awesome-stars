@@ -349,7 +349,7 @@
 - [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [alberliu/gim](https://github.com/alberliu/gim) - golang写的IM服务器(服务组件形式)
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Cost-effective serverless computing at scale
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Serverless computing at scale
 - [rancher/k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab's k3s in Docker
 - [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
@@ -583,7 +583,6 @@
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [didi/Logi-KafkaManager](https://github.com/didi/Logi-KafkaManager) - 一站式Apache Kafka集群指标监控与运维管控平台
 - [apache/druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
-- [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes
 - [google/rejoiner](https://github.com/google/rejoiner) - Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources
 - [apache/ozone](https://github.com/apache/ozone) - Scalable, redundant, and distributed object store for Apache Hadoop
 - [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
@@ -1288,6 +1287,7 @@
 
 ## Svelte 
 
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server and MongoDB. Runs under Windows, Linux, Mac or as web application
 - [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
 
 ## Swift 
