@@ -177,6 +177,8 @@
 
 ## Go 
 
+- [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用 等等。
+- [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [go-chassis/go-chassis](https://github.com/go-chassis/go-chassis) - a microservice framework for rapid development of micro services in Go with rich eco-system
 - [spaceuptech/space-cloud](https://github.com/spaceuptech/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
@@ -886,7 +888,7 @@
 - [PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [bbolli/tumblr-utils](https://github.com/bbolli/tumblr-utils) - Utilities for dealing with Tumblr blogs, Tumblr backup
 - [pypa/sampleproject](https://github.com/pypa/sampleproject) - A sample project that exists for PyPUG's "Tutorial on Packaging and Distributing Projects"
-- [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python
+- [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
 - [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) - PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）
