@@ -83,7 +83,6 @@
 ## C# # 
 
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 
@@ -171,6 +170,7 @@
 
 ## Elixir 
 
+- [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 
 ## Go 
@@ -244,7 +244,6 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [bitnami-labs/kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers
@@ -575,6 +574,7 @@
 
 ## Java 
 
+- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
 - [pravega/pravega](https://github.com/pravega/pravega) - Pravega - Streaming as a new software defined storage primitive
@@ -582,7 +582,6 @@
 - [didi/Logi-KafkaManager](https://github.com/didi/Logi-KafkaManager) - 一站式Apache Kafka集群指标监控与运维管控平台
 - [apache/druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
 - [google/rejoiner](https://github.com/google/rejoiner) - Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources
-- [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
 - [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 - [didi/DoraemonKit](https://github.com/didi/DoraemonKit) - 一款面向泛前端产品研发全生命周期的效率平台。
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
@@ -1198,6 +1197,7 @@
 
 ## Rust 
 
+- [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
@@ -1412,18 +1412,14 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [opstrace/opstrace](https://github.com/opstrace/opstrace) - The Open Source Observability Distribution
-- [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [artifacthub/hub](https://github.com/artifacthub/hub) - Find, install and publish Kubernetes packages
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
-- [alibaba/hooks](https://github.com/alibaba/hooks) - React Hooks Library
-- [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 - [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
-- [mcuking/mobile-web-best-practice](https://github.com/mcuking/mobile-web-best-practice) - :tiger: 移动 web 最佳实践
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [primer/components](https://github.com/primer/components) - Primer React components
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
