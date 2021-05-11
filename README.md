@@ -87,6 +87,7 @@
 
 ## C++ 
 
+- [pixie-labs/pixie](https://github.com/pixie-labs/pixie) - Instant Kubernetes-Native Application Observability
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [apache/incubator-brpc](https://github.com/apache/incubator-brpc) - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. "brpc" means "better RPC".
 - [google/lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
@@ -748,6 +749,7 @@
 
 ## Others 
 
+- [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - 给微信公众号生成 RSS 订阅源
 - [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - LeetCode 刷题攻略：200道题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
@@ -858,6 +860,7 @@
 
 ## Python 
 
+- [howie6879/2c](https://github.com/howie6879/2c) - 构建一个多源（公众号、RSS）、干净、个性化的阅读环境
 - [couler-proj/couler](https://github.com/couler-proj/couler) - Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
 - [GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - The next best thing after Bloomberg Terminal
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
@@ -1197,6 +1200,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - The best open source remote desktop client software
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
