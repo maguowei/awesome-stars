@@ -870,6 +870,7 @@
 
 ## Python 
 
+- [synesthesiam/voice2json](https://github.com/synesthesiam/voice2json) - Command-line tools for speech and intent recognition on Linux
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [howie6879/2c](https://github.com/howie6879/2c) - 构建一个多源（公众号、RSS）、干净、个性化的阅读环境
