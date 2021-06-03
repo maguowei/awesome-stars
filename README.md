@@ -255,7 +255,7 @@
 - [pingcap/go-ycsb](https://github.com/pingcap/go-ycsb) - A Go port of Yahoo! Cloud Serving Benchmark (YCSB)
 - [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，快：3min， 轻：700M ，稳：生产级可用，99年证书0依赖
+- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗
 - [rongcloud/server-sdk-go](https://github.com/rongcloud/server-sdk-go) - RongCloud Server SDK in Go.
 - [bwmarrin/snowflake](https://github.com/bwmarrin/snowflake) - A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
@@ -1491,7 +1491,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 
 
