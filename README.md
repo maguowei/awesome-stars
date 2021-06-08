@@ -75,7 +75,6 @@
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
 - [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
@@ -714,7 +713,6 @@
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + LeetCode + Kaggle
@@ -991,6 +989,7 @@
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 - [h5py/h5py](https://github.com/h5py/h5py) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [alecthomas/injector](https://github.com/alecthomas/injector) - Python dependency injection framework, inspired by Guice
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
@@ -1400,6 +1399,7 @@
 - [Jounce/Surge](https://github.com/Jounce/Surge) - A Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation.
 - [AFathi/ARVideoKit](https://github.com/AFathi/ARVideoKit) - Capture & record ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+- [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 - [marcosgriselli/ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator brings your UI to life with just one line
 - [olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources. Feel free to contribute!
