@@ -84,6 +84,7 @@
 
 ## C++ 
 
+- [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
 - [pixie-labs/pixie](https://github.com/pixie-labs/pixie) - Instant Kubernetes-Native Application Observability
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
