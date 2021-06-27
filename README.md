@@ -64,7 +64,7 @@
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [RedisBloom/RedisBloom](https://github.com/RedisBloom/RedisBloom) - Probabilistic Datatypes Module for Redis
-- [augmentable-dev/askgit](https://github.com/augmentable-dev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+- [askgitdev/askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -108,7 +108,6 @@
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
-- [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [xuperchain/xuperchain](https://github.com/xuperchain/xuperchain) - A highly flexible blockchain architecture with great transaction performance.
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
@@ -165,6 +164,7 @@
 
 ## Dockerfile 
 
+- [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - docs about ReDroid projects
 - [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 
 ## Elixir 
@@ -243,7 +243,6 @@
 - [oam-dev/kubevela](https://github.com/oam-dev/kubevela) - A Modern Application Deployment System Based on Kubernetes and OAM.
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [conprof/conprof](https://github.com/conprof/conprof) - Continuous profiling for performance analysis of CPU, memory over time.
-- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
@@ -773,7 +772,7 @@
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
-- [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - 给微信公众号生成 RSS 订阅源
+- [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - [已停止服务] 给微信公众号生成 RSS 订阅源
 - [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
