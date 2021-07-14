@@ -773,6 +773,7 @@
 
 ## Others 
 
+- [0voice/campus_recruitmen_questions](https://github.com/0voice/campus_recruitmen_questions) - 2021年最新整理，5000道秋招/提前批/春招/常用面试题（含答案），包括leetcode，校招笔试题，面试题，算法题，语法题。
 - [resumejob/algorithm101](https://github.com/resumejob/algorithm101) - Algorithm, 算法基础
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -1321,6 +1322,7 @@
 
 ## Swift 
 
+- [cmushroom/redis-pro](https://github.com/cmushroom/redis-pro) - redis-pro redis 桌面管理工具
 - [kean/Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
 - [exyte/PopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI
 - [Dimillian/MovieSwiftUI2](https://github.com/Dimillian/MovieSwiftUI2) - A complete reinvention
@@ -1407,7 +1409,7 @@
 - [jakeheis/Shout](https://github.com/jakeheis/Shout) - SSH made easy in Swift
 - [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [muukii/Brightroom](https://github.com/muukii/Brightroom) - 📷 A composable image editor using Core Image and Metal.
-- [ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
+- [ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission. Support SwiftUI.
 - [luoxiu/Schedule](https://github.com/luoxiu/Schedule) - Schedule timing task in Swift using a fluent API. (A friendly alternative to Timer)
 - [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker) - 📸 Instagram-like image picker & filters for iOS
 - [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
@@ -1522,6 +1524,7 @@
 
 ## Vue 
 
+- [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 
