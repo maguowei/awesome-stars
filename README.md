@@ -54,6 +54,7 @@
 
 ## C 
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [alibaba/PolarDB-for-PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL) - 
 - [RedisGraph/RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
@@ -172,6 +173,7 @@
 
 ## Go 
 
+- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Distributed audio/video rooms over WebRTC
 - [tkestack/tke](https://github.com/tkestack/tke) - Native Kubernetes container management platform supporting multi-tenant and multi-cluster
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
@@ -345,7 +347,6 @@
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
 - [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [distributedio/titan](https://github.com/distributedio/titan) - A Distributed Redis Protocol Compatible NoSQL Database
 - [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8, and up.
@@ -433,7 +434,7 @@
 - [gortc/stun](https://github.com/gortc/stun) - Fast RFC 5389 STUN implementation in go
 - [blang/semver](https://github.com/blang/semver) - Semantic Versioning (semver) library written in golang
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud and multi-cluster management
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud and multi-cluster management. ⎈ 🖥 ☁️
 - [sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 - [aQuaYi/LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go) - Go Solution for LeetCode algorithms problems, 100% coverage.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -773,6 +774,7 @@
 
 ## Others 
 
+- [DocsHome/nginx-docs](https://github.com/DocsHome/nginx-docs) - Nginx 中文文档. Chinese translation of Nginx documentation.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [0voice/campus_recruitmen_questions](https://github.com/0voice/campus_recruitmen_questions) - 2021年最新整理，5000道秋招/提前批/春招/常用面试题（含答案），包括leetcode，校招笔试题，面试题，算法题，语法题。
 - [resumejob/algorithm101](https://github.com/resumejob/algorithm101) - Algorithm, 算法基础
