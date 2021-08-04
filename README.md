@@ -18,7 +18,6 @@
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
-  - [Hy](#hy)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jinja](#jinja)
@@ -588,10 +587,6 @@
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
-## Hy 
-
-- [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
-
 ## Java 
 
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
@@ -783,6 +778,7 @@
 
 ## Others 
 
+- [taowen/modularization-examples](https://github.com/taowen/modularization-examples) - 代码防腐实用技术
 - [DocsHome/nginx-docs](https://github.com/DocsHome/nginx-docs) - Nginx 中文文档. Chinese translation of Nginx documentation.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [0voice/campus_recruitmen_questions](https://github.com/0voice/campus_recruitmen_questions) - 2021年最新整理，5000道秋招/提前批/春招/常用面试题（含答案），包括leetcode，校招笔试题，面试题，算法题，语法题。
@@ -1092,6 +1088,7 @@
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [tensorflow/graphics](https://github.com/tensorflow/graphics) - TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow
+- [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
