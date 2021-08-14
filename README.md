@@ -207,7 +207,7 @@
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
 - [baidu/EasyFaaS](https://github.com/baidu/EasyFaaS) - EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
-- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
+- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [chanify/chanify](https://github.com/chanify/chanify) - Chanify is a safe and simple notification tools. This repository is command line tools for Chanify.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
@@ -1266,7 +1266,7 @@
 - [ballista-compute/ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [Qovery/engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud providers in just a few seconds
+- [Qovery/engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud provider in just a few seconds
 - [willdoescode/nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
