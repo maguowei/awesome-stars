@@ -180,6 +180,8 @@
 
 ## Go 
 
+- [marmotedu/iam](https://github.com/marmotedu/iam) - 极客时间《Go 语言项目开发实战》教学项目
+- [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
 - [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
 - [klintcheng/kim](https://github.com/klintcheng/kim) - King IM Cloud 分布式IM云服务
@@ -524,7 +526,6 @@
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [tidwall/buntdb](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
-- [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
@@ -925,7 +926,7 @@
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [couler-proj/couler](https://github.com/couler-proj/couler) - Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
-- [GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - A FOSS alternative to Bloomberg Terminal.
+- [GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Investment Research for Everyone.
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
