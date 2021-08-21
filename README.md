@@ -180,6 +180,9 @@
 
 ## Go 
 
+- [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code
+- [aceld/zinx](https://github.com/aceld/zinx) - 基于Golang轻量级TCP并发服务器框架
+- [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
 - [golang-module/carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for datetime
 - [homeport/havener](https://github.com/homeport/havener) - /ˈheɪvənə/ - Think of it as a swiss army knife for Kubernetes tasks
 - [gitsrc/IceFireDB](https://github.com/gitsrc/IceFireDB) - Distributed disk storage database based on Raft and Redis protocol.
@@ -259,7 +262,7 @@
 - [nocalhost/nocalhost](https://github.com/nocalhost/nocalhost) - Nocalhost is Cloud Native Dev Environment.
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [cilium/ebpf](https://github.com/cilium/ebpf) - eBPF Library for Go
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately hosted app for browsing, organizing, and sharing your photo collection. Say goodbye to uploading your memories to the cloud! 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately hosted app for browsing, organizing, and sharing your photo collection. Say goodbye to uploading your visual memories to the cloud! 🌈
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 - [juicedata/juicesync](https://github.com/juicedata/juicesync) - A tool to move your data between any clouds or regions.
@@ -650,7 +653,7 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 100+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [headllines/github-daily](https://github.com/headllines/github-daily) - GitHub daily top 10 repos
