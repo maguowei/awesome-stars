@@ -130,7 +130,6 @@
 
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
-- [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
@@ -179,6 +178,8 @@
 
 ## Go 
 
+- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [apache/dubbo-go](https://github.com/apache/dubbo-go) - Go Implementation For Apache Dubbo
 - [go-pay/gopay](https://github.com/go-pay/gopay) - 微信（WeChat）、支付宝（AliPay）的Go版本SDK。【极简、易用的聚合支付SDK】
@@ -590,6 +591,7 @@
 
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [cloudnativeto/academy](https://github.com/cloudnativeto/academy) - 云原生学院|直播|活动 - https://cloudnative.to/academy/
+- [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [buriy/python-readability](https://github.com/buriy/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
 - [seasonZhu/SwiftUI-WeChat](https://github.com/seasonZhu/SwiftUI-WeChat) - 一个微信SwiftUI编写,在原作者的基础上面修改学习
@@ -658,7 +660,7 @@
 - [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +900 social media \ websites (Detections are updated regularly)
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
@@ -1325,7 +1327,7 @@
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
-- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed block storage built on and for Kubernetes
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [aws/eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
