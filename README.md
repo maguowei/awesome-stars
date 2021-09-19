@@ -100,7 +100,7 @@
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Tencent/Tendis](https://github.com/Tencent/Tendis) - Tendis is a high-performance distributed storage system fully compatible with the Redis protocol.
-- [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine
+- [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine. HTTP Server/Client.
 - [ggerganov/wave-share](https://github.com/ggerganov/wave-share) - Serverless, peer-to-peer, local file sharing through sound
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
@@ -180,6 +180,7 @@
 
 ## Go 
 
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [submariner-io/submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
 - [aws/eks-anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure 🚀
 - [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
@@ -816,7 +817,7 @@
 ## Others 
 
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
-- [shenzhengfang/kkndme_tianya](https://github.com/shenzhengfang/kkndme_tianya) - 天涯 kkndme 神贴聊房价
+- [laoshenkaopu/kkndme_tianya](https://github.com/laoshenkaopu/kkndme_tianya) - 天涯 kkndme 神贴聊房价
 - [taowen/modularization-examples](https://github.com/taowen/modularization-examples) - 代码防腐实用技术
 - [DocsHome/nginx-docs](https://github.com/DocsHome/nginx-docs) - Nginx 中文文档. Chinese translation of Nginx documentation.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
@@ -1290,7 +1291,7 @@
 
 ## Rust 
 
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Cloud Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
