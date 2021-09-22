@@ -180,6 +180,7 @@
 
 ## Go 
 
+- [penglongli/gin-metrics](https://github.com/penglongli/gin-metrics) - gin-gonic/gin  metrics for prometheus.
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted video-hosting website and video archival manager for Niconico, Bilibili, and Youtube
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - Open-IM-Server is open source instant messaging Server.Backend in Go.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -343,7 +344,7 @@
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [PrasadG193/kyaml2go](https://github.com/PrasadG193/kyaml2go) - K8s Go client code generator from Kubernetes resource yamls
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
-- [go-ego/gse](https://github.com/go-ego/gse) - Go efficient multilingual NLP and text segmentation; support english, chinese, japanese and other. Go 语言高性能 NLP 和分词
+- [go-ego/gse](https://github.com/go-ego/gse) - Go efficient multilingual NLP and text segmentation; support english, chinese, japanese and other. Go 高性能多语言 NLP 和分词
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 - [hantmac/Mastering_Go_Second_Edition_Zh_CN](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN) - Mastering Go 第二版中文版来袭！
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for embedding similarity search and AI applications.
@@ -662,6 +663,7 @@
 ## JavaScript 
 
 - [guowenfh/geek-time-topdf](https://github.com/guowenfh/geek-time-topdf) - node.js cli 工具。将你已经购买的极客时间的课程，打印为 pdf 。print your geek time course  to pdf. If you have already bought it
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [casbin/casdoor](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based on OAuth 2.0 / OIDC
@@ -687,6 +689,7 @@
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [doocs/md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
@@ -943,12 +946,13 @@
 
 ## Python 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 300+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Desktop Widgets (Rainmeter-like), Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. Create complex windows simply.
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
-- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, no external server required
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private and public repos
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [pingcap/django-tidb](https://github.com/pingcap/django-tidb) - 
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
@@ -977,7 +981,7 @@
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
 - [ivankorobkov/python-inject](https://github.com/ivankorobkov/python-inject) - Python dependency injection
 - [wilhelmshen/c10k](https://github.com/wilhelmshen/c10k) - A coroutine-based alternative implementation of the posix thread
-- [jindaxiang/akshare](https://github.com/jindaxiang/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
+- [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [popey/sosumi-snap](https://github.com/popey/sosumi-snap) - 
 - [onelivesleft/PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
@@ -1493,7 +1497,7 @@
 - [mxcl/PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for Swift & ObjC.
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [daltoniam/Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX
-- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift web framework.
+- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 - [ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - 📖 Design Patterns implemented in Swift 5.0
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
@@ -1530,7 +1534,6 @@
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [primer/react](https://github.com/primer/react) - A React implementation of GitHub's Primer Design System
