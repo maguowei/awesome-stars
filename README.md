@@ -606,7 +606,6 @@
 ## HTML 
 
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
-- [cloudnativeto/academy](https://github.com/cloudnativeto/academy) - 云原生学院|直播|活动 - https://cloudnative.to/academy/
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [buriy/python-readability](https://github.com/buriy/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
@@ -666,6 +665,8 @@
 
 ## JavaScript 
 
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [guowenfh/geek-time-topdf](https://github.com/guowenfh/geek-time-topdf) - node.js cli 工具。将你已经购买的极客时间的课程，打印为 pdf 。print your geek time course  to pdf. If you have already bought it
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
@@ -949,6 +950,8 @@
 
 ## Python 
 
+- [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 300+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Desktop Widgets (Rainmeter-like), Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. Create complex windows simply.
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
@@ -1354,6 +1357,7 @@
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [aws/eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
+- [cloudnativeto/academy](https://github.com/cloudnativeto/academy) - 云原生学院|直播|活动 - https://cloudnative.to/academy/
 - [cloudnativeto/community](https://github.com/cloudnativeto/community) - 云原生社区资料库 - https://cloudnative.to/community/
 - [fastai/fastmac](https://github.com/fastai/fastmac) - Get a MacOS or Linux shell, for free, in around 2 minutes
 - [csexton/debugger-action](https://github.com/csexton/debugger-action) - Interactive debug session for GitHub Actions
