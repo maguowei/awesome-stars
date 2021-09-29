@@ -184,7 +184,7 @@
 - [shipwright-io/build](https://github.com/shipwright-io/build) - Shipwright - a framework for building container images on Kubernetes
 - [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform
 - [penglongli/gin-metrics](https://github.com/penglongli/gin-metrics) - gin-gonic/gin  metrics for prometheus.
-- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted video-hosting website and video archival manager for Niconico, Bilibili, and Youtube
+- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted video-hosting website and automated yt-dlp / youtube-dl video archival manager for Niconico, Bilibili, and Youtube
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - Open-IM-Server is open source instant messaging Server.Backend in Go.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [submariner-io/submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
@@ -301,7 +301,7 @@
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - Docker-compatible CLI for containerd, with support for Compose
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
 - [appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
-- [oam-dev/kubevela](https://github.com/oam-dev/kubevela) - The Modern Application Deployment System Based on OAM.
+- [oam-dev/kubevela](https://github.com/oam-dev/kubevela) - The Modern Application Delivery Platform.
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [conprof/conprof](https://github.com/conprof/conprof) - Continuous profiling for performance analysis of CPU, memory over time.
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
