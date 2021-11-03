@@ -1312,7 +1312,7 @@
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
