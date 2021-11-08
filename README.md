@@ -178,6 +178,8 @@
 
 ## Go 
 
+- [davidschlachter/embedded-struct-visualizer](https://github.com/davidschlachter/embedded-struct-visualizer) - Tool to visualize the graph of embedded structs in Go projects
+- [montanaflynn/stats](https://github.com/montanaflynn/stats) - A well tested and comprehensive Golang statistics library package with no dependencies.
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
 - [go-gorm/gen](https://github.com/go-gorm/gen) - A safer ORM base on GORM
@@ -979,7 +981,7 @@
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 300+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Desktop Widgets (Rainmeter-like), Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. Create complex windows simply.
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 325+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Desktop Widgets (Rainmeter-like), Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. Create complex windows simply.
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private and public repos
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
@@ -1217,7 +1219,7 @@
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [laixintao/python-parallel-programming-cookbook-cn](https://github.com/laixintao/python-parallel-programming-cookbook-cn) - 📖《Python Parallel Programming Cookbook》中文版
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡⚡⚡Fast, Lightweight, Pluggable, TLS interception, DNS-over-HTTPS capable, Reverse & Forward Proxy Server focused on Network auditing, monitoring & Application development, testing, debugging
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • "Proxy Server" focused on Network auditing, monitoring & Application development, testing, debugging. In-built • 🌐 "Web Server" framework • Multi-process ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
 - [un33k/python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
 - [devpi/devpi](https://github.com/devpi/devpi) - Python PyPi staging server and packaging, testing, release tool
 - [aio-libs/aioredis-py](https://github.com/aio-libs/aioredis-py) - asyncio (PEP 3156) Redis support
