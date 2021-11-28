@@ -1561,7 +1561,6 @@
 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js) - The meta-framework suite designed from scratch for frontend-focused modern web development.
-- [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [azu/github-project-todo-md](https://github.com/azu/github-project-todo-md) - A Tool that sync between GitHub Project Board &lt;-&gt; Todo Markdown text.
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
