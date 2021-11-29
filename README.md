@@ -353,7 +353,7 @@
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner, Amazon ECS, and AWS Fargate.
 - [stashed/stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications
 - [argoproj-labs/argo-workflows-catalog](https://github.com/argoproj-labs/argo-workflows-catalog) - Argo Workflows Catalog
-- [askgitdev/askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+- [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [GoBelieveIO/im_service](https://github.com/GoBelieveIO/im_service) - golang   im   server
 - [kubermatic/kubermatic](https://github.com/kubermatic/kubermatic) - Kubermatic Kubernetes Platform - the Central Kubernetes Management Platform For Any Infrastructure
 - [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
@@ -719,6 +719,7 @@
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [doocs/md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
@@ -1640,7 +1641,6 @@
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
-- [doocs/md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 
 
 ## License
