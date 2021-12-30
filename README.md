@@ -105,7 +105,6 @@
 - [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT and GB28181.
-- [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
@@ -350,7 +349,7 @@
 - [pingcap/go-ycsb](https://github.com/pingcap/go-ycsb) - A Go port of Yahoo! Cloud Serving Benchmark (YCSB)
 - [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，500M，100年证书，版本不要太全，生产环境稳如老狗
+- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳
 - [rongcloud/server-sdk-go](https://github.com/rongcloud/server-sdk-go) - RongCloud Server SDK in Go.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
@@ -718,6 +717,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -732,7 +732,7 @@
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [doocs/md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
@@ -1132,6 +1132,7 @@
 - [ubuntu/microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
 - [pawamoy/aria2p](https://github.com/pawamoy/aria2p) - Command-line tool and library to interact with an aria2c daemon process with JSON-RPC.
+- [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [jupyter/nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 - [h5py/h5py](https://github.com/h5py/h5py) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
@@ -1437,7 +1438,7 @@
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## Starlark 
 
@@ -1576,6 +1577,7 @@
 
 ## TypeScript 
 
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js) - The meta-framework suite designed from scratch for frontend-focused modern web development.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -1595,7 +1597,6 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
@@ -1656,6 +1657,7 @@
 
 ## Vue 
 
+- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 
