@@ -178,6 +178,7 @@
 
 ## Go 
 
+- [geektutu/high-performance-go](https://github.com/geektutu/high-performance-go) - high performance coding with golang（Go 语言高性能编程，Go 语言陷阱，Gotchas，Traps）
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [actions-runner-controller/actions-runner-controller](https://github.com/actions-runner-controller/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
@@ -185,7 +186,7 @@
 - [jinzhu/configor](https://github.com/jinzhu/configor) - Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
 - [Jeffail/benthos](https://github.com/Jeffail/benthos) - Fancy stream processing made operationally mundane
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - Source code of 100 Go Mistakes 📖
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database, built on a zero trust model
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [yolossn/Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - A beginner friendly introduction to prometheus 🔥
 - [rancher/terraform-provider-rke](https://github.com/rancher/terraform-provider-rke) - Terraform provider plugin for deploy kubernetes cluster by RKE(Rancher Kubernetes Engine)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -1004,7 +1005,7 @@
 - [Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis) - Static Code Analysis
 - [Mayandev/where-is-douban250](https://github.com/Mayandev/where-is-douban250) - 🐛 一个爬虫程序，集成 GitHub Action 自动更新，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。
 - [davidaurelio/hashids-python](https://github.com/davidaurelio/hashids-python) - Implementation of hashids (http://hashids.org) in Python. Compatible with Python 2 and Python 3
-- [redis/redis-om-python](https://github.com/redis/redis-om-python) - Objecting mapping, and more, for Redis.
+- [redis/redis-om-python](https://github.com/redis/redis-om-python) - Objecting mapping, and more, for Redis and Python
 - [jek/blinker](https://github.com/jek/blinker) - A fast Python in-process signal/event dispatching system.
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
