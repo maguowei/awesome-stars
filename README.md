@@ -270,7 +270,7 @@
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [openelb/openelb](https://github.com/openelb/openelb) - Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization
 - [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
-- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, production-grade WebRTC infrastructure. SDKs in JS, React, Flutter, Swift, Kotlin, Go and Node.
+- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, high-performance WebRTC SFU. SDKs in JS, React, Flutter, Swift, Kotlin, Go and Node.
 - [tkestack/tke](https://github.com/tkestack/tke) - Native Kubernetes container management platform supporting multi-tenant and multi-cluster
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML, QQ group: 645200447
@@ -445,7 +445,7 @@
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 - [distributedio/titan](https://github.com/distributedio/titan) - A Distributed Redis Protocol Compatible NoSQL Database
 - [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8, and up.
+- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
