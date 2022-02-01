@@ -889,7 +889,7 @@
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-- [NaturalSelectionLabs/RSS3](https://github.com/NaturalSelectionLabs/RSS3) - Derived from the best out of RSS, RSS3 is an open protocol designed for all our cyber existence in the era of Web 3.0.
+- [NaturalSelectionLabs/RSS3-Protocol](https://github.com/NaturalSelectionLabs/RSS3-Protocol) - Derived from the best out of RSS, RSS3 is an open protocol designed for all our cyber existence in the era of Web 3.0.
 - [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - 
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
