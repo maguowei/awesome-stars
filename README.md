@@ -67,6 +67,7 @@
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
@@ -397,7 +398,7 @@
 - [go-ego/gse](https://github.com/go-ego/gse) - Go efficient multilingual NLP and text segmentation; support english, chinese, japanese and other. Go 高性能多语言 NLP 和分词
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 - [hantmac/Mastering_Go_Second_Edition_Zh_CN](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN) - Mastering Go 第二版中文版来袭！
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for embedding similarity search and AI applications.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for scalable similarity search and AI applications.
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
@@ -654,6 +655,7 @@
 
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [seasonZhu/SwiftUI-WeChat](https://github.com/seasonZhu/SwiftUI-WeChat) - 一个微信SwiftUI编写,在原作者的基础上面修改学习
@@ -1029,7 +1031,7 @@
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Desktop Widgets (Rainmeter-like), Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. Create complex windows simply.
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples for Machine Learning(OpenCV Integration,  Chatterbot), Rainmeter-like Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. The Minecraft of GUIs - simple to complex... does them all.
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
@@ -1077,7 +1079,6 @@
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) - PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）
 - [elastic/detection-rules](https://github.com/elastic/detection-rules) - Rules for Elastic Security's detection engine
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [ehForwarderBot/ehForwarderBot](https://github.com/ehForwarderBot/ehForwarderBot) - An extensible message tunneling chat bot framework. Delivers messages to and from multiple platforms and remotely control your accounts.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [absent1706/sqlalchemy-mixins](https://github.com/absent1706/sqlalchemy-mixins) - Active Record, Django-like queries, nested eager load and beauty __repr__ for SQLAlchemy
@@ -1205,7 +1206,6 @@
 - [dask/distributed](https://github.com/dask/distributed) - A distributed task scheduler for Dask
 - [pytorch/fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
@@ -1361,7 +1361,6 @@
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
