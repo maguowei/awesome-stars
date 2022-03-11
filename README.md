@@ -178,9 +178,10 @@
 
 ## Go 
 
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [NetEase-Media/ngo](https://github.com/NetEase-Media/ngo) - 
-- [goal-web/goal](https://github.com/goal-web/goal) - a graceful framework of go
+- [goal-web/goal](https://github.com/goal-web/goal) - a graceful framework of golang
 - [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 - [YaoApp/yao](https://github.com/YaoApp/yao) - Yao A low code engine to create web services and dashboard.
 - [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kueue: Kubernetes-native Job Queueing
@@ -924,7 +925,7 @@
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [resumejob/interview-questions](https://github.com/resumejob/interview-questions) - Interview Questions for Google, Amazon, Apple, etc. 根据超过 2000 篇真实面经整理的腾讯，阿里，字节跳动，Shopee，美团，滴滴高频面试题
-- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 创刊于 2015 年，坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
 - [MysteryVaibhav/leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) - This is a repository containing the list of company wise questions available on leetcode premium
 - [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
 - [Tarikul711/flutter-development-roadmap](https://github.com/Tarikul711/flutter-development-roadmap) - Flutter App Developer Roadmap - A complete roadmap to learn Flutter App Development. I tried to learn flutter using this roadmap. If you want to add something please contribute to the project. Happy Learning
@@ -1138,7 +1139,6 @@
 - [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
 - [anandpawara/Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) - The Project is real time application in opencv using first order model
 - [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [elastic/helm-charts](https://github.com/elastic/helm-charts) - You know, for Kubernetes
 - [minimaxir/aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
@@ -1418,7 +1418,7 @@
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [google/OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -1652,6 +1652,7 @@
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
