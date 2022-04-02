@@ -86,6 +86,7 @@
 
 ## C++ 
 
+- [pingcap/tiflash](https://github.com/pingcap/tiflash) - The analytical engine for TiDB
 - [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
@@ -185,6 +186,8 @@
 
 ## Go 
 
+- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
+- [google/go-licenses](https://github.com/google/go-licenses) - Reports on the licenses used by a Go package and its dependencies.
 - [bilibili/gengine](https://github.com/bilibili/gengine) - 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
