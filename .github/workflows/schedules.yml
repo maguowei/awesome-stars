@@ -23,4 +23,5 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
-      run: starred --username ${GITHUB_REPOSITORY_OWNER} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
+        USERNAME: ${{ github.repository_owner }}
+      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
