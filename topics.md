@@ -4844,7 +4844,6 @@
 
 ## automation 
 
-- [ctripcorp/flybirds](https://github.com/ctripcorp/flybirds) - 基于自然语言的，跨端跨框架 BDD UI 自动化测试方案，BDD testing, Python style, Present by Trip Flight
 - [modernizing/coca](https://github.com/modernizing/coca) - Coca is a toolbox which is design for legacy system refactoring and analysis, includes call graph, concept analysis, api tree, design patterns suggest. Coca 是一个用于系统重构、系统迁移和系统分析的工具箱。它可以分析代码中的测试坏味道、模块化分
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -7390,7 +7389,6 @@
 
 ## cybersecurity 
 
-- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 
 ## cypher 
@@ -8092,7 +8090,6 @@
 
 ## design 
 
-- [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - 设计模式超简单的解释。
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## design-architecture 
@@ -8234,8 +8231,6 @@
 
 ## devops 
 
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
@@ -13876,7 +13871,6 @@
 
 ## learning 
 
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS [and Apple Platforms].
@@ -16551,6 +16545,7 @@
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [HeapsIO/heaps](https://github.com/HeapsIO/heaps) - Heaps : Haxe Game Framework
+- [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - 设计模式超简单的解释。
 - [wgpsec/ENScan](https://github.com/wgpsec/ENScan) - 基于各大API的一款企业信息查询工具，为了更快速的获取企业的信息，省去收集的麻烦过程，web端于plat平台上线
 - [pingcap/tiflash](https://github.com/pingcap/tiflash) - The analytical engine for TiDB
 - [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
@@ -18393,7 +18388,6 @@
 
 ## pytorch 
 
-- [alibaba/EasyNLP](https://github.com/alibaba/EasyNLP) - EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [kserve/kserve](https://github.com/kserve/kserve) - Serverless Inferencing on Kubernetes
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -20732,7 +20726,6 @@
 
 ## sql-server 
 
-- [orlangure/gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
 - [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 
 ## sqlalchemy 
@@ -21421,8 +21414,6 @@
 
 ## swiftui 
 
-- [fatbobman/SwiftUIOverlayContainer](https://github.com/fatbobman/SwiftUIOverlayContainer) - SwiftUI Overlay Container is a view container component for SwiftUI. It is a customizable, efficient and convenient view manager.  With just a simple configuration, SwiftUI Overlay Container can do th
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [v2ex/launcher](https://github.com/v2ex/launcher) - 
 - [danielsaidi/SwiftUIKit](https://github.com/danielsaidi/SwiftUIKit) - SwiftUIKit contains additional functionality for SwiftUI.
 - [exyte/ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI
