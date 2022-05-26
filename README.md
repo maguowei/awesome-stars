@@ -427,7 +427,7 @@
 - [pingcap/go-ycsb](https://github.com/pingcap/go-ycsb) - A Go port of Yahoo! Cloud Serving Benchmark (YCSB)
 - [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [labring/sealos](https://github.com/labring/sealos) - 以kubernetes为内核的云操作系统发行版，3min 一键高可用安装自定义kubernetes，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳
+- [labring/sealos](https://github.com/labring/sealos) - 以kubernetes为内核的云操作系统发行版，像用macOS一样实践云原生！
 - [rongcloud/server-sdk-go](https://github.com/rongcloud/server-sdk-go) - RongCloud Server SDK in Go.
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
