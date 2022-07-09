@@ -219,7 +219,7 @@
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 - [clusternet/clusternet](https://github.com/clusternet/clusternet) - Managing your Kubernetes clusters (including public, private, edge, etc) as easily as visiting the Internet ⎈
 - [d4l3k/go-pry](https://github.com/d4l3k/go-pry) - An interactive REPL for Go that allows you to drop into your code at any point.
-- [labring/sealos](https://github.com/labring/sealos) - kubernetes-kernel-based cloud os! Let's sealos run kubernetes:v1.24.2!
+- [labring/sealos](https://github.com/labring/sealos) - Let's sealos run kubernetes:v1.24.2!
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
@@ -905,7 +905,7 @@
 
 ## Others 
 
-- [open-joinbase/JoinBase](https://github.com/open-joinbase/JoinBase) - JoinBase Community
+- [open-joinbase/JoinBase](https://github.com/open-joinbase/JoinBase) - JoinBase, the first, fastest, end-to-end IoT database, freely to run on cloud or on edge as you like.
 - [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
 - [goto-archived/HumanSystemOptimization](https://github.com/goto-archived/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 - [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
@@ -1053,7 +1053,7 @@
 ## Python 
 
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
-- [Miksus/red-engine](https://github.com/Miksus/red-engine) - Modern scheduling library for Python
+- [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
