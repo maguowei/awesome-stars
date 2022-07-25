@@ -915,6 +915,7 @@
 
 ## Others 
 
+- [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
 - [goto-archived/HumanSystemOptimization](https://github.com/goto-archived/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 - [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
@@ -1061,6 +1062,7 @@
 
 ## Python 
 
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
@@ -1636,6 +1638,7 @@
 
 ## TypeScript 
 
+- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [containers/podman-desktop](https://github.com/containers/podman-desktop) - Manage Podman and other container engines from a single UI and tray
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
