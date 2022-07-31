@@ -2628,6 +2628,7 @@
 ## mysql 
 
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
+- [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [orlangure/gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
 - [brokercap/Bifrost](https://github.com/brokercap/Bifrost) - Bifrost ---- 面向生产环境的 MySQL 同步到Redis,MongoDB,ClickHouse,MySQL等服务的异构中间件
