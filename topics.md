@@ -437,7 +437,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -538,7 +538,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
 - [pawamoy/aria2p](https://github.com/pawamoy/aria2p) - Command-line tool and library to interact with an aria2c daemon process with JSON-RPC.
@@ -767,7 +767,7 @@
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
 - [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an MPP-based interactive SQL data warehousing for reporting and analysis.
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
@@ -1541,7 +1541,7 @@
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minima
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [douyu/jupiter](https://github.com/douyu/jupiter) - Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
@@ -2127,7 +2127,7 @@
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
@@ -2774,6 +2774,7 @@
 
 ## others 
 
+- [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [deepflowys/deepflow](https://github.com/deepflowys/deepflow) - DeepFlow is an automated observability platform for cloud-native developers.
 - [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) - 
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
@@ -3592,7 +3593,7 @@
 - [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
-- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
+- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
@@ -3886,6 +3887,7 @@
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
@@ -4170,7 +4172,7 @@
 - [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
 - [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
-- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
+- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
@@ -4311,7 +4313,7 @@
 
 - [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [JohnSundell/Plot](https://github.com/JohnSundell/Plot) - A DSL for writing type-safe HTML, XML and RSS in Swift.
 
 
