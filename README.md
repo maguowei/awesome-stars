@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -50,6 +51,10 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+
+## Assembly 
+
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 
 ## Batchfile 
 
@@ -228,7 +233,6 @@
 - [furiko-io/furiko](https://github.com/furiko-io/furiko) - Cloud-native, enterprise-level cron job platform for Kubernetes
 - [devstream-io/devstream](https://github.com/devstream-io/devstream) - DevStream: the open-source DevOps toolchain manager (DTM).
 - [alibaba/IOC-golang](https://github.com/alibaba/IOC-golang) - 一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。 A Golang depenedency injection framework, helps developers to build any go application.
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
@@ -307,7 +311,7 @@
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [actions-runner-controller/actions-runner-controller](https://github.com/actions-runner-controller/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
-- [uptrace/uptrace](https://github.com/uptrace/uptrace) - OpenTelemetry distributed tracing tool that monitors performance, errors, and logs
+- [uptrace/uptrace](https://github.com/uptrace/uptrace) - OpenTelemetry distributed tracing and metrics using ClickHouse and OpenTelemetry
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -1143,7 +1147,7 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multimodal applications on the cloud
-- [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) - A treasure chest for visual recognition powered by PaddlePaddle
+- [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) - A treasure chest for visual classification and recognition powered by PaddlePaddle
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, and 3.10.  You feed it your Python app, it does a lot of clever things, a
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
