@@ -93,6 +93,7 @@
 
 ## C# # 
 
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - A cross-platform UI framework for .NET
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 
 ## C++ 
@@ -206,6 +207,7 @@
 
 ## Go 
 
+- [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [dranikpg/gtrs](https://github.com/dranikpg/gtrs) - Turn Redis streams into typed Go channels in just a few lines
 - [SmartIDE/SmartIDE](https://github.com/SmartIDE/SmartIDE) - CloudNative IDE - Empower develoeprs with CloudNative technologies, may the force with you!
