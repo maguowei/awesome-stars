@@ -780,6 +780,7 @@
 
 ## JavaScript 
 
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
@@ -935,6 +936,7 @@
 
 ## Others 
 
+- [sorrycc/chinese-f2e-developer](https://github.com/sorrycc/chinese-f2e-developer) - 中国前端开发者。
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
