@@ -936,6 +936,7 @@
 
 ## Others 
 
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
@@ -1665,7 +1666,7 @@
 
 ## TypeScript 
 
-- [sorrycc/chinese-f2e-developer](https://github.com/sorrycc/chinese-f2e-developer) - 中国前端开发者。
+- [f2e-developer/chinese-f2e-developer](https://github.com/f2e-developer/chinese-f2e-developer) - 中国前端开发者。
 - [microsoft/vscode-markdown-languageservice](https://github.com/microsoft/vscode-markdown-languageservice) - The language service that powers VS Code's Markdown support, extracted so that it can be reused by other editors and tools
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
