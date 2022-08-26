@@ -208,6 +208,7 @@
 
 ## Go 
 
+- [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure provisioned with Terraform
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [dranikpg/gtrs](https://github.com/dranikpg/gtrs) - Turn Redis streams into typed Go channels in just a few lines
@@ -243,7 +244,7 @@
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 - [clusternet/clusternet](https://github.com/clusternet/clusternet) - Managing your Kubernetes clusters (including public, private, edge, etc) as easily as visiting the Internet ⎈
 - [d4l3k/go-pry](https://github.com/d4l3k/go-pry) - An interactive REPL for Go that allows you to drop into your code at any point.
-- [labring/sealos](https://github.com/labring/sealos) - sealos is a kubernetes distribution. Let's sealos run kubernetes:v1.24.0 in 3 minutes!
+- [labring/sealos](https://github.com/labring/sealos) - sealos is a kubernetes distribution. Let's sealos run kubernetes:v1.25.0 in 3 minutes!
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
