@@ -914,6 +914,7 @@
 
 ## docker 
 
+- [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [SmartIDE/SmartIDE](https://github.com/SmartIDE/SmartIDE) - CloudNative IDE - Empower develoeprs with CloudNative technologies, may the force with you!
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
@@ -1439,6 +1440,7 @@
 
 ## golang 
 
+- [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
 - [dranikpg/gtrs](https://github.com/dranikpg/gtrs) - Turn Redis streams into typed Go channels in just a few lines
 - [SmartIDE/SmartIDE](https://github.com/SmartIDE/SmartIDE) - CloudNative IDE - Empower develoeprs with CloudNative technologies, may the force with you!
@@ -2193,6 +2195,7 @@
 
 ## kubernetes 
 
+- [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [SmartIDE/SmartIDE](https://github.com/SmartIDE/SmartIDE) - CloudNative IDE - Empower develoeprs with CloudNative technologies, may the force with you!
 - [deepflowys/deepflow](https://github.com/deepflowys/deepflow) - DeepFlow is an automated observability platform for cloud-native developers.
 - [kubewharf/kubebrain](https://github.com/kubewharf/kubebrain) - A High Performance Metadata System for Kubernetes
@@ -3236,6 +3239,7 @@
 
 ## postgresql 
 
+- [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
