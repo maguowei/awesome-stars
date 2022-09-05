@@ -209,6 +209,9 @@
 
 ## Go 
 
+- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [acorn-io/acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes
 - [guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - k8s tutorials | k8s 教程
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - Source code and community space of 📖 100 Go Mistakes
@@ -295,7 +298,7 @@
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-- [brokercap/Bifrost](https://github.com/brokercap/Bifrost) - Bifrost ---- 面向生产环境的 MySQL 同步到Redis,MongoDB,ClickHouse,MySQL等服务的异构中间件
+- [brokercap/Bifrost](https://github.com/brokercap/Bifrost) - Bifrost ---- 面向生产环境的 MySQL,MariaDB 同步到Redis,MongoDB,ClickHouse,MySQL等服务的异构中间件
 - [golang-design/go-questions](https://github.com/golang-design/go-questions) - 📖 Go 程序员面试笔试宝典 | 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions
 - [glide-im/GlideIM](https://github.com/glide-im/GlideIM) - 👀👀👀本仓库已废弃, 请转到 glide-im/glide
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
@@ -753,6 +756,7 @@
 
 ## Java 
 
+- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providin
 - [turms-im/turms](https://github.com/turms-im/turms) - 🕊️ The world's most advanced open source instant messaging engine for 100K~10M concurrent users https://turms-im.github.io/docs
 - [apache/hop](https://github.com/apache/hop) - Hop Orchestration Platform
 - [ZhongFuCheng3y/austin](https://github.com/ZhongFuCheng3y/austin) - 消息推送平台:pencil: 推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。所使用的技术栈包括：SpringBoot、SpringDataJPA、MySQL、Docker、docker-compose、Kafka、Redis、Apollo、prometheus、Grafana、GrayLog、Flink、Xxl-job、Echarts等等
@@ -789,6 +793,9 @@
 
 ## JavaScript 
 
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist) - Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
@@ -887,6 +894,7 @@
 
 ## Jupyter Notebook 
 
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
 - [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) - 
 - [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -948,6 +956,8 @@
 
 ## Others 
 
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
@@ -1542,6 +1552,7 @@
 
 ## Swift 
 
+- [Lighter-swift/Lighter](https://github.com/Lighter-swift/Lighter) - Swift APIs for SQLite: Type-safe down to the schema. Very, very, fast. Dependency free.
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
 - [jordibruin/Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples) - An overview of the different types of charts you can make with Swift Charts
@@ -1678,6 +1689,7 @@
 
 ## TypeScript 
 
+- [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - The source for REST API specifications for Microsoft Azure.
 - [f2e-developer/chinese-f2e-developer](https://github.com/f2e-developer/chinese-f2e-developer) - 中国前端开发者。
 - [microsoft/vscode-markdown-languageservice](https://github.com/microsoft/vscode-markdown-languageservice) - The language service that powers VS Code's Markdown support, extracted so that it can be reused by other editors and tools
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
