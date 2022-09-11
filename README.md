@@ -146,7 +146,6 @@
 
 ## CSS 
 
-- [Soya-xy/fake-chsi](https://github.com/Soya-xy/fake-chsi) - 学信认证页面布局样式
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
@@ -1313,7 +1312,7 @@
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [googleapis/google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
 - [xiaolai/public-speaking-with-meaning](https://github.com/xiaolai/public-speaking-with-meaning) - 《我也有话要说》—— 普通人的当众讲话技能
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
