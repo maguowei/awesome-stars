@@ -213,7 +213,7 @@
 - [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [acorn-io/acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes
 - [guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - k8s tutorials | k8s 教程
-- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - Source code and community space of 📖 100 Go Mistakes
+- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - Source code and community space of 📖 100 Go Mistakes.
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [cornelk/hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access.
 - [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
