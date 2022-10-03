@@ -409,6 +409,7 @@
 
 ## aws 
 
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [spulec/moto](https://github.com/spulec/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
@@ -434,6 +435,7 @@
 
 ## azure 
 
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - The source for REST API specifications for Microsoft Azure.
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
@@ -884,6 +886,7 @@
 
 ## devops 
 
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [SmartIDE/SmartIDE](https://github.com/SmartIDE/SmartIDE) - CloudNative IDE - Empower develoeprs with CloudNative technologies, may the force with you!
@@ -1032,6 +1035,7 @@
 - [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [rootsongjc/eng-practices](https://github.com/rootsongjc/eng-practices) - 谷歌工程实践文档 - https://jimmysong.io/eng-practices
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
@@ -1484,6 +1488,7 @@
 
 ## golang 
 
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -1764,6 +1769,7 @@
 
 ## hacktoberfest 
 
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -1787,6 +1793,7 @@
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -1840,6 +1847,7 @@
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
+- [ehForwarderBot/ehForwarderBot](https://github.com/ehForwarderBot/ehForwarderBot) - An extensible message tunneling chat bot framework. Delivers messages to and from multiple platforms and remotely control your accounts.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [yikeke/zh-style-guide](https://github.com/yikeke/zh-style-guide) - An open-source style guide for writing Chinese technical documents: https://zh-style-guide.readthedocs.io
@@ -1871,6 +1879,7 @@
 - [python-gino/gino](https://github.com/python-gino/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
@@ -1912,6 +1921,7 @@
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [aio-libs/aioredis-py](https://github.com/aio-libs/aioredis-py) - asyncio (PEP 3156) Redis support
@@ -1924,6 +1934,7 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
@@ -2199,6 +2210,7 @@
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
@@ -2280,6 +2292,7 @@
 
 ## kubernetes 
 
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - k8s tutorials | k8s 教程
@@ -3169,7 +3182,6 @@
 - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 - [swift-server/async-http-client](https://github.com/swift-server/async-http-client) - HTTP client library built on SwiftNIO
-- [google/android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - 
 - [pingcap/tiup](https://github.com/pingcap/tiup) - A component manager for TiDB
 - [tylerha97/awesome-reversing](https://github.com/tylerha97/awesome-reversing) - A curated list of awesome reversing resources
 - [tidb-incubator/tidb-in-action](https://github.com/tidb-incubator/tidb-in-action) - TiDB In Action: based on 4.0
@@ -3255,7 +3267,6 @@
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
 - [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
 - [un33k/python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
@@ -3353,6 +3364,7 @@
 
 ## postgresql 
 
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
@@ -3914,6 +3926,7 @@
 
 ## security 
 
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
@@ -4034,6 +4047,7 @@
 
 ## sql 
 
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
@@ -4287,6 +4301,7 @@
 
 ## terraform 
 
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure provisioned with Terraform
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
@@ -4356,6 +4371,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
