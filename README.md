@@ -768,6 +768,7 @@
 
 ## Java 
 
+- [linkedin/venice](https://github.com/linkedin/venice) - Venice, Derived Data Platform for planet-scale workloads.
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providin
 - [turms-im/turms](https://github.com/turms-im/turms) - 🕊️ The world's most advanced open source instant messaging engine for 100K~10M concurrent users https://turms-im.github.io/docs
 - [apache/hop](https://github.com/apache/hop) - Hop Orchestration Platform
