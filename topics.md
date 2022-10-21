@@ -935,7 +935,7 @@
 
 ## discord 
 
-- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A completely native Discord client for macOS built 100% in Swift and SwiftUI!
+- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 
 ## django 
@@ -1792,6 +1792,7 @@
 
 ## hacktoberfest 
 
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [pingcap/docs-cn](https://github.com/pingcap/docs-cn) - TiDB/TiKV/PD documentation in Chinese.
 - [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Visualise Go program runtime metrics in real time in your browser
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
@@ -1982,7 +1983,6 @@
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security 
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -2612,6 +2612,7 @@
 
 ## machine-learning 
 
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
@@ -2683,7 +2684,7 @@
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
-- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A completely native Discord client for macOS built 100% in Swift and SwiftUI!
+- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform network tool designed for developers. 一个为开发者设计的跨平台网络工具.
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
@@ -3003,6 +3004,7 @@
 
 ## others 
 
+- [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [noslate-project/noslate](https://github.com/noslate-project/noslate) - 💫  Noslate is an elegant, modern and fully customizable serverless runtime.
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [ZutJoe/Koala_hacker_news](https://github.com/ZutJoe/Koala_hacker_news) - Koala hacker news 周报内容 每周二0点自动更新
@@ -3077,7 +3079,7 @@
 - [HeapsIO/heaps](https://github.com/HeapsIO/heaps) - Heaps : Haxe Game Framework
 - [wgpsec/ENScan](https://github.com/wgpsec/ENScan) - 基于各大API的一款企业信息查询工具，为了更快速的获取企业的信息，省去收集的麻烦过程，web端于plat平台上线
 - [pingcap/tiflash](https://github.com/pingcap/tiflash) - The analytical engine for TiDB and TiDB Cloud. Try free: https://tidbcloud.com/free-trial
-- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
+- [dagger/dagger](https://github.com/dagger/dagger) - A cross-platform CI/CD engine that is programmable and container-native
 - [google/go-licenses](https://github.com/google/go-licenses) - Reports on the licenses used by a Go package and its dependencies.
 - [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中文翻译版本
 - [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases
@@ -3437,6 +3439,8 @@
 
 ## postgresql 
 
+- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2022
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
@@ -3506,6 +3510,8 @@
 
 ## python 
 
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust | Python | Node.js
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
@@ -4127,6 +4133,7 @@
 
 ## sql 
 
+- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2022
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
@@ -4200,7 +4207,7 @@
 - [apple/sample-food-truck](https://github.com/apple/sample-food-truck) - SwiftUI sample code from WWDC22
 - [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
-- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A completely native Discord client for macOS built 100% in Swift and SwiftUI!
+- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [VergeGroup/swift-Verge](https://github.com/VergeGroup/swift-Verge) - 🟣 Verge is a very tunable state-management engine on iOS App (UIKit / SwiftUI) and built-in ORM.
 - [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList) - The master list of repositories for the Swift Package Index.
 - [fatbobman/SwiftUIOverlayContainer](https://github.com/fatbobman/SwiftUIOverlayContainer) - SwiftUI Overlay Container is a view container component for SwiftUI. It is a customizable, efficient and convenient view manager.  With just a simple configuration, SwiftUI Overlay Container can do th
@@ -4288,7 +4295,7 @@
 - [yattee/yattee](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS (iPhone, iPad), macOS and tvOS (Apple TV) built with Invidious and Piped
 - [apple/sample-food-truck](https://github.com/apple/sample-food-truck) - SwiftUI sample code from WWDC22
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
-- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A completely native Discord client for macOS built 100% in Swift and SwiftUI!
+- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [VergeGroup/swift-Verge](https://github.com/VergeGroup/swift-Verge) - 🟣 Verge is a very tunable state-management engine on iOS App (UIKit / SwiftUI) and built-in ORM.
 - [fatbobman/SwiftUIOverlayContainer](https://github.com/fatbobman/SwiftUIOverlayContainer) - SwiftUI Overlay Container is a view container component for SwiftUI. It is a customizable, efficient and convenient view manager.  With just a simple configuration, SwiftUI Overlay Container can do th
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
