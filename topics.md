@@ -789,7 +789,6 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [facert/python-data-structure-cn](https://github.com/facert/python-data-structure-cn) - problem-solving-with-algorithms-and-data-structure-using-python 中文版
 - [kodecocodes/swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 
 ## data-visualization 
@@ -1218,6 +1217,7 @@
 
 ## framework 
 
+- [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
 - [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
@@ -1324,6 +1324,7 @@
 
 ## go 
 
+- [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage
 - [bwmarrin/snowflake](https://github.com/bwmarrin/snowflake) - A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
@@ -1547,6 +1548,7 @@
 
 ## golang 
 
+- [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [bwmarrin/snowflake](https://github.com/bwmarrin/snowflake) - A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
@@ -3065,6 +3067,7 @@
 
 ## others 
 
+- [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign
@@ -3136,7 +3139,7 @@
 - [JustinFincher/WWDC2022-SwiftUINodeEditor](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor) - [WWDC 22 Swift Student Challenge] Pegboard, a SwiftUI based node-editor workspace for game dev and more
 - [janestreet/magic-trace](https://github.com/janestreet/magic-trace) - magic-trace collects and displays high-resolution traces of what a process is doing
 - [PaddlePaddle/PaddleRec](https://github.com/PaddlePaddle/PaddleRec) - Recommendation Algorithm大规模推荐算法库，包含推荐系统经典及最新算法LR、Wide&Deep、DSSM、TDM、MIND、Word2Vec、Bert4Rec、DeepWalk、SSR、AITM，DSIN，SIGN，IPREC、GRU4Rec、Youtube_dnn、NCF、GNN、FM、FFM、DeepFM、DCN、DIN、DIEN、DLRM、MMOE、PLE、ESMM、E
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL20
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation a
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
@@ -3679,7 +3682,6 @@
 - [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
-- [facert/python-data-structure-cn](https://github.com/facert/python-data-structure-cn) - problem-solving-with-algorithms-and-data-structure-using-python 中文版
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
 - [julvo/reloading](https://github.com/julvo/reloading) - Change Python code while it's running without losing state
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
