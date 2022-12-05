@@ -17,7 +17,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install starred
-    - name: get epository name
+    - name: get repository name
       run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
     - name: update repo category by language
       env:
