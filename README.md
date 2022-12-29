@@ -102,7 +102,7 @@
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
-- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [pingcap/tiflash](https://github.com/pingcap/tiflash) - The analytical engine for TiDB and TiDB Cloud. Try free: https://tidbcloud.com/free-trial
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
@@ -175,6 +175,7 @@
 
 ## Go 
 
+- [carina-io/carina](https://github.com/carina-io/carina) - Carina: an high performance and ops-free local storage for kubernetes
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
