@@ -1211,6 +1211,7 @@
 
 ## Rust 
 
+- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [google/forma](https://github.com/google/forma) - An efficient vector-graphics renderer
