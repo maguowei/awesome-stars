@@ -1175,7 +1175,7 @@
 - [d4l3k/go-pry](https://github.com/d4l3k/go-pry) - An interactive REPL for Go that allows you to drop into your code at any point.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [silenceper/wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go （微信SDK：简单、易用）
-- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications on Kubernetes
+- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [bufbuild/connect-go](https://github.com/bufbuild/connect-go) - Simple, reliable, interoperable. A better gRPC.
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
@@ -1392,7 +1392,7 @@
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [silenceper/wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go （微信SDK：简单、易用）
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
-- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications on Kubernetes
+- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
@@ -2096,7 +2096,7 @@
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot
-- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications on Kubernetes
+- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with Helm charts.
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
