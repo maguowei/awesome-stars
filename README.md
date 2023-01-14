@@ -91,6 +91,7 @@
 
 ## C# # 
 
+- [cxfksword/jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark) - jellyfin电影元数据插件
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 
@@ -243,7 +244,7 @@
 - [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - Tool, language and decoders for working with binary data
 - [vicanso/go-charts](https://github.com/vicanso/go-charts) - A charts library for Golang
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [deepflowys/deepflow](https://github.com/deepflowys/deepflow) - Application Observability using eBPF
