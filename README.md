@@ -1170,7 +1170,7 @@
 - [mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin) - 汉字转拼音(pypinyin)
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
-- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
+- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
 - [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
 - [Suor/django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
 - [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
