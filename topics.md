@@ -650,7 +650,7 @@
 ## data 
 
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
-- [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker) - Memphis is an Open-Source, Real-Time Data Processing Platform
+- [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker) - Next-Generation Real-Time Data Processing Platform
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
@@ -724,7 +724,7 @@
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A powerful cloud data warehouse. Built for elasticity and efficiency. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on Low-Cost and Low-Complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.co
 - [SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
@@ -1358,7 +1358,7 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [go-faker/faker](https://github.com/go-faker/faker) - Go (Golang) Fake Data Generator for Struct, previously https://github.com/bxcodec/faker
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker) - Memphis is an Open-Source, Real-Time Data Processing Platform
+- [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker) - Next-Generation Real-Time Data Processing Platform
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Git-like capabilities for your object storage
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -2075,7 +2075,7 @@
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [carina-io/carina](https://github.com/carina-io/carina) - Carina: an high performance and ops-free local storage for kubernetes
 - [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s) - Helm Chart & Documentation for deploying JupyterHub on Kubernetes
-- [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker) - Memphis is an Open-Source, Real-Time Data Processing Platform
+- [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker) - Next-Generation Real-Time Data Processing Platform
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
@@ -2167,7 +2167,7 @@
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
-- [openkruise/kruise](https://github.com/openkruise/kruise) - Automate application management on Kubernetes (project under CNCF)
+- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (project under CNCF)
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -3367,7 +3367,7 @@
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A powerful cloud data warehouse. Built for elasticity and efficiency. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on Low-Cost and Low-Complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.co
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -3464,7 +3464,7 @@
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A powerful cloud data warehouse. Built for elasticity and efficiency. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on Low-Cost and Low-Complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.co
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [cncf/wg-serverless](https://github.com/cncf/wg-serverless) - CNCF Serverless WG
@@ -3529,7 +3529,7 @@
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A powerful cloud data warehouse. Built for elasticity and efficiency. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on Low-Cost and Low-Complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.co
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
