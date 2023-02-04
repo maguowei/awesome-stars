@@ -1212,7 +1212,7 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [orlangure/gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
@@ -1432,7 +1432,7 @@
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [orlangure/gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [sealerio/sealer](https://github.com/sealerio/sealer) - Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
