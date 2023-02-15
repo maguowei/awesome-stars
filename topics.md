@@ -209,7 +209,7 @@
 
 ## ai 
 
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Make big AI models cheaper, easier, and scalable
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -781,7 +781,7 @@
 
 ## deep-learning 
 
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Make big AI models cheaper, easier, and scalable
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
@@ -1216,7 +1216,7 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [orlangure/gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
@@ -1436,7 +1436,7 @@
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [orlangure/gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [sealerio/sealer](https://github.com/sealerio/sealer) - Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
@@ -2121,7 +2121,7 @@
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - k8s tutorials | k8s 教程
 - [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
-- [deepflowys/deepflow](https://github.com/deepflowys/deepflow) - Application Observability using eBPF
+- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
 - [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native file storage
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
@@ -2484,7 +2484,7 @@
 - [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Visualise Go program runtime metrics in real time in your browser
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [deepflowys/deepflow](https://github.com/deepflowys/deepflow) - Application Observability using eBPF
+- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
 - [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with Helm charts.
 - [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
@@ -2671,6 +2671,7 @@
 
 ## others 
 
+- [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
 - [eliaszon/Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
@@ -2689,7 +2690,6 @@
 - [alibaba/havenask](https://github.com/alibaba/havenask) - 
 - [android/architecture-templates](https://github.com/android/architecture-templates) - 
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [gocn/styleguide](https://github.com/gocn/styleguide) - 翻译 https://google.github.io/styleguide/go/index
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
