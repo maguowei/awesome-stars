@@ -30,6 +30,7 @@
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
+- [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
 - [code](#code)
@@ -53,7 +54,6 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
-- [dependency-management](#dependency-management)
 - [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
@@ -95,6 +95,7 @@
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
+- [home-assistant](#home-assistant)
 - [homebrew](#homebrew)
 - [html](#html)
 - [html5](#html5)
@@ -497,6 +498,9 @@
 
 ## chatgpt 
 
+- [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 An AI powered chrome extension improving your writing and reading.
+- [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - A demo repo based on OpenAI API (gpt-3.5-turbo)
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, DALL·E, Whisper API wrapper for Go
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -514,6 +518,10 @@
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+
+## chrome-extension 
+
+- [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 An AI powered chrome extension improving your writing and reading.
 
 ## cli 
 
@@ -822,10 +830,6 @@
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-
-## dependency-management 
-
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
 
 ## deployment 
 
@@ -1187,6 +1191,7 @@
 
 ## go 
 
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, DALL·E, Whisper API wrapper for Go
 - [horizoncd/horizon](https://github.com/horizoncd/horizon) - Production-Grade GitOps CD PlatForm For CloudNative Applications, MiddleWares, etc.
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
 - [go-olive/olive](https://github.com/go-olive/olive) - Live Stream Recorder                       直播录制/录播
@@ -1401,6 +1406,7 @@
 
 ## golang 
 
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, DALL·E, Whisper API wrapper for Go
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
 - [go-olive/olive](https://github.com/go-olive/olive) - Live Stream Recorder                       直播录制/录播
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
@@ -1856,6 +1862,10 @@
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
+
+## home-assistant 
+
+- [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
 
 ## homebrew 
 
@@ -2623,6 +2633,7 @@
 
 ## nlp 
 
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, DALL·E, Whisper API wrapper for Go
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
@@ -2635,7 +2646,7 @@
 
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies.
-- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
+- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
@@ -2730,6 +2741,8 @@
 
 ## others 
 
+- [mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt) - AI search & chat for all of Paul Graham’s essays.
+- [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - 
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
@@ -2753,6 +2766,7 @@
 - [alibaba/havenask](https://github.com/alibaba/havenask) - 
 - [android/architecture-templates](https://github.com/android/architecture-templates) - 
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [gocn/styleguide](https://github.com/gocn/styleguide) - 翻译 https://google.github.io/styleguide/go/index
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
@@ -3569,7 +3583,7 @@
 
 ## server 
 
-- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
+- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [ionorg/ion](https://github.com/ionorg/ion) - Real-Distributed  RTC System by pure Go and Flutter
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
