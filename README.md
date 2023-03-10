@@ -1487,7 +1487,7 @@
 
 ## TypeScript 
 
-- [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 An AI powered chrome extension improving your writing and reading.
+- [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A GPT powered chrome extension improving your writing and reading. ｜ 基于 GPT 的浏览器插件，用于协助编辑和阅读
 - [mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt) - AI search & chat for all of Paul Graham’s essays.
 - [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - A demo repo based on OpenAI API (gpt-3.5-turbo)
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
