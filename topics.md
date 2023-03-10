@@ -498,7 +498,7 @@
 
 ## chatgpt 
 
-- [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 An AI powered chrome extension improving your writing and reading.
+- [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A GPT powered chrome extension improving your writing and reading. ｜ 基于 GPT 的浏览器插件，用于协助编辑和阅读
 - [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - A demo repo based on OpenAI API (gpt-3.5-turbo)
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, DALL·E, Whisper API wrapper for Go
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -521,7 +521,7 @@
 
 ## chrome-extension 
 
-- [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 An AI powered chrome extension improving your writing and reading.
+- [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A GPT powered chrome extension improving your writing and reading. ｜ 基于 GPT 的浏览器插件，用于协助编辑和阅读
 
 ## cli 
 
