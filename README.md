@@ -987,6 +987,7 @@
 
 ## Python 
 
+- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based UI with Python. The nice way.
