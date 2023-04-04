@@ -84,6 +84,7 @@
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
 - [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
@@ -359,7 +360,7 @@
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - Open Source, MongoDB-compatible document database
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly & Safer GORM powered by Code Generation
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
 - [kubesphere/ks-devops](https://github.com/kubesphere/ks-devops) - This is a cloud-native application that focuses on the DevOps area.
@@ -751,7 +752,6 @@
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
@@ -1005,6 +1005,8 @@
 
 ## Python 
 
+- [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community
 - [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - 一个使用了 AI 技术的智能生词本工具，特色功能：自动添加生词、读故事助记单词。
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🤖🪄 A batteries-included library for building AI-powered software
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
@@ -1417,6 +1419,7 @@
 
 ## Swift 
 
+- [exyte/ReadabilityKit](https://github.com/exyte/ReadabilityKit) - Preview extractor for news, articles and full-texts in Swift
 - [janodevorg/OpenAIClient](https://github.com/janodevorg/OpenAIClient) - Swift OpenAI client. All features implemented.
 - [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
@@ -1551,7 +1554,7 @@
 - [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - SpeechGPT is a web application that enables you to converse with ChatGPT.
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL client for the next decade
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux.  开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - 开源的ChatGPT桌面应用，下载安装包直接运行，prompt 开发神器，Window、Mac、Linux全平台支持。 A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux.
 - [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) - Automate your browser with GPT-4
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.
