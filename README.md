@@ -1489,7 +1489,7 @@
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [VergeGroup/swift-Verge](https://github.com/VergeGroup/swift-Verge) - 🟣 A robust Swift state-management framework designed for complex applications, featuring an integrated ORM for efficient data handling.
 - [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList) - The master list of repositories for the Swift Package Index.
-- [JustinFincher/WWDC2022-SwiftUINodeEditor](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor) - [WWDC 22 Swift Student Challenge] Pegboard, a SwiftUI based node-editor workspace for game dev and more
+- [JustinFincher/WWDC2022-SwiftUINodeEditor](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor) - [WWDC 22 Swift Student Challenge Winner] Pegboard, a SwiftUI based node-editor workspace for game dev and more
 - [fatbobman/SwiftUIOverlayContainer](https://github.com/fatbobman/SwiftUIOverlayContainer) - SwiftUI Overlay Container is a view container component for SwiftUI. It is a customizable, efficient and convenient view manager.  With just a simple configuration, SwiftUI Overlay Container can do th
 - [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
 - [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册
