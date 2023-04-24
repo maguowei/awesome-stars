@@ -1041,7 +1041,7 @@
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
 - [twitter/communitynotes](https://github.com/twitter/communitynotes) - Documentation and source code powering Twitter's Community Notes
-- [ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) - Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters
+- [ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs)
 - [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) - 
 - [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
