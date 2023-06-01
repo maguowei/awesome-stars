@@ -223,7 +223,7 @@
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
-- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 智能的通用数据库工具和SQL客户端（General-purpose database tools and SQL clients with AGI (ChatGPT)）
+- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - General-purpose database tools and SQL clients with ChatGPT
 - [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
 - [replit/ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
@@ -567,7 +567,7 @@
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
-- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 智能的通用数据库工具和SQL客户端（General-purpose database tools and SQL clients with AGI (ChatGPT)）
+- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - General-purpose database tools and SQL clients with ChatGPT
 - [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
 - [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
@@ -615,7 +615,7 @@
 
 ## chatgpt-api 
 
-- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 智能的通用数据库工具和SQL客户端（General-purpose database tools and SQL clients with AGI (ChatGPT)）
+- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - General-purpose database tools and SQL clients with ChatGPT
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
@@ -1173,7 +1173,7 @@
 
 ## electron 
 
-- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 智能的通用数据库工具和SQL客户端（General-purpose database tools and SQL clients with AGI (ChatGPT)）
+- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - General-purpose database tools and SQL clients with ChatGPT
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
@@ -2220,7 +2220,7 @@
 
 ## java 
 
-- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 智能的通用数据库工具和SQL客户端（General-purpose database tools and SQL clients with AGI (ChatGPT)）
+- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - General-purpose database tools and SQL clients with ChatGPT
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
@@ -2822,7 +2822,7 @@
 
 ## mysql 
 
-- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 智能的通用数据库工具和SQL客户端（General-purpose database tools and SQL clients with AGI (ChatGPT)）
+- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - General-purpose database tools and SQL clients with ChatGPT
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to FTP / SCP / S3 / GCS and other cloud storages.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship AI powered projects to production in a fast and scalable way.
@@ -3156,7 +3156,7 @@
 - [apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) - Instrumentation library for Swift server applications
 - [KhaosT/MacVM](https://github.com/KhaosT/MacVM) - macOS VM for Apple Silicon using Virtualization API
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protobuf validation
+- [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - Checkout the new `protovalidate` project
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
@@ -3415,7 +3415,7 @@
 ## postgresql 
 
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. Download open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.
-- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 智能的通用数据库工具和SQL客户端（General-purpose database tools and SQL clients with AGI (ChatGPT)）
+- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - General-purpose database tools and SQL clients with ChatGPT
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to FTP / SCP / S3 / GCS and other cloud storages.
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies.
@@ -4064,7 +4064,7 @@
 
 ## sql 
 
-- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 智能的通用数据库工具和SQL客户端（General-purpose database tools and SQL clients with AGI (ChatGPT)）
+- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - General-purpose database tools and SQL clients with ChatGPT
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 - [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
