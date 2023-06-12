@@ -1476,7 +1476,7 @@
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM instant messaging service
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
@@ -1711,7 +1711,7 @@
 - [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly & Safer GORM powered by Code Generation
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
 - [penglongli/gin-metrics](https://github.com/penglongli/gin-metrics) - gin-gonic/gin  metrics for prometheus.
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM instant messaging service
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework focusing on RPC scenarios.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
@@ -2692,6 +2692,7 @@
 
 ## macos 
 
+- [IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
@@ -3023,6 +3024,10 @@
 
 ## others 
 
+- [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality
+- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
+- [apple/homebrew-apple](https://github.com/apple/homebrew-apple) - 
+- [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 - [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool and Xcode Extension for formatting Swift code
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [QiuChenlyOpenSource/MyMacsAppCrack](https://github.com/QiuChenlyOpenSource/MyMacsAppCrack) - MacBook 自用软件破解（macOS Intel）
@@ -3096,7 +3101,7 @@
 - [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - 免费 Prompt Engineering 教程
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
-- [ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
+- [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
 - [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) - 
 - [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
@@ -4178,6 +4183,7 @@
 
 ## swift 
 
+- [apple/swift-openapi-generator](https://github.com/apple/swift-openapi-generator) - Swift OpenAPI Generator package plugin.
 - [dylanshine/openai-kit](https://github.com/dylanshine/openai-kit) - A community Swift package used to interact with the OpenAI API
 - [tuist/tuist](https://github.com/tuist/tuist) - 🚀 Create, maintain, and interact with Xcode projects at scale
 - [CodeEditApp/CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView) - A code editor view written in Swift powered by tree-sitter.
@@ -4267,6 +4273,7 @@
 
 ## swiftui 
 
+- [IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [simibac/ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - SwiftUI Package for Configurable Confetti Animation 🎉
 - [Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11) - 💻 Windows 11 in SwiftUI.
@@ -4310,7 +4317,7 @@
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM instant messaging service
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
