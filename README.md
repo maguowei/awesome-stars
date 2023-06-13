@@ -96,6 +96,7 @@
 
 ## C++ 
 
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud-native data warehouse
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [Tencent/libpag](https://github.com/Tencent/libpag) - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
@@ -921,7 +922,6 @@
 
 ## Others 
 
-- [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [2004content/rarbg](https://github.com/2004content/rarbg) - Backup of magnets from RARBG
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
@@ -994,7 +994,6 @@
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
-- [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) - SwiftUI 2.0 Cheat Sheet
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 - [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
@@ -1040,6 +1039,8 @@
 
 ## Python 
 
+- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
+- [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
@@ -1698,7 +1699,7 @@
 - [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - 💬 SpeechGPT is a web application that enables you to converse with ChatGPT.
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for GPT/LLM that supports Windows, Mac, Linux & Web Online
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 - [motifland/markprompt](https://github.com/motifland/markprompt) - Enterprise-grade AI chatbots for your website and docs
