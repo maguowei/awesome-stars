@@ -361,6 +361,7 @@
 
 ## artificial-intelligence 
 
+- [baichuan-inc/baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [lucidrains/soundstorm-pytorch](https://github.com/lucidrains/soundstorm-pytorch) - Implementation of SoundStorm, Efficient Parallel Audio Generation from Google Deepmind, in Pytorch
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
@@ -573,6 +574,7 @@
 
 ## chatgpt 
 
+- [baichuan-inc/baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [dylanshine/openai-kit](https://github.com/dylanshine/openai-kit) - A community Swift package used to interact with the OpenAI API
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experien
@@ -2092,6 +2094,7 @@
 
 ## homebrew 
 
+- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 
 ## html 
@@ -2705,6 +2708,7 @@
 
 ## macos 
 
+- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
@@ -3085,7 +3089,7 @@
 - [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models.
 - [apple/swift-foundation](https://github.com/apple/swift-foundation) - The Foundation project
 - [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
-- [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python (without needing Microsoft Edge/Windows or an API key)
+- [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
 - [Kimentanm/aptv](https://github.com/Kimentanm/aptv) - 📺 A tool for playing m3u8 file
 - [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
 - [OpenBMB/BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
@@ -4212,6 +4216,7 @@
 
 ## swift 
 
+- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [apple/swift-openapi-generator](https://github.com/apple/swift-openapi-generator) - Swift OpenAPI Generator package plugin.
 - [dylanshine/openai-kit](https://github.com/dylanshine/openai-kit) - A community Swift package used to interact with the OpenAI API
 - [tuist/tuist](https://github.com/tuist/tuist) - 🚀 Create, maintain, and interact with Xcode projects at scale
@@ -4301,6 +4306,7 @@
 
 ## swiftui 
 
+- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [simibac/ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - SwiftUI Package for Configurable Confetti Animation 🎉
