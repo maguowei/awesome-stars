@@ -240,7 +240,7 @@
 - [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered applications that are reliable, scalable, and easy to trust
 - [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for GPT/LLM that supports Windows, Mac, Linux & Web Online
@@ -258,7 +258,6 @@
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
@@ -560,7 +559,7 @@
 - [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered applications that are reliable, scalable, and easy to trust
 - [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
 
@@ -580,6 +579,7 @@
 
 ## chatgpt 
 
+- [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Framework to easily create LLM powered bots over any dataset.
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We'll soon release the trained model.
 - [baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
@@ -1000,7 +1000,6 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc.
 - [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
@@ -1010,7 +1009,6 @@
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
-- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
@@ -1556,7 +1554,7 @@
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL
-- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka.
+- [markrcote/sarama](https://github.com/markrcote/sarama) - Sarama is a Go library for Apache Kafka.
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
@@ -3111,7 +3109,6 @@
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
 - [OpenGVLab/DragGAN](https://github.com/OpenGVLab/DragGAN) - Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）
-- [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [JiauZhang/DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold
 - [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT) - 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Youtube Full Text Search - Search all of a YouTube channel from the command line
@@ -3619,7 +3616,7 @@
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered applications that are reliable, scalable, and easy to trust
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
@@ -3712,7 +3709,6 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
-- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
@@ -3849,14 +3845,12 @@
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Fast, distributed, secure AI for Big Data
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
@@ -3886,6 +3880,7 @@
 
 ## react 
 
+- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,739+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De
 - [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -4421,7 +4416,6 @@
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Fast, distributed, secure AI for Big Data
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
