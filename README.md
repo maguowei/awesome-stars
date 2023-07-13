@@ -49,6 +49,7 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 
 ## Batchfile 
@@ -76,7 +77,6 @@
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [libgit2/pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
@@ -661,6 +661,7 @@
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [go-pg/pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
@@ -777,6 +778,7 @@
 - [TheRamU/Fay](https://github.com/TheRamU/Fay) - Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！
 - [daodao97/chatdoc](https://github.com/daodao97/chatdoc) - Chat with your doc by openai
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
 - [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -890,7 +892,6 @@
 
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 
 ## MDX 
 
@@ -1090,7 +1091,6 @@
 - [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
-- [lamini-ai/lamini](https://github.com/lamini-ai/lamini) - 
 - [Plutoisy/so-vits-svc](https://github.com/Plutoisy/so-vits-svc) - Forked from innnky so-vits-svc
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
 - [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
@@ -1161,7 +1161,6 @@
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
@@ -1172,7 +1171,7 @@
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
-- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
+- [pynecone-io/reflex](https://github.com/pynecone-io/reflex) - 🕸 Web apps in pure Python 🐍
 - [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -1521,6 +1520,7 @@
 
 - [kroese/virtual-dsm](https://github.com/kroese/virtual-dsm) - Virtual DSM in a docker container.
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
+- [lamini-ai/lamini](https://github.com/lamini-ai/lamini) - 
 - [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs.
 - [pingcap/docs-cn](https://github.com/pingcap/docs-cn) - TiDB/TiKV/PD documentation in Chinese.
 - [snaplet/postgres-wasm](https://github.com/snaplet/postgres-wasm) - A PostgresQL server running in your browser
@@ -1710,7 +1710,7 @@
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
-- [labring/laf](https://github.com/labring/laf) - 🤖 Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity. ChatGPT generates functi
+- [labring/laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
@@ -1817,6 +1817,10 @@
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+
+## Vim Script 
+
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 
 ## Vue 
 
