@@ -426,7 +426,7 @@
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
@@ -1425,7 +1425,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.c
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
