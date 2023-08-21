@@ -2670,7 +2670,7 @@
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
-- [IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
+- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
@@ -4192,7 +4192,7 @@
 ## swiftui 
 
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
-- [IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
+- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [simibac/ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - SwiftUI Package for Configurable Confetti Animation 🎉
 - [Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11) - 💻 Windows 11 in SwiftUI.
