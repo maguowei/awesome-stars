@@ -191,6 +191,8 @@
 
 ## Go 
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
+- [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
 - [radius-project/radius](https://github.com/radius-project/radius) - Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
 - [trpc-group/trpc-go](https://github.com/trpc-group/trpc-go) - A pluggable, high-performance RPC framework written in golang
 - [zhufuyi/sponge](https://github.com/zhufuyi/sponge) - sponge is a powerful golang productivity tool that integrates code generation, web and microservice framework, basic development framework.
@@ -614,7 +616,7 @@
 - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [kyma-project/kyma](https://github.com/kyma-project/kyma) - Kyma is an opinionated set of Kubernetes-based modular building blocks, including all necessary capabilities to develop and run enterprise-grade cloud-native applications.
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [google/mtail](https://github.com/google/mtail) - extract internal monitoring data from application logs for collection in a timeseries database
@@ -727,6 +729,7 @@
 
 ## HTML 
 
+- [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 - [observablehq/plot](https://github.com/observablehq/plot) - Observable Plot: a concise API for exploratory data visualization
@@ -937,10 +940,10 @@
 
 ## Others 
 
+- [alex-xu-system/bytebytego](https://github.com/alex-xu-system/bytebytego) - 
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
 - [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - 中文法律大模型
-- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -1048,7 +1051,6 @@
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
-- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s) - A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl
 - [guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff) - Official implementation of AnimateDiff.
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
@@ -1199,7 +1201,7 @@
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to datasources.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
@@ -1511,6 +1513,7 @@
 - [BEPb/BEPb](https://github.com/BEPb/BEPb) - Config files for my GitHub profile.
 - [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a docker container.
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs.
 - [snaplet/postgres-wasm](https://github.com/snaplet/postgres-wasm) - A PostgresQL server running in your browser
 - [apinske/virt](https://github.com/apinske/virt) - small Linux VM, ready to run containers, for macOS on ARM
@@ -1674,6 +1677,8 @@
 
 ## TypeScript 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
