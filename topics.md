@@ -2167,7 +2167,7 @@
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
@@ -2214,7 +2214,6 @@
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
