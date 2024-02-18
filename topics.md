@@ -4372,7 +4372,7 @@
 
 ## self-hosted 
 
-- [ollama-webui/ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style Web UI Client for Ollama 🦙
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
