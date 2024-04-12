@@ -837,7 +837,6 @@
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
@@ -885,6 +884,7 @@
 ## Jupyter Notebook 
 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforms Llama2-13B.
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
 - [facebookresearch/co-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video.
@@ -1083,13 +1083,11 @@
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [dsdanielpark/Gemini-API](https://github.com/dsdanielpark/Gemini-API) - The unofficial python package that returns response of Google Gemini through cookie values.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
-- [bigcode-project/starcoder2](https://github.com/bigcode-project/starcoder2) - Home of StarCoder2!
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - 
 - [InstantID/InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
-- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforms Llama2-13B.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
