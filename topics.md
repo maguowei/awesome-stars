@@ -454,6 +454,7 @@
 
 ## awesome 
 
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
@@ -561,6 +562,7 @@
 
 ## backend 
 
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
@@ -799,6 +801,7 @@
 
 ## computer-science 
 
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you become good at system design.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
@@ -887,7 +890,6 @@
 ## dart 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -1380,9 +1382,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
-- [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
 - [fluttercandies/wechat_flutter](https://github.com/fluttercandies/wechat_flutter) - wechat_flutter is Flutter version WeChat, an excellent Flutter instant messaging IM open source library!
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1394,7 +1394,6 @@
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
-- [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
 ## font 
@@ -2437,7 +2436,7 @@
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
 - [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine.
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
@@ -3308,7 +3307,7 @@
 
 ## operating-system 
 
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 
 ## osint 
@@ -4251,7 +4250,7 @@
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
@@ -4394,7 +4393,7 @@
 
 ## server 
 
-- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -4679,7 +4678,7 @@
 
 ## telegram 
 
-- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 悄咪咪收集的1000+个Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests
+- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 悄咪咪收集的5000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [jackhawks/rectg](https://github.com/jackhawks/rectg) - 经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在 issues 中留言或提交 pull requests。感谢您的关注！
