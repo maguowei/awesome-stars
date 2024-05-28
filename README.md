@@ -1055,7 +1055,7 @@
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
@@ -1107,7 +1107,7 @@
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
-- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz)
 - [ReaJason/xhs](https://github.com/ReaJason/xhs) - 基于小红书 Web 端进行的请求封装。https://reajason.github.io/xhs/
@@ -1325,7 +1325,7 @@
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [laixintao/python-parallel-programming-cookbook-cn](https://github.com/laixintao/python-parallel-programming-cookbook-cn) - 📖《Python Parallel Programming Cookbook》中文版
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Se
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
 - [un33k/python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
 - [devpi/devpi](https://github.com/devpi/devpi) - Python PyPi staging server and packaging, testing, release tool
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
@@ -1669,6 +1669,7 @@
 
 ## TypeScript 
 
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [bimsina/fluttertemplates.dev](https://github.com/bimsina/fluttertemplates.dev) - Production-ready Flutter Widgets and Templates
 - [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to integrate, test, and deploy sophisticated AI features to Firebase or Google Cloud.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
