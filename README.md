@@ -350,7 +350,6 @@
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
 - [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [clusternet/clusternet](https://github.com/clusternet/clusternet) - [CNCF Sandbox Project] Managing your Kubernetes clusters (including public, private, edge, etc.) as easily as visiting the Internet
 - [d4l3k/go-pry](https://github.com/d4l3k/go-pry) - An interactive REPL for Go that allows you to drop into your code at any point.
@@ -408,7 +407,7 @@
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
-- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
+- [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
@@ -854,6 +853,7 @@
 
 ## Jupyter Notebook 
 
+- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
@@ -1755,6 +1755,7 @@
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, Pi 5, any Ubuntu/Debian system, or a VPS.
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
