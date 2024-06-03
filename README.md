@@ -747,6 +747,7 @@
 
 ## Java 
 
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
@@ -857,7 +858,7 @@
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
-- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforms Llama2-13B.
+- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforming Llama2-13B.
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
 - [facebookresearch/co-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video.
@@ -936,7 +937,6 @@
 
 ## Others 
 
-- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) - :books: 极客时间电子书
 - [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you become good at system design.
 - [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的5000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖
@@ -1420,6 +1420,7 @@
 
 ## Rust 
 
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for building search, recommendations, and RAG. Trieve combines search language models with tools for tuning ranking and relevance.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
