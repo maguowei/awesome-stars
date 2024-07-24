@@ -43,7 +43,6 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -67,6 +66,7 @@
 
 ## C 
 
+- [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
@@ -352,7 +352,7 @@
 - [cosmos72/gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
-- [Altinity/clickhouse-backup](https://github.com/Altinity/clickhouse-backup) - Tool for easy ClickHouse backup and restore using object storage for backup files.
+- [Altinity/clickhouse-backup](https://github.com/Altinity/clickhouse-backup) - Tool for easy backup and restore for ClickHouse® using object storage for backup files.
 - [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud-native distributed storage
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
 - [go-mysql-org/go-mysql](https://github.com/go-mysql-org/go-mysql) - a powerful mysql toolset with Go
@@ -1069,7 +1069,7 @@
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.1, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
@@ -1200,6 +1200,7 @@
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub) - Run your code in the cloud, with technology so advanced, it feels like magic!
 - [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s) - Helm Chart & Documentation for deploying JupyterHub on Kubernetes
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [tkem/cachetools](https://github.com/tkem/cachetools) - Extensible memoizing collections and decorators
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
@@ -1408,10 +1409,6 @@
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-
-## Roff 
-
-- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 
 ## Ruby 
 
