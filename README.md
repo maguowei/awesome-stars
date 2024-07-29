@@ -348,7 +348,7 @@
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [vicanso/go-charts](https://github.com/vicanso/go-charts) - A charts library for Golang
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
-- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - :sparkles: Zero-code distributed tracing, observability via eBPF :rocket:
+- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - :sparkles: Zero-code distributed tracing and profiling, observability via eBPF :rocket:
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
 - [cosmos72/gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
