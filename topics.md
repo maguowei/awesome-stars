@@ -1198,6 +1198,7 @@
 
 ## docker 
 
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry) - A Docker registry backed by Workers and R2.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -2644,7 +2645,7 @@
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - :sparkles: Zero-code distributed tracing and profiling, observability via eBPF :rocket:
+- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - eBPF Observability - Distributed Tracing and Profiling
 - [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud-native distributed storage
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
@@ -2855,6 +2856,7 @@
 
 ## llm 
 
+- [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for search, recommendations, RAG, and analytics offered via API
@@ -2892,7 +2894,7 @@
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
-- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - :sparkles: Zero-code distributed tracing and profiling, observability via eBPF :rocket:
+- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - eBPF Observability - Distributed Tracing and Profiling
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
@@ -2979,6 +2981,7 @@
 
 ## macos 
 
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [SKaplanOfficial/PyXA](https://github.com/SKaplanOfficial/PyXA) - Python for Automation
@@ -3332,6 +3335,7 @@
 
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -3375,6 +3379,7 @@
 
 ## others 
 
+- [cloudwego/goref](https://github.com/cloudwego/goref) - Go heap object reference analysis tool
 - [facebookresearch/segment-anything-2](https://github.com/facebookresearch/segment-anything-2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
 - [googleapis/api-linter](https://github.com/googleapis/api-linter) - A linter for APIs defined in protocol buffers.
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
@@ -3885,6 +3890,8 @@
 
 ## python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
