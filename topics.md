@@ -1403,7 +1403,6 @@
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
@@ -1583,7 +1582,6 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure Go
@@ -1978,7 +1976,6 @@
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 
 ## javascript 
 
@@ -2790,7 +2787,7 @@
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source productivity tool dev kit helping you integrate spreadsheets, docs and slides into your applications.
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack productivity dev kit helping you integrate spreadsheets, docs and slides into your systems.
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
@@ -2807,7 +2804,7 @@
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-- [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+- [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
@@ -2913,7 +2910,6 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
-- [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [pvieito/PythonKit](https://github.com/pvieito/PythonKit) - Swift framework to interact with Python.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
