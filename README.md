@@ -201,7 +201,7 @@
 - [chanify/chanify](https://github.com/chanify/chanify) - Chanify is a safe and simple notification tools. This repository is command line tools for Chanify.
 - [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests
 - [mao888/golang-guide](https://github.com/mao888/golang-guide) - 「Golang学习+面试指南」一份涵盖大部分 Golang程序员所需要掌握的核心知识。准备 Golang面试，首选 GolangGuide！
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
 - [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [cloudwego/goref](https://github.com/cloudwego/goref) - Go heap object reference analysis tool
 - [googleapis/api-linter](https://github.com/googleapis/api-linter) - A linter for APIs defined in protocol buffers.
@@ -465,7 +465,7 @@
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [ksync/ksync](https://github.com/ksync/ksync) - Sync files between your local system and a kubernetes cluster.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
@@ -813,6 +813,8 @@
 
 ## Python 
 
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
+- [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Make websites accessible for AI agents
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
@@ -837,7 +839,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, Mistral, Phi, Qwen 2.5 & Gemma LLMs 2-5x faster with 80% less memory
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, Mistral, Phi, Qwen 2.5 & Gemma LLMs 2-5x faster with 70% less memory
 - [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
@@ -1153,6 +1155,7 @@
 
 ## Shell 
 
+- [beclab/Olares](https://github.com/beclab/Olares) - Olares: Your Sovereign Cloud, An Open-Source, Self-Hosted Alternative to Public Clouds
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
@@ -1190,7 +1193,7 @@
 - [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Speech Recognition for Apple Silicon
 - [huggingface/chat-macOS](https://github.com/huggingface/chat-macOS) - Making the community's best AI chat models available to everyone.
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
-- [Mijick/Camera](https://github.com/Mijick/Camera) - Camera made simple (SwiftUI)
+- [Mijick/Camera](https://github.com/Mijick/Camera) - Camera made simple. The ultimate camera library that significantly reduces implementation time and effort. Written with and for SwiftUI.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [apple/swift-http-types](https://github.com/apple/swift-http-types) - Version-independent HTTP currency types for Swift
