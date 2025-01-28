@@ -244,7 +244,7 @@
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [wgpsec/ENScan_GO](https://github.com/wgpsec/ENScan_GO) - 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。
 - [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [johnlui/DIYSearchEngine](https://github.com/johnlui/DIYSearchEngine) - 🔍 Go 开发的开源互联网搜索引擎，附教程《自己动手开发互联网搜索引擎》
@@ -1333,7 +1333,7 @@
 - [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better auth and identity infrastructure and the open-source alternative to Auth0.
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
