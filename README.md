@@ -1203,7 +1203,7 @@
 - [apple/swift-openapi-generator](https://github.com/apple/swift-openapi-generator) - Generate Swift client and server code from an OpenAPI document.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool and Xcode Extension for formatting Swift code
-- [tuist/tuist](https://github.com/tuist/tuist) - Tuist's CLI
+- [tuist/tuist](https://github.com/tuist/tuist) - Build better Swift apps faster
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [CodeEditApp/CodeEditSourceEditor](https://github.com/CodeEditApp/CodeEditSourceEditor) - A code editor view written in Swift powered by tree-sitter.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
