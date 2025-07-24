@@ -55,7 +55,7 @@
 
 ## C 
 
-- [baidu/dperf](https://github.com/baidu/dperf) - dperf is a 100Gbps network load tester.
+- [baidu/dperf](https://github.com/baidu/dperf) - dperf – High-Performance DPDK-based Network Load Testing Tool
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
@@ -818,7 +818,7 @@
 
 ## Python 
 
-- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/pdf/2507.02592
+- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
 - [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 - [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
