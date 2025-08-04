@@ -56,6 +56,7 @@
 - [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
+- [data-engineering](#data-engineering)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
@@ -64,6 +65,7 @@
 - [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
@@ -242,6 +244,7 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -250,6 +253,7 @@
 
 ## ai 
 
+- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
@@ -276,13 +280,15 @@
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Open-source Snowflake alternative. Proven at petabyte scale with enterprise performance. Built for multimodal analytics. https://databend.com
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -386,7 +392,7 @@
 
 ## artificial-intelligence 
 
-- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/pdf/2507.02592
+- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -394,6 +400,7 @@
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 
 ## atom 
@@ -411,7 +418,7 @@
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
@@ -578,6 +585,7 @@
 
 ## chatbot 
 
+- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
@@ -630,6 +638,7 @@
 ## cli 
 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -730,7 +739,7 @@
 ## computer-vision 
 
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
@@ -817,6 +826,18 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 
+## data-engineering 
+
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
+- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
+- [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+
 ## data-science 
 
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
@@ -872,7 +893,6 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
-- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s.
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
@@ -887,7 +907,7 @@
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
-- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Open-source Snowflake alternative. Proven at petabyte scale with enterprise performance. Built for multimodal analytics. https://databend.com
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -927,7 +947,7 @@
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
@@ -956,6 +976,29 @@
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
+## developer-tools 
+
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud Native Dev Environment that connects to kubernetes cluster network.
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
+- [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
+- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
+
 ## development 
 
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -971,7 +1014,7 @@
 - [openGemini/openGemini](https://github.com/openGemini/openGemini) - CNCF sandbox project, an open source distributed time-series database with high concurrency, high performance, and high scalability
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud Native Dev Environment that connects to kubernetes cluster network.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
@@ -1015,6 +1058,7 @@
 
 ## docker 
 
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [chanify/chanify](https://github.com/chanify/chanify) - Chanify is a safe and simple notification tools. This repository is command line tools for Chanify.
@@ -1047,7 +1091,7 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI native super application platform, Application-centric Intelligent Cloud Operating System. Set up development environments for any programming language or framework, deploy high-availa
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native, application-centric cloud operating system that powers intelligent super applications. Set up development environments for any programming language or framework, deploy high-av
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
@@ -1316,6 +1360,7 @@
 
 ## go 
 
+- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
@@ -1469,6 +1514,7 @@
 
 ## golang 
 
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -1528,7 +1574,7 @@
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI native super application platform, Application-centric Intelligent Cloud Operating System. Set up development environments for any programming language or framework, deploy high-availa
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native, application-centric cloud operating system that powers intelligent super applications. Set up development environments for any programming language or framework, deploy high-av
 - [silenceper/wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go （微信SDK：简单、易用）
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
@@ -1552,7 +1598,6 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go
@@ -1710,7 +1755,6 @@
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
@@ -1745,7 +1789,7 @@
 - [jpadilla/pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
 - [devicekit/DeviceKit](https://github.com/devicekit/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
@@ -1962,7 +2006,7 @@
 - [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [turms-im/turms](https://github.com/turms-im/turms) - 🕊️ The world's most advanced open source instant messaging engine for 100K~10M concurrent users https://turms-im.github.io/docs
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
@@ -2112,7 +2156,7 @@
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s) - A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl
-- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s.
+- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
@@ -2127,7 +2171,7 @@
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [clusternet/clusternet](https://github.com/clusternet/clusternet) - [CNCF Sandbox Project] Managing your Kubernetes clusters (including public, private, edge, etc.) as easily as visiting the Internet
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI native super application platform, Application-centric Intelligent Cloud Operating System. Set up development environments for any programming language or framework, deploy high-availa
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native, application-centric cloud operating system that powers intelligent super applications. Set up development environments for any programming language or framework, deploy high-av
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
@@ -2160,7 +2204,7 @@
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes
 - [stashed/stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
@@ -2292,7 +2336,7 @@
 
 ## llm 
 
-- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/pdf/2507.02592
+- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -2322,8 +2366,10 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - eBPF Observability - Distributed Tracing and Profiling
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
@@ -2339,10 +2385,9 @@
 
 ## low-code 
 
-- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
@@ -2370,7 +2415,7 @@
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star!
@@ -2480,7 +2525,7 @@
 
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s.
+- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [pyeve/eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2488,6 +2533,7 @@
 
 ## monitoring 
 
+- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -2539,7 +2585,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s.
+- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
@@ -2566,7 +2612,7 @@
 
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 
 ## nestjs 
@@ -2607,11 +2653,12 @@
 - [chatopera/Synonyms](https://github.com/chatopera/Synonyms) - :herb: 中文近义词：聊天机器人，智能问答工具包
 - [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 
 ## no-code 
 
+- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -2676,7 +2723,7 @@
 ## numpy 
 
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 
@@ -2690,6 +2737,7 @@
 
 ## open-source 
 
+- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to
 - [chanify/chanify](https://github.com/chanify/chanify) - Chanify is a safe and simple notification tools. This repository is command line tools for Chanify.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
@@ -2711,6 +2759,7 @@
 
 ## openai 
 
+- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t
 - [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -2730,6 +2779,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
@@ -2756,6 +2806,8 @@
 
 ## others 
 
+- [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
+- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -2775,7 +2827,7 @@
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
-- [baidu/dperf](https://github.com/baidu/dperf) - dperf is a 100Gbps network load tester.
+- [baidu/dperf](https://github.com/baidu/dperf) - dperf: High-Performance Network Load Testing Tool Based on DPDK
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [huggingface/chat-macOS](https://github.com/huggingface/chat-macOS) - Making the community's best AI chat models available to everyone.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -2846,9 +2898,8 @@
 - [XiaoGerGer/zimuzu-yyets-resourcelist](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist) - 人人影视资源列表，排序如下
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws) - 
 - [Tencent/libpag](https://github.com/Tencent/libpag) - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
@@ -2914,7 +2965,6 @@
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
 - [juicedata/juicesync](https://github.com/juicedata/juicesync) - A tool to move your data between any clouds or regions.
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
@@ -3056,7 +3106,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
-- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s.
+- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -3166,6 +3216,7 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
@@ -3329,7 +3380,7 @@
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -3493,7 +3544,7 @@
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Open-source Snowflake alternative. Proven at petabyte scale with enterprise performance. Built for multimodal analytics. https://databend.com
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
@@ -3551,7 +3602,7 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Go implementation of JSON Web Tokens (JWT).
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
@@ -3577,6 +3628,7 @@
 
 ## self-hosted 
 
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
@@ -3609,6 +3661,7 @@
 ## server 
 
 - [chanify/chanify](https://github.com/chanify/chanify) - Chanify is a safe and simple notification tools. This repository is command line tools for Chanify.
+- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
@@ -3627,7 +3680,7 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
-- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Open-source Snowflake alternative. Proven at petabyte scale with enterprise performance. Built for multimodal analytics. https://databend.com
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [cncf/wg-serverless](https://github.com/cncf/wg-serverless) - CNCF Serverless WG
 - [serverlessworkflow/specification](https://github.com/serverlessworkflow/specification) - Contains the official specification for the Serverless Workflow Domain Specific Language. It provides detailed guidelines and standards for defining, executing, and managing workflows in serverless en
@@ -3673,6 +3726,7 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
 - [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud data warehouse
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
@@ -3688,7 +3742,7 @@
 - [groue/GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
-- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Open-source Snowflake alternative. Proven at petabyte scale with enterprise performance. Built for multimodal analytics. https://databend.com
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -3868,7 +3922,7 @@
 ## tensorflow 
 
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 
@@ -3935,6 +3989,7 @@
 
 ## typescript 
 
+- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
@@ -4029,6 +4084,7 @@
 
 ## vue 
 
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
@@ -4124,6 +4180,14 @@
 ## zig 
 
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
+
+## zsh 
+
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License
