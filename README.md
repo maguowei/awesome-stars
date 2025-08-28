@@ -30,6 +30,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Roff](#roff)
@@ -475,7 +476,7 @@
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure Go
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A production-ready QUIC implementation in pure Go
 - [hypermodeinc/badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go.
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
@@ -708,12 +709,17 @@
 
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 
+## Perl 
+
+- [shanleiguang/vRain](https://github.com/shanleiguang/vRain) - 中文古籍刻本風格直排電子書製作工具 Chinese Ancient eBooks Generator
+
 ## PowerShell 
 
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 
 ## Python 
 
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Frontier Open-Source Text-to-Speech
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
@@ -801,7 +807,7 @@
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
