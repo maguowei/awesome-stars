@@ -721,7 +721,6 @@
 
 ## Python 
 
-- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Frontier Open-Source Text-to-Speech
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
@@ -794,7 +793,7 @@
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
 - [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints throug
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
 - [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language
 - [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of YouTube from the command line
@@ -808,7 +807,7 @@
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -905,7 +904,7 @@
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
-- [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
+- [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
 - [un33k/python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
@@ -1118,7 +1117,7 @@
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 - [groue/GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
-- [danielsaidi/RichTextKit](https://github.com/danielsaidi/RichTextKit) - A library that lets you view and edit rich text in Swift and SwiftUI.
+- [danielsaidi/RichTextKit](https://github.com/danielsaidi/RichTextKit) - View and edit rich text in Swift & SwiftUI.
 - [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [swiftlang/swift-markdown](https://github.com/swiftlang/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
