@@ -2193,6 +2193,8 @@
 
 ## others 
 
+- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
+- [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cl
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [vuejs-ai/skills](https://github.com/vuejs-ai/skills) - Agent skills for Vue 3 development
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
