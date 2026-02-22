@@ -800,6 +800,7 @@
 
 ## developer-tools 
 
+- [johannesjo/parallel-code](https://github.com/johannesjo/parallel-code) - Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud Native Dev Environment that connects to kubernetes cluster network.
@@ -2090,6 +2091,7 @@
 
 ## others 
 
+- [anthropics/anthropic-cli](https://github.com/anthropics/anthropic-cli) - 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named .localhost URLs. For humans and agents.
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
@@ -2807,6 +2809,8 @@
 
 ## terminal 
 
+- [johannesjo/parallel-code](https://github.com/johannesjo/parallel-code) - Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
