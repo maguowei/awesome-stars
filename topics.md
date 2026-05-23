@@ -243,6 +243,7 @@
 
 ## agent 
 
+- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering official style beginner tutorial, from 0 to 1
 - [nowledge-co/con-terminal](https://github.com/nowledge-co/con-terminal) - The Native Terminal Emulator with a builtin AI Harness
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
@@ -281,6 +282,7 @@
 
 ## ai 
 
+- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering official style beginner tutorial, from 0 to 1
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [iamzhihuix/skills-manage](https://github.com/iamzhihuix/skills-manage) - Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.
 - [mnfst/manifest](https://github.com/mnfst/manifest) - Smart Model Routing for Agents. Cut Costs up to 70% 🦚
@@ -338,7 +340,7 @@
 
 ## ai-agents 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
@@ -1133,7 +1135,7 @@
 
 ## generative-ai 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -1845,6 +1847,7 @@
 
 ## llm 
 
+- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering official style beginner tutorial, from 0 to 1
 - [peter123023/awesome-claude-api](https://github.com/peter123023/awesome-claude-api) - 收集和整理的可靠Claude中转API资源列表，帮助开发者快速找到稳定、高性价比的Claude API服务
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
@@ -2106,7 +2109,7 @@
 
 ## nextjs 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
@@ -2129,7 +2132,7 @@
 
 ## no-code 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -2236,7 +2239,6 @@
 
 ## others 
 
-- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering official style beginner tutorial, from 0 to 1
 - [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The programming language for agents
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
 - [nodes-app/swift-markdown-engine](https://github.com/nodes-app/swift-markdown-engine) - A native AppKit Markdown editor for macOS, built on TextKit 2 and bridged to SwiftUI.
