@@ -421,6 +421,7 @@
 
 ## Haskell 
 
+- [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) - Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
@@ -541,6 +542,7 @@
 
 ## Python 
 
+- [microsoft/Webwright](https://github.com/microsoft/Webwright) - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
@@ -573,6 +575,7 @@
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
@@ -739,8 +742,7 @@
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
@@ -925,6 +927,7 @@
 
 ## Vue 
 
+- [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) - 🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template l
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 
 ## Zig 
