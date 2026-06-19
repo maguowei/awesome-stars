@@ -180,6 +180,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [redux](#redux)
 - [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
@@ -2025,6 +2026,7 @@
 
 ## others 
 
+- [chenbstack/glint](https://github.com/chenbstack/glint) - A polished macOS terminal made for AI agents — SwiftUI + AppKit + Ghostty.
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [apple/coreai-models](https://github.com/apple/coreai-models) - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
@@ -2365,6 +2367,10 @@
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
+
+## redteam 
+
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
 ## redux 
 
