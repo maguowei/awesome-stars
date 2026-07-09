@@ -2047,7 +2047,7 @@
 - [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
 - [nodes-app/swift-markdown-engine](https://github.com/nodes-app/swift-markdown-engine) - A native AppKit Markdown editor for macOS, built on TextKit 2 and bridged to SwiftUI.
-- [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
+- [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps
 - [backnotprop/rig](https://github.com/backnotprop/rig) - 
 - [openai/openai-cli](https://github.com/openai/openai-cli) - Official CLI for the OpenAI API
 - [marsmay/UsageBoard](https://github.com/marsmay/UsageBoard) - macOS menu bar app for aggregating API usage quotas via plugin scripts
