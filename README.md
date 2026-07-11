@@ -412,7 +412,7 @@
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [openai/plugins](https://github.com/openai/plugins) - OpenAI Plugins
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
@@ -569,6 +569,7 @@
 
 ## Rust 
 
+- [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 - [microsoft/pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -649,6 +650,7 @@
 
 ## Swift 
 
+- [jcranokc/app-monitor](https://github.com/jcranokc/app-monitor) - Local-first macOS app usage, storage, cleanup, update, and uninstall monitor.
 - [athledev-labs/opennook](https://github.com/athledev-labs/opennook) - An open-source framework for building macOS notch apps.
 - [Dimillian/CodexSkillManager](https://github.com/Dimillian/CodexSkillManager) - macOS app to manage your Codex skills
 - [chenbstack/glint](https://github.com/chenbstack/glint) - A polished macOS terminal made for AI agents — SwiftUI + AppKit + Ghostty.
