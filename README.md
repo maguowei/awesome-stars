@@ -561,7 +561,7 @@
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -670,7 +670,7 @@
 
 ## TypeScript 
 
-- [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) - Open-source Reflect rewrite
+- [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) - Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) - AI coding jargon, explained in plain English.
 - [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
