@@ -125,7 +125,7 @@
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
-- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
+- [beclab/Olares](https://github.com/beclab/Olares) - Olares is an open-source personal cloud OS you operate in plain language, built to run AI agents and LLMs on hardware you own.
 - [googleapis/api-linter](https://github.com/googleapis/api-linter) - A linter for APIs defined in protocol buffers.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) - Automatic container image update for Argo CD
@@ -554,7 +554,6 @@
 - [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli) - 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding.
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
