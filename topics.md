@@ -1945,6 +1945,8 @@
 
 ## others 
 
+- [egoist/kero](https://github.com/egoist/kero) - A native terminal workspace for macOS.
+- [cloudflare/nimbus](https://github.com/cloudflare/nimbus) - Docs for humans and agents, built on Astro
 - [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop) - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [apple/foundation-models-utilities](https://github.com/apple/foundation-models-utilities) - Emerging and experimental patterns for building with the Foundation Models framework
