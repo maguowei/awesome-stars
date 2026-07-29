@@ -1946,6 +1946,7 @@
 
 ## others 
 
+- [openai/codex-security](https://github.com/openai/codex-security) - SDKs and CLI for Codex Security
 - [hahahumble/storageui](https://github.com/hahahumble/storageui) - ☁️ Open file browser for S3, R2, and other storage backends.
 - [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) - OpenMinis — The AI Agent app across platforms. Fully free and open source.
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
