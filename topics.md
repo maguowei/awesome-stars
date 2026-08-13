@@ -238,7 +238,7 @@
 
 - [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
 - [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) - Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
@@ -494,7 +494,7 @@
 
 - [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Op
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 ## chatbot 
@@ -505,7 +505,7 @@
 
 ## chatgpt 
 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -553,7 +553,7 @@
 - [ntd4996/agentpet](https://github.com/ntd4996/agentpet) - A desktop pet for macOS & Windows that monitors your AI coding agents (Claude Code, Codex, Cursor, Gemini...) in real time, and grows as you code, feed it tokens, level it up, climb the leaderboard.
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [ciembor/agent-rules-books](https://github.com/ciembor/agent-rules-books) - AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and DDIA programming books.
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 31 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
@@ -561,7 +561,6 @@
 - [marckrenn/claude-code-changelog](https://github.com/marckrenn/claude-code-changelog) - Tracking prompts, feature flags and metadata of Claude Code releases. Subscribe to ↓
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
-- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
@@ -581,7 +580,7 @@
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 31 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
@@ -836,7 +835,7 @@
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [ntd4996/agentpet](https://github.com/ntd4996/agentpet) - A desktop pet for macOS & Windows that monitors your AI coding agents (Claude Code, Codex, Cursor, Gemini...) in real time, and grows as you code, feed it tokens, level it up, climb the leaderboard.
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 31 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [AutoJunjie/awesome-agent-harness](https://github.com/AutoJunjie/awesome-agent-harness) - 
 - [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud Native Dev Environment that connects to kubernetes cluster network.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -1298,7 +1297,6 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
-- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -1659,7 +1657,7 @@
 
 ## llm 
 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) - 🧭 Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases covering distributed systems, AI-native systems, RAG, coding Agents, and production trade-
@@ -1962,7 +1960,7 @@
 ## openai 
 
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
@@ -2338,7 +2336,7 @@
 
 ## reinforcement-learning 
 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 
@@ -2444,7 +2442,7 @@
 ## self-hosted 
 
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) - Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
@@ -2547,7 +2545,7 @@
 
 ## stable-diffusion 
 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 
 ## statistics 
 
@@ -2653,7 +2651,7 @@
 ## text-to-speech 
 
 - [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
@@ -2707,7 +2705,7 @@
 
 ## ui 
 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
@@ -2726,7 +2724,7 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Op
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
