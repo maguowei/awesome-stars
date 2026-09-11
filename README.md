@@ -21,7 +21,6 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
-- [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -470,10 +469,6 @@
 
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 
-## PLpgSQL 
-
-- [microsoft/pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution
-
 ## Perl 
 
 - [shanleiguang/vRain](https://github.com/shanleiguang/vRain) - 中文古籍刻本風格直排電子書製作工具 Chinese Ancient eBooks Generator
@@ -579,6 +574,7 @@
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
+- [microsoft/pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli) - 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信
@@ -655,7 +651,7 @@
 
 ## Swift 
 
-- [fif7y/pelmet](https://github.com/fif7y/pelmet) - A calm menu bar for macOS 27. Hides the icons you don't need until you do.
+- [fif7y/pelmet](https://github.com/fif7y/pelmet) - A calm menu bar, done the native way. Hides the icons you don't need until you do.
 - [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) - See what is really inside macOS System Data and delete it, item by item, from the menu bar.
 - [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
 - [omacom/try-omarchy](https://github.com/omacom/try-omarchy) - Run Omarchy on MacOS without any setup.
@@ -756,7 +752,7 @@
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
