@@ -395,7 +395,7 @@
 
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) - External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
-- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A full-featured team chat system built on Cloudflare Workers, with public/private groups, DMs, realtime messaging, file uploads, and an admin dashboard.
+- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A modern, self-hosted team chat built on Cloudflare — realtime messaging, Telegram bridge, encrypted messages & files, and WebMCP. | 基于 Cloudflare 的现代自部署团队聊天系统：实时通信、Telegram 双向桥接、消息与文件加密，以及 WebMCP。
 - [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
@@ -653,8 +653,9 @@
 
 ## Swift 
 
+- [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
 - [fif7y/pelmet](https://github.com/fif7y/pelmet) - A calm menu bar, done the native way. Hides the icons you don't need until you do.
-- [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) - See what is really inside macOS System Data and delete it, item by item, from the menu bar.
+- [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) - See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.
 - [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
 - [omacom/try-omarchy](https://github.com/omacom/try-omarchy) - Run Omarchy on MacOS without any setup.
 - [termio-sh/termio](https://github.com/termio-sh/termio) - A terminal-first agentic development environment for agentic coding. Build for CLI/TUI agent. Runtime for Coding Agent,  Tmux alternative
@@ -786,7 +787,7 @@
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, a
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
