@@ -860,6 +860,7 @@
 
 ## developer-tools 
 
+- [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) - See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.
 - [eugenioenko/ttt](https://github.com/eugenioenko/ttt) - TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.
 - [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - Help AI coding agents write modern Go
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
@@ -1513,7 +1514,7 @@
 
 ## javascript 
 
-- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A full-featured team chat system built on Cloudflare Workers, with public/private groups, DMs, realtime messaging, file uploads, and an admin dashboard.
+- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A modern, self-hosted team chat built on Cloudflare — realtime messaging, Telegram bridge, encrypted messages & files, and WebMCP. | 基于 Cloudflare 的现代自部署团队聊天系统：实时通信、Telegram 双向桥接、消息与文件加密，以及 WebMCP。
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
@@ -1671,7 +1672,7 @@
 
 ## laravel 
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 
 ## latex 
 
@@ -1776,7 +1777,7 @@
 ## macos 
 
 - [fif7y/pelmet](https://github.com/fif7y/pelmet) - A calm menu bar, done the native way. Hides the icons you don't need until you do.
-- [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) - See what is really inside macOS System Data and delete it, item by item, from the menu bar.
+- [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) - See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.
 - [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
 - [omacom/try-omarchy](https://github.com/omacom/try-omarchy) - Run Omarchy on MacOS without any setup.
 - [termio-sh/termio](https://github.com/termio-sh/termio) - A terminal-first agentic development environment for agentic coding. Build for CLI/TUI agent. Runtime for Coding Agent,  Tmux alternative
@@ -1948,7 +1949,7 @@
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
@@ -2054,6 +2055,7 @@
 
 ## others 
 
+- [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
 - [itsbalamurali/gpui-mobile](https://github.com/itsbalamurali/gpui-mobile) - Mobile platform support for GPUI — iOS (wgpu/Metal) and Android (wgpu/Vulkan)
 - [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) - Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
 - [remorses/gpuix](https://github.com/remorses/gpuix) - Node.js & React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electron
@@ -2381,7 +2383,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
@@ -2521,7 +2523,7 @@
 
 ## self-hosted 
 
-- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A full-featured team chat system built on Cloudflare Workers, with public/private groups, DMs, realtime messaging, file uploads, and an admin dashboard.
+- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A modern, self-hosted team chat built on Cloudflare — realtime messaging, Telegram bridge, encrypted messages & files, and WebMCP. | 基于 Cloudflare 的现代自部署团队聊天系统：实时通信、Telegram 双向桥接、消息与文件加密，以及 WebMCP。
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
@@ -2550,7 +2552,7 @@
 
 ## serverless 
 
-- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A full-featured team chat system built on Cloudflare Workers, with public/private groups, DMs, realtime messaging, file uploads, and an admin dashboard.
+- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A modern, self-hosted team chat built on Cloudflare — realtime messaging, Telegram bridge, encrypted messages & files, and WebMCP. | 基于 Cloudflare 的现代自部署团队聊天系统：实时通信、Telegram 双向桥接、消息与文件加密，以及 WebMCP。
 - [AutoMQ/automq](https://github.com/AutoMQ/automq) - Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
@@ -2646,6 +2648,7 @@
 ## swift 
 
 - [fif7y/pelmet](https://github.com/fif7y/pelmet) - A calm menu bar, done the native way. Hides the icons you don't need until you do.
+- [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) - See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.
 - [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
 - [termio-sh/termio](https://github.com/termio-sh/termio) - A terminal-first agentic development environment for agentic coding. Build for CLI/TUI agent. Runtime for Coding Agent,  Tmux alternative
 - [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you
@@ -2685,7 +2688,7 @@
 ## swiftui 
 
 - [fif7y/pelmet](https://github.com/fif7y/pelmet) - A calm menu bar, done the native way. Hides the icons you don't need until you do.
-- [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) - See what is really inside macOS System Data and delete it, item by item, from the menu bar.
+- [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) - See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.
 - [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
 - [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you
 - [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers.
@@ -2703,14 +2706,14 @@
 
 ## tailwindcss 
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 
 ## telegram 
 
-- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A full-featured team chat system built on Cloudflare Workers, with public/private groups, DMs, realtime messaging, file uploads, and an admin dashboard.
+- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A modern, self-hosted team chat built on Cloudflare — realtime messaging, Telegram bridge, encrypted messages & files, and WebMCP. | 基于 Cloudflare 的现代自部署团队聊天系统：实时通信、Telegram 双向桥接、消息与文件加密，以及 WebMCP。
 
 ## telegram-bot 
 
@@ -2817,7 +2820,7 @@
 ## ui 
 
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
 
@@ -2915,7 +2918,7 @@
 
 ## xcode 
 
-- [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) - See what is really inside macOS System Data and delete it, item by item, from the menu bar.
+- [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) - See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.
 - [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
