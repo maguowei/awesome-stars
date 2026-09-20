@@ -482,6 +482,7 @@
 
 ## Python 
 
+- [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - A smarter, self-hosted AI assistant — multi-user, multi-agent.
 - [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) - Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 - [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build voice agents with open-source models
@@ -572,7 +573,7 @@
 - [tobi/walgit](https://github.com/tobi/walgit) - 
 - [RizRiyz/luvus](https://github.com/RizRiyz/luvus) - Mission control for your AI agents
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
-- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
