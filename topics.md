@@ -276,6 +276,7 @@
 
 ## agents 
 
+- [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [shadcn-labs/agentcn](https://github.com/shadcn-labs/agentcn) - shadcn/ui, but for building agents. 🤖
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
@@ -292,6 +293,7 @@
 
 ## ai 
 
+- [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
 - [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - A smarter, self-hosted AI assistant — multi-user, multi-agent.
 - [felinics/Memoh](https://github.com/felinics/Memoh) - ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
@@ -589,6 +591,7 @@
 
 ## claude-code 
 
+- [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [RizRiyz/luvus](https://github.com/RizRiyz/luvus) - Mission control for your AI agents
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 - [termio-sh/termio](https://github.com/termio-sh/termio) - A terminal-first agentic development environment for agentic coding. Build for CLI/TUI agent. Runtime for Coding Agent,  Tmux alternative
@@ -1538,7 +1541,7 @@
 
 ## javascript 
 
-- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A modern, self-hosted team chat built on Cloudflare — realtime messaging, Telegram bridge, encrypted messages & files, and WebMCP. | 基于 Cloudflare 的现代自部署团队聊天系统：实时通信、Telegram 双向桥接、消息与文件加密，以及 WebMCP。
+- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A modern, self-hosted team chat built on Cloudflare — realtime messaging, Telegram bridge, encrypted messages & files, and WebMCP. | 完全运行于 Cloudflare Worker的现代聊天系统：实时通信、Telegram 双向桥接、消息与文件加密，以及 WebMCP
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
@@ -1739,6 +1742,7 @@
 
 ## llm 
 
+- [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
@@ -1802,6 +1806,7 @@
 
 ## macos 
 
+- [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
 - [fif7y/pelmet](https://github.com/fif7y/pelmet) - A calm menu bar, done the native way. Hides the icons you don't need until you do.
 - [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) - See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.
@@ -2563,7 +2568,8 @@
 
 ## self-hosted 
 
-- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A modern, self-hosted team chat built on Cloudflare — realtime messaging, Telegram bridge, encrypted messages & files, and WebMCP. | 基于 Cloudflare 的现代自部署团队聊天系统：实时通信、Telegram 双向桥接、消息与文件加密，以及 WebMCP。
+- [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
+- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A modern, self-hosted team chat built on Cloudflare — realtime messaging, Telegram bridge, encrypted messages & files, and WebMCP. | 完全运行于 Cloudflare Worker的现代聊天系统：实时通信、Telegram 双向桥接、消息与文件加密，以及 WebMCP
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
@@ -2593,7 +2599,7 @@
 
 ## serverless 
 
-- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A modern, self-hosted team chat built on Cloudflare — realtime messaging, Telegram bridge, encrypted messages & files, and WebMCP. | 基于 Cloudflare 的现代自部署团队聊天系统：实时通信、Telegram 双向桥接、消息与文件加密，以及 WebMCP。
+- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A modern, self-hosted team chat built on Cloudflare — realtime messaging, Telegram bridge, encrypted messages & files, and WebMCP. | 完全运行于 Cloudflare Worker的现代聊天系统：实时通信、Telegram 双向桥接、消息与文件加密，以及 WebMCP
 - [AutoMQ/automq](https://github.com/AutoMQ/automq) - Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
@@ -2755,7 +2761,7 @@
 
 ## telegram 
 
-- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A modern, self-hosted team chat built on Cloudflare — realtime messaging, Telegram bridge, encrypted messages & files, and WebMCP. | 基于 Cloudflare 的现代自部署团队聊天系统：实时通信、Telegram 双向桥接、消息与文件加密，以及 WebMCP。
+- [aozorae/Edgechat](https://github.com/aozorae/Edgechat) - A modern, self-hosted team chat built on Cloudflare — realtime messaging, Telegram bridge, encrypted messages & files, and WebMCP. | 完全运行于 Cloudflare Worker的现代聊天系统：实时通信、Telegram 双向桥接、消息与文件加密，以及 WebMCP
 
 ## telegram-bot 
 
