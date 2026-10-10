@@ -40,7 +40,7 @@
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64 and arm64.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
@@ -95,6 +95,8 @@
 
 ## Go 
 
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
+- [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [egoist/mygo](https://github.com/egoist/mygo) - Develop desktop apps with a web frontend or native UI in Go
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI, AsyncAPI & JSON Schema linter, docs generator and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, a
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
@@ -126,7 +128,7 @@
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud Native Dev Environment that connects to kubernetes cluster network.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -167,7 +169,7 @@
 - [go-faker/faker](https://github.com/go-faker/faker) - Go (Golang) Fake Data Generator for Struct, previously https://github.com/bxcodec/faker
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
@@ -306,7 +308,6 @@
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
@@ -359,7 +360,6 @@
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -440,6 +440,7 @@
 
 ## Others 
 
+- [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 - [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) - Agent Plugins Specification v1.0.0 — A minimal standard for packaging agent extensions into distributable plugins
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
@@ -485,7 +486,7 @@
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [microsoft/CUAWright](https://github.com/microsoft/CUAWright) - A simple SWE style browser+desktop agent framework that achieves SOTA results on long horizon web tasks.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
-- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
+- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills AI assistants can run.
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents li
@@ -532,7 +533,6 @@
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
-- [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -552,6 +552,8 @@
 
 ## Rust 
 
+- [storytold/cadcraft](https://github.com/storytold/cadcraft) - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
+- [microsoft/mxc](https://github.com/microsoft/mxc) - Policy-driven, layered isolation and containment
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 - [reviu-dev/reviu](https://github.com/reviu-dev/reviu) - The review app for code your agent writes. Native Rust/GPUI desktop app with real Git workflows.
 - [JetSquirrel/cloudbridge](https://github.com/JetSquirrel/cloudbridge) - A cross-platform desktop application for multi-cloud cost management and visualization.
@@ -577,7 +579,7 @@
 - [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli) - 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - The unified toolchain and entry point for web development.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
-- [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box macOS terminal built for AI coding.
+- [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A blazing-fast Mac terminal, built for coding with AI.
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
@@ -604,7 +606,7 @@
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage.
@@ -638,7 +640,7 @@
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
@@ -672,7 +674,7 @@
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
 - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, distraction-free writing app to help you write great sentences.
 - [groue/GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
 - [danielsaidi/RichTextKit](https://github.com/danielsaidi/RichTextKit) - View and edit rich text in SwiftUI.
 - [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
@@ -701,6 +703,8 @@
 
 ## TypeScript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) - WebGPU components for React, Vue, Svelte, Solid, JS & Framer
 - [ThinkWatchProject/ThinkWatch-Lite](https://github.com/ThinkWatchProject/ThinkWatch-Lite) - Local gateway for Claude Code, Codex and other AI clients on macOS, Windows and Linux: switch upstreams without touching clients, keep API keys from relays, cut off malicious tool calls, trace every r
 - [shadcn-labs/pdfcn](https://github.com/shadcn-labs/pdfcn) - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.
 - [cloudflare/forge](https://github.com/cloudflare/forge) - 
