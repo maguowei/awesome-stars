@@ -15,6 +15,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Kotlin](#kotlin)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
@@ -319,6 +320,10 @@
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 number one JavaScript library for interactive maps 🇺🇦
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
+## Kotlin 
+
+- [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) - 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
+
 ## Makefile 
 
 - [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
@@ -401,6 +406,7 @@
 
 ## Rust 
 
+- [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework
 - [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) - Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
