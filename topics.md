@@ -38,6 +38,7 @@
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
+- [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
@@ -112,6 +113,7 @@
 - [jetpack-compose](#jetpack-compose)
 - [js](#js)
 - [json](#json)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -151,7 +153,6 @@
 - [powershell](#powershell)
 - [programming](#programming)
 - [programming-language](#programming-language)
-- [prompt-engineering](#prompt-engineering)
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
@@ -221,11 +222,9 @@
 ## agent 
 
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
-- [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
@@ -243,6 +242,7 @@
 
 ## agents 
 
+- [pgrundev/pgx](https://github.com/pgrundev/pgx) - PGX — Lightweight Postgres for AI agents. Written in Rust. Thousands of isolated databases in one runtime🐘
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
@@ -261,11 +261,9 @@
 - [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers.
 - [astaxie/TokenHub](https://github.com/astaxie/TokenHub) - TokenHub gives enterprises a private gateway to unify AI model access and governance, making every request controllable, traceable, and attributable.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
-- [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -299,9 +297,7 @@
 - [TanStack/ai](https://github.com/TanStack/ai) - 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.
 - [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
 - [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - Help AI coding agents write modern Go
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architecture software for AECO, scan-to-BIM. Agent-friendly, browser-first, MCP, CLI.
-- [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powe
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
@@ -468,7 +464,6 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [maguowei/code-manager](https://github.com/maguowei/code-manager) - code manager
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
@@ -483,7 +478,6 @@
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architecture software for AECO, scan-to-BIM. Agent-friendly, browser-first, MCP, CLI.
@@ -515,6 +509,10 @@
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
+
+## cms 
+
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 
 ## code 
 
@@ -633,6 +631,7 @@
 
 ## database 
 
+- [pgrundev/pgx](https://github.com/pgrundev/pgx) - PGX — Lightweight Postgres for AI agents. Written in Rust. Thousands of isolated databases in one runtime🐘
 - [manishrjain/egres](https://github.com/manishrjain/egres) - A Postgres Compatible Database for Heavy, Multi-Tenant Workloads
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -688,10 +687,10 @@
 - [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) - See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.
 - [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - Help AI coding agents write modern Go
 - [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) - Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
+- [tuist/tuist](https://github.com/tuist/tuist) - Tuist builds infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents. Shared cache, tests, and insights that sit alongside your existing CI.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
@@ -785,10 +784,11 @@
 
 - [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 
 ## elixir 
 
-- [tuist/tuist](https://github.com/tuist/tuist) - Less waiting, more shipping
+- [tuist/tuist](https://github.com/tuist/tuist) - Tuist builds infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents. Shared cache, tests, and insights that sit alongside your existing CI.
 
 ## embedded 
 
@@ -1048,7 +1048,7 @@
 
 ## gradle 
 
-- [tuist/tuist](https://github.com/tuist/tuist) - Less waiting, more shipping
+- [tuist/tuist](https://github.com/tuist/tuist) - Tuist builds infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents. Shared cache, tests, and insights that sit alongside your existing CI.
 
 ## graphql 
 
@@ -1100,7 +1100,6 @@
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
@@ -1203,7 +1202,6 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) - WebGPU components for React, Vue, Svelte, Solid, JS & Framer
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
-- [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -1238,6 +1236,10 @@
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+
+## knowledge-graph 
+
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
 
 ## kotlin 
 
@@ -1344,7 +1346,6 @@
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
-- [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
@@ -1363,7 +1364,6 @@
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
-- [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
@@ -1388,7 +1388,6 @@
 
 ## mac 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 ## machine-learning 
@@ -1412,7 +1411,6 @@
 - [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) - See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.
 - [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
 - [YTwsy/OpenSurge-for-Mac](https://github.com/YTwsy/OpenSurge-for-Mac) - Surge-style whole-home gateway and control plane for macOS with IPv4/IPv6 support— mihomo TUN, dnsmasq-powered DHCP/DNS, per-device routing, and an agent-friendly validation workspace.
-- [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
@@ -1443,12 +1441,12 @@
 
 ## mcp 
 
+- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) - WebGPU components for React, Vue, Svelte, Solid, JS & Framer
 - [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architecture software for AECO, scan-to-BIM. Agent-friendly, browser-first, MCP, CLI.
-- [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
@@ -1484,7 +1482,7 @@
 
 ## mobile 
 
-- [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
+- [e2e-inc/e2e](https://github.com/e2e-inc/e2e) - Next generation e2e testing framework for web and mobile apps.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 
 ## mongodb 
@@ -1583,10 +1581,10 @@
 
 ## open-source 
 
+- [pgrundev/pgx](https://github.com/pgrundev/pgx) - PGX — Lightweight Postgres for AI agents. Written in Rust. Thousands of isolated databases in one runtime🐘
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [rustrak/rustrak](https://github.com/rustrak/rustrak) - Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent traces in one small container that works with the Sentry SDKs. SQLite or PostgreSQL.
-- [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powe
@@ -1614,15 +1612,16 @@
 
 ## others 
 
+- [egoist/tinytraffic](https://github.com/egoist/tinytraffic) - self-host web analytics in a single binary
+- [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - An OpenTelemetry backend in a Docker container image
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
 - [InsaneArts/Scene](https://github.com/InsaneArts/Scene) - Native macOS app that gives your desktop, terminals, and editors one theme in one step. Inspired by Omarchy
 - [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) - 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 - [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework
 - [huacnlee/noop](https://github.com/huacnlee/noop) - 
-- [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) - Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.
+- [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) - Blazing-fast native notes app and rich-text editor for macOS, Windows, and Linux. Built with Rust + GPUI. Local-first and beautifully designed.
 - [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) - Towards a More Autonomous Agent System
-- [storytold/cadcraft](https://github.com/storytold/cadcraft) - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) - herdr desktop app
 - [unclebob/ub-mode](https://github.com/unclebob/ub-mode) - 
@@ -1750,6 +1749,7 @@
 
 ## postgresql 
 
+- [pgrundev/pgx](https://github.com/pgrundev/pgx) - PGX — Lightweight Postgres for AI agents. Written in Rust. Thousands of isolated databases in one runtime🐘
 - [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite.
 - [manishrjain/egres](https://github.com/manishrjain/egres) - A Postgres Compatible Database for Heavy, Multi-Tenant Workloads
 - [rustrak/rustrak](https://github.com/rustrak/rustrak) - Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent traces in one small container that works with the Sentry SDKs. SQLite or PostgreSQL.
@@ -1781,10 +1781,6 @@
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Language Core and API
 - [golang/go](https://github.com/golang/go) - The Go programming language
-
-## prompt-engineering 
-
-- [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 
 ## python 
 
@@ -1912,6 +1908,9 @@
 
 ## rust 
 
+- [pgrundev/pgx](https://github.com/pgrundev/pgx) - PGX — Lightweight Postgres for AI agents. Written in Rust. Thousands of isolated databases in one runtime🐘
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust
+- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 - [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite.
@@ -1924,8 +1923,6 @@
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [lakehq/sail](https://github.com/lakehq/sail) - Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
-- [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
@@ -2091,7 +2088,6 @@
 - [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers.
 - [LiYanan2004/MarkdownView](https://github.com/LiYanan2004/MarkdownView) - Display markdown content with SwiftUI.
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
 - [apple/swift-openapi-generator](https://github.com/apple/swift-openapi-generator) - Generate Swift client and server code from an OpenAPI document.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
@@ -2114,7 +2110,6 @@
 - [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers.
 - [LiYanan2004/MarkdownView](https://github.com/LiYanan2004/MarkdownView) - Display markdown content with SwiftUI.
 - [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
@@ -2135,7 +2130,6 @@
 
 - [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
@@ -2143,8 +2137,10 @@
 ## testing 
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+- [e2e-inc/e2e](https://github.com/e2e-inc/e2e) - Next generation e2e testing framework for web and mobile apps.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
+- [tuist/tuist](https://github.com/tuist/tuist) - Tuist builds infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents. Shared cache, tests, and insights that sit alongside your existing CI.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
@@ -2160,13 +2156,13 @@
 - [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
 ## typescript 
 
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite.
@@ -2176,7 +2172,6 @@
 - [shadcn-labs/pdfcn](https://github.com/shadcn-labs/pdfcn) - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
-- [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -2253,8 +2248,7 @@
 
 ## web 
 
-- [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
-- [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
+- [e2e-inc/e2e](https://github.com/e2e-inc/e2e) - Next generation e2e testing framework for web and mobile apps.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
@@ -2280,7 +2274,6 @@
 ## windows 
 
 - [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
-- [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
