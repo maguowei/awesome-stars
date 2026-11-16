@@ -66,7 +66,7 @@
 
 ## Go 
 
-- [egoist/asuka](https://github.com/egoist/asuka) - Write an app once in Go, it renders native UI widgets on macOS, Windows, Linux, iOS, Android and the Web
+- [egoist/asuka](https://github.com/egoist/asuka) - (experimental) Write an app once in Go, it renders native UI widgets on macOS, Windows, Linux, iOS, Android and the Web
 - [egoist/tinytraffic](https://github.com/egoist/tinytraffic) - self-host web analytics in a single binary
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
